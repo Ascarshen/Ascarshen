@@ -81,7 +81,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-
+Other   4 mins          █████████████░░░░░░░░░░░░   51.67 % 
+TeX     3 mins          ████████████░░░░░░░░░░░░░   48.33 % 
 ```
 <!--END_SECTION:waka-->
 
