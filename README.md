@@ -81,8 +81,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Haskell    11 mins         ███████████████████░░░░░░   76.16 % 
-Other      3 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.73 % 
+Other   2 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
