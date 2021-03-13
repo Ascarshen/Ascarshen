@@ -81,7 +81,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Other   2 mins          █████████████████████████   100.00 % 
+Other      1 hr 1 min      ███████████████░░░░░░░░░░   60.14 % 
+Haskell    39 mins         █████████▓░░░░░░░░░░░░░░░   38.47 % 
+Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 ```
 <!--END_SECTION:waka-->
 
