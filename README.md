@@ -81,8 +81,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Other     5 mins          █████████████████▓░░░░░░░   70.47 % 
-Haskell   2 mins          ███████▒░░░░░░░░░░░░░░░░░   29.53 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
