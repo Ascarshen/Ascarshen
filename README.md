@@ -81,7 +81,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Other   59 mins         █████████████████████████   100.00 % 
+Other   1 hr 4 mins     ████████████████████████▒   96.80 % 
+Java    2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 ```
 <!--END_SECTION:waka-->
 
