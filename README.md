@@ -81,10 +81,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Other        6 hrs 17 mins   ███████████████░░░░░░░░░░   59.54 % 
-PowerShell   2 hrs 36 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.70 % 
-Python       1 hr 32 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Assembly     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Other        4 hrs 39 mins   ████████████████▒░░░░░░░░   65.04 % 
+Python       1 hr 27 mins    █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
+PowerShell   1 hr            ███▓░░░░░░░░░░░░░░░░░░░░░   14.12 % 
 ```
 <!--END_SECTION:waka-->
 
