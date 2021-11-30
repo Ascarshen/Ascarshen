@@ -81,8 +81,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Other        2 hrs 1 min     ███████████████▒░░░░░░░░░   60.92 % 
-Python       1 hr 17 mins    █████████▓░░░░░░░░░░░░░░░   38.85 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
