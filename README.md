@@ -81,8 +81,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Other   15 mins         ███████████████░░░░░░░░░░   59.86 % 
-XML     10 mins         ██████████░░░░░░░░░░░░░░░   40.14 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
