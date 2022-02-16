@@ -81,12 +81,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 6 hrs 19 mins
+Total: 4 hrs 9 mins
 
-Python    6 hrs 4 mins    ███████████████░░░░░░░░░░   59.81 % 
-Other     3 hrs 49 mins   █████████▒░░░░░░░░░░░░░░░   37.68 % 
-Arduino   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-JSON      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Python   4 hrs 6 mins    ███████████████▒░░░░░░░░░   61.64 % 
+Other    2 hrs 31 mins   █████████▒░░░░░░░░░░░░░░░   37.75 % 
+JSON     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 ```
 <!--END_SECTION:waka-->
 
