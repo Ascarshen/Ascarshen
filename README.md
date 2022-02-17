@@ -81,11 +81,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 4 hrs 9 mins
+Total: 3 hrs 48 mins
 
-Python   4 hrs 6 mins    ███████████████▒░░░░░░░░░   61.64 % 
-Other    2 hrs 31 mins   █████████▒░░░░░░░░░░░░░░░   37.75 % 
-JSON     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Python   3 hrs 46 mins   ██████████████░░░░░░░░░░░   55.67 % 
+Other    2 hrs 58 mins   ███████████░░░░░░░░░░░░░░   43.82 % 
+JSON     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 ```
 <!--END_SECTION:waka-->
 
