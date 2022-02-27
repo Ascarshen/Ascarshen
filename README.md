@@ -80,11 +80,12 @@
 #### :bar_chart: Weekly development breakdown
 
 <!--START_SECTION:waka-->
+
 ```text
-Other     18 mins         ████████████████▒░░░░░░░░   65.22 % 
-Arduino   8 mins          ███████▓░░░░░░░░░░░░░░░░░   30.85 % 
-Python    1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+Python     1 hr 14 mins    ████████████████▓░░░░░░░░   66.14 %
+Other      28 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.05 %
 ```
+
 <!--END_SECTION:waka-->
 
 
