@@ -134,10 +134,14 @@
 
 <!--START_SECTION:waka-->
 
-```text
-No activity tracked
-
+```txt
+Docker       49 mins         ██████████████▓░░░░░░░░░░   58.23 %
+Rust         13 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.63 %
+PowerShell   11 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.87 %
+Cuda         5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
+Other        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
 ```
+
 <!--END_SECTION:waka-->
 --- 
 
