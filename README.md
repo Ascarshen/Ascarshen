@@ -11,7 +11,7 @@
 
 ---
 <!-- START_SECTION:daily_motto -->
-
+"We are now able to create virtual realities on computers. Are we all living in one created by someone in the future?" — Greg Fitzsimmons
 <!-- END_SECTION:daily_motto -->
 ---
 ## 📊 GitHub Stats
