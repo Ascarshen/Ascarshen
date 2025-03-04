@@ -1,91 +1,143 @@
-<h1 align="center">Hi, Ke Shen here 🤗! </h1>
-<h4 align="center">"Someone want to do something"</h4>
+## 🚀 Who am I？
+<img align="right" alt="Hello World" width="30%" src="https://miro.medium.com/v2/resize:fit:1080/1*gtRsUj9T6r6WEFz_J3FUpA.gif">
+
+- 👨‍💻 ~~Geek~~/~~Hacker~~/~~Engineer~~/~~Scientist~~ 
+- 🙇 Just a stupid **Student**.
+- 💁 English name is **Ascar**. 
+- 🤷 Why not Oscar?
+- 🙆 According to lexicographic order
+- 🤦 "A" makes me ranked **top** of ur contact list.
+- 😊 Yea, it's me, a **maverick** and **funny** guy.
+
+---
+<!-- START_SECTION:daily_motto -->
+
+<!-- END_SECTION:daily_motto -->
+---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img alt="Ascar's GitHub Stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=Ascarshen&count_private=true&show_icons=true&theme=radical">
+  <img alt="Ascar's Top Languages" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ascarshen&layout=compact&theme=radical">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ascarshen&theme=radical" alt="Ascar's GitHub Streak">
+</p>
+
+---
+<!-- ### 🌟 GitHub Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ascarshen&theme=github-dark">
+</p>
+
+--- -->
+
+### 📈 GitHub Activity Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ascarshen&theme=radical">
+</p>
 
 ---
 
 
+## 🛠️ Skills & Tech Stack
+#### Programming & Scripting Languages
+<p>
+  <img src="https://img.shields.io/badge/-C++-00599C?logo=C%2B%2B&logoColor=FFF" alt="C++" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-CUDA-76B900?logo=NVIDIA&logoColor=FFF" alt="CUDA" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=FFF" alt="Python" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Rust-000000?logo=Rust&logoColor=FFF" alt="Rust" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-OCaml-EC6813?logo=OCaml&logoColor=FFF" alt="OCaml" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Haskell-5D4F85?logo=Haskell&logoColor=FFF" alt="Haskell" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Scala-DC322F?logo=Scala&logoColor=FFF" alt="Scala" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Verilog-0173BC" alt="Verilog" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=FFF" alt="Java" style="display: inline-block;" />&nbsp;
+</p>
+#### Formal Verification & Theorem Provers
+<p>
+  <img src="https://img.shields.io/badge/-TLA+-00599C" alt="TLA+" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Coq-A41623" alt="Coq" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Lean-28529D" alt="Lean" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Isabelle-8A2BE2" alt="Isabelle" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Agda-9C27B0" alt="Agda" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-NuSMV-3E7C17" alt="NuSMV" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Z3-FF4500" alt="Z3" style="display: inline-block;" />&nbsp;
+</p>
 
-<h3>Who am I？</h3>
-<img align="right" alt="Hello World" width="30%" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif">
-
-- 👨‍💻 ~~Geek~~/~~Hacker~~/~~Engineer~~/~~Scientist~~ 
-- 🙇 Just a stupid **Computer Science Student**.
-- 💁 English name is **Ascar**. 
-- 🤷 Why not Oscar?
-- 🙆 According to lexicographic order, 
-- 🤦 "A" makes me ranked **top** of ur contact list.
-- 😊 Yea, its me, a **maverick** and **funny** guy
-
-
-
-
-<h3>My github stats</h3>
-
-<img align="left" alt="Ascar's top language" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ascarshen&layout=compact&show_icons=true">
-<img align="left" alt="Ascar's github stat" width="50%" src="https://github-readme-stats.vercel.app/api?username=Ascarshen&count_private=true">
-
-
-
-<h3>Where to find me</h3>
-<p><a href="https://github.com/Ascarshen" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a></a> <a href="https://www.linkedin.com/in/shen-ke-ascsr-8689101a3/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
- <a href="mailto:ascarshen@gmail.com">
- <img alt="Email" src="https://img.shields.io/badge/Email-D14836?&style=for-the-badge&logo=Gmail&logoColor=white" />
- </a>
+#### Backend & Cloud
+<p>
+  <img src="https://img.shields.io/badge/-Kubernetes-3069DE?logo=kubernetes&logoColor=FFF" alt="Kubernetes" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=FFF" alt="SQLite" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Bevy-232326?logo=bevy&logoColor=FFF" alt="Bevy" style="display: inline-block;" />&nbsp;
+    <img src="https://img.shields.io/badge/-FastAPI-009688?logo=FastAPI&logoColor=FFF" alt="FastAPI" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-CMake-064F8C?logo=cmake&logoColor=FFF" alt="CMake" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-ngrok-140648?logo=Ngrok&logoColor=FFF" alt="ngrok" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-ROS-22314E?logo=ROS&logoColor=FFF" alt="ROS" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=FFF" alt="Go" style="display: inline-block;" />&nbsp;
+   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=FFF" alt="Docker" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=FFF" alt="Git" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=000" alt="Linux" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-GDB-9932CC" alt="GDB" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-LLVM-3A3A3A" alt="LLVM" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Vim-019733?logo=Vim&logoColor=FFF" alt="Vim" style="display: inline-block;" />&nbsp;
 </p>
 
 
-<br/>
-<br/>
-<!--
-<hr>
-
-<h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
-
-<p align="center">
-  <code><img title="C" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
-  <code><img title="C++" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cSharp.svg"></code>
-  <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python.svg"></code>
-  <code><img title="Django" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/django.svg"></code>
-  <code><img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
-  <code><img title="SASS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/sass.svg"></code>
-  <code><img title="AngularJS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/angularjs.svg"></code>
-  <code><img title=".NetCore" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/dotnetcore.svg"></code>
-  <code><img title="JQuery" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/jquery.svg"></code>
-  <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java.svg"></code>
-  <code><img title="JSON" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/json.svg"></code>
-  <code><img title="Unity" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/unity.svg"></code>
+#### AI & Data
+<p>
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=PyTorch&logoColor=FFF" alt="PyTorch" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&logoColor=FFF" alt="TensorFlow" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-JAX-00599C" alt="JAX" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=FFF" alt="MATLAB" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?logo=Scikit-Learn&logoColor=FFF" alt="Scikit-Learn" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Keras-D00000?logo=Keras&logoColor=FFF" alt="Keras" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-ONNX-005CED?logo=ONNX&logoColor=FFF" alt="ONNX" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-NVIDIA_Triton-76B900?logo=NVIDIA&logoColor=FFF" alt="NVIDIA Triton" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Hugging_Face-FFAE00?logo=HuggingFace&logoColor=FFF" alt="Hugging Face" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Ray-FF5500?logo=Ray&logoColor=FFF" alt="Ray" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-LangChain-5B21B6?logo=LangChain&logoColor=FFF" alt="LangChain" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Dask-CC2936?logo=Dask&logoColor=FFF" alt="Dask" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Apache_Spark-E25A1C?logo=Apache-Spark&logoColor=FFF" alt="Apache Spark" style="display: inline-block;" />&nbsp;
 </p>
 
-<hr>-->
 
+#### Cybersecurity & Penetration Testing
+<p>
+  <img src="https://img.shields.io/badge/-Burp_Suite-FF6600" alt="Burp Suite" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Metasploit-008080" alt="Metasploit" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Wireshark-1679B7" alt="Wireshark" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-nmap-2E8B57" alt="nmap" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-IDA_Pro-5A5A5A" alt="IDA Pro" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Kali_Linux-557C94?logo=Kali-Linux&logoColor=FFF" alt="Kali Linux" style="display: inline-block;" />&nbsp;
+</p>
 
-**Languages and Tools:** 
+---
 
-![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
-![Spring](https://img.shields.io/badge/-Spring%20Framework-black?logo=spring&style=social)&nbsp;&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
-![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
-![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery&style=social)&nbsp;&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
-![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
-![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
+## 📍 Where to find me
+<p>
+  <a href="https://github.com/Ascarshen" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=FFF" alt="GitHub" style="display: inline-block;" />&nbsp;
+  </a>
+  <a href="https://www.linkedin.com/in/shen-ke-ascsr-8689101a3/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=FFF" alt="LinkedIn" style="display: inline-block;" />&nbsp;
+  </a>
+  <a href="mailto:ascarshen@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=FFF" alt="Email" style="display: inline-block;" />&nbsp;
+  </a>
+</p>
 
-#### :bar_chart: Weekly development breakdown
+---
+
+## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
 
 ```text
 No activity tracked
+
 ```
-
 <!--END_SECTION:waka-->
+--- 
 
-
-![](https://img.shields.io/badge/Ascar-passing-green)
