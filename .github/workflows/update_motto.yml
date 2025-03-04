@@ -24,7 +24,7 @@ jobs:
         pip install requests beautifulsoup4
 
     - name: Update README
-      run: python update_quote.py
+      run: python updatemotto.py
 
     - name: Commit changes
       run: |
