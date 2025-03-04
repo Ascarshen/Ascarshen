@@ -1,5 +1,5 @@
 ## 🚀 Who am I？
-<img align="right" alt="Hello World" width="30%" src="https://miro.medium.com/v2/resize:fit:1080/1*gtRsUj9T6r6WEFz_J3FUpA.gif">
+<img align="right" alt="Hello World" width="19%" src="https://miro.medium.com/v2/resize:fit:1080/1*gtRsUj9T6r6WEFz_J3FUpA.gif">
 
 - 👨‍💻 ~~Geek~~/~~Hacker~~/~~Engineer~~/~~Scientist~~ 
 - 🙇 Just a stupid **Student**.
