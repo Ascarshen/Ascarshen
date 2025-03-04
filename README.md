@@ -10,8 +10,9 @@
 - 😊 Yea, it's me, a **maverick** and **funny** guy.
 
 ---
+## 📅 Daily Quota
 <!-- START_SECTION:daily_motto -->
-
+"More and more software would just increase the number of tasks that the computer would help solve." — Bill Gates
 <!-- END_SECTION:daily_motto -->
 ---
 ## 📊 GitHub Stats
