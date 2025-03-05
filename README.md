@@ -15,10 +15,10 @@
 <!-- END_SECTION:daily_motto -->
 
 ## 🏛️ Sanctuary of Intellect
-<!-- START_SECTION:map -->
-UCLA，(34.0689, -118.4452)
-Update time: 2025-03-05 19:55:30![location](map.png)
-<!-- END_SECTION:map -->
+### National Museum of Art (Osaka)(34.702, 135.4958)
+Update time: 2025-03-05 14:37:04  
+![location](map.png)
+
 
 <!--## 📊 GitHub Stats
 
