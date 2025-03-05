@@ -15,7 +15,7 @@ def update_readme(location, current_time, image_path="map.png"):
     with open('README.md', 'r', encoding='utf-8') as f:
         content = f.read()
     pattern = r"(<!-- START_SECTION:map -->)(.*?)(<!-- END_SECTION:map -->)"
-    replacement = f"### {location}\nUpdate time: {current_time}  \n![location]({image_path})\n\3"
+    replacement = f"### {location}\nUpdate time: {current_time}  \n![location]({image_path})\n"
     updated_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
     with open('README.md', 'w', encoding='utf-8') as f:
         f.write(updated_content)
