@@ -9,13 +9,17 @@
 - 🤦 "A" makes me ranked **top** of ur contact list.
 - 😊 Yea, it's me, a **maverick** and **funny** guy.
 
----
 ## 📅 Daily Quota
 <!-- START_SECTION:daily_motto -->
 "More and more software would just increase the number of tasks that the computer would help solve." — Bill Gates
 <!-- END_SECTION:daily_motto -->
----
-## 📊 GitHub Stats
+
+## 🏛️ Sanctuary of Intellect
+<!--END_SECTION:waka-->
+UCLA，(34.0689, -118.4452)
+ Update time: 2025-03-05 19:55:30![location](map.png)
+<!-- END_SECTION:map -->
+<!--## 📊 GitHub Stats
 
 <p align="center">
   <img alt="Ascar's GitHub Stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=Ascarshen&count_private=true&show_icons=true&theme=radical">
@@ -39,11 +43,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ascarshen&theme=radical">
 </p>
 
----
 
 
 ## 🛠️ Skills & Tech Stack
-#### Programming & Scripting Languages
+<details>
+<summary>📚 Programming & Scripting Languages</summary>
 <p>
   <img src="https://img.shields.io/badge/-C++-00599C?logo=C%2B%2B&logoColor=FFF" alt="C++" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-CUDA-76B900?logo=NVIDIA&logoColor=FFF" alt="CUDA" style="display: inline-block;" />&nbsp;
@@ -55,7 +59,10 @@
   <img src="https://img.shields.io/badge/-Verilog-0173BC" alt="Verilog" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=FFF" alt="Java" style="display: inline-block;" />&nbsp;
 </p>
-#### Formal Verification & Theorem Provers
+</details>
+
+<details>
+<summary>🔍 Formal Verification & Theorem Provers</summary>
 <p>
   <img src="https://img.shields.io/badge/-TLA+-00599C" alt="TLA+" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-Coq-A41623" alt="Coq" style="display: inline-block;" />&nbsp;
@@ -65,32 +72,35 @@
   <img src="https://img.shields.io/badge/-NuSMV-3E7C17" alt="NuSMV" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-Z3-FF4500" alt="Z3" style="display: inline-block;" />&nbsp;
 </p>
+</details>
 
-#### Backend & Cloud
+<details>
+<summary>☁️ Backend & Cloud</summary>
 <p>
   <img src="https://img.shields.io/badge/-Kubernetes-3069DE?logo=kubernetes&logoColor=FFF" alt="Kubernetes" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=FFF" alt="SQLite" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-Bevy-232326?logo=bevy&logoColor=FFF" alt="Bevy" style="display: inline-block;" />&nbsp;
-    <img src="https://img.shields.io/badge/-FastAPI-009688?logo=FastAPI&logoColor=FFF" alt="FastAPI" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-FastAPI-009688?logo=FastAPI&logoColor=FFF" alt="FastAPI" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-CMake-064F8C?logo=cmake&logoColor=FFF" alt="CMake" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-ngrok-140648?logo=Ngrok&logoColor=FFF" alt="ngrok" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-ROS-22314E?logo=ROS&logoColor=FFF" alt="ROS" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=FFF" alt="Go" style="display: inline-block;" />&nbsp;
-   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=FFF" alt="Docker" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=FFF" alt="Docker" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=FFF" alt="Git" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=000" alt="Linux" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-GDB-9932CC" alt="GDB" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-LLVM-3A3A3A" alt="LLVM" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-Vim-019733?logo=Vim&logoColor=FFF" alt="Vim" style="display: inline-block;" />&nbsp;
 </p>
+</details>
 
-
-#### AI & Data
+<details>
+<summary>🤖 AI & Data</summary>
 <p>
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=PyTorch&logoColor=FFF" alt="PyTorch" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&logoColor=FFF" alt="TensorFlow" style="display: inline-block;" />&nbsp;
-  <img src="https://img.shields.io/badge/-JAX-00599C" alt="JAX" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-JAX-00599C?logo=JAX&logoColor=FFF" alt="JAX" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=FFF" alt="MATLAB" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?logo=Scikit-Learn&logoColor=FFF" alt="Scikit-Learn" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-Keras-D00000?logo=Keras&logoColor=FFF" alt="Keras" style="display: inline-block;" />&nbsp;
@@ -102,19 +112,20 @@
   <img src="https://img.shields.io/badge/-Dask-CC2936?logo=Dask&logoColor=FFF" alt="Dask" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-Apache_Spark-E25A1C?logo=Apache-Spark&logoColor=FFF" alt="Apache Spark" style="display: inline-block;" />&nbsp;
 </p>
+</details>
 
-
-#### Cybersecurity & Penetration Testing
+<details>
+<summary>🔐 Cybersecurity & Penetration Testing</summary>
 <p>
-  <img src="https://img.shields.io/badge/-Burp_Suite-FF6600" alt="Burp Suite" style="display: inline-block;" />&nbsp;
-  <img src="https://img.shields.io/badge/-Metasploit-008080" alt="Metasploit" style="display: inline-block;" />&nbsp;
-  <img src="https://img.shields.io/badge/-Wireshark-1679B7" alt="Wireshark" style="display: inline-block;" />&nbsp;
-  <img src="https://img.shields.io/badge/-nmap-2E8B57" alt="nmap" style="display: inline-block;" />&nbsp;
-  <img src="https://img.shields.io/badge/-IDA_Pro-5A5A5A" alt="IDA Pro" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Burp_Suite-FF6600?logo=Burp-Suite&logoColor=FFF" alt="Burp Suite" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Metasploit-008080?logo=Metasploit&logoColor=FFF" alt="Metasploit" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Wireshark-1679B7?logo=Wireshark&logoColor=FFF" alt="Wireshark" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-nmap-2E8B57?logo=nmap&logoColor=FFF" alt="nmap" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-IDA_Pro-5A5A5A?logo=IDA-Pro&logoColor=FFF" alt="IDA Pro" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-Kali_Linux-557C94?logo=Kali-Linux&logoColor=FFF" alt="Kali Linux" style="display: inline-block;" />&nbsp;
 </p>
+</details>
 
----
 
 ## 📍 Where to find me
 <p>
@@ -127,9 +138,15 @@
   <a href="mailto:ascarshen@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=FFF" alt="Email" style="display: inline-block;" />&nbsp;
   </a>
+  <a href="https://discord.com/users/ascar66" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=FFF" alt="Discord" style="display: inline-block;" />&nbsp;
+  </a>
+  <a href="https://join.slack.com/t/ascarshen/shared_invite/zt-xyz12345" target="_blank">
+    <img src="https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=FFF" alt="Slack" style="display: inline-block;" />&nbsp;
+  </a>
 </p>
 
----
+
 
 ## 📊 Weekly Development Breakdown
 
@@ -143,6 +160,4 @@ Cuda         5 mins          █▓░░░░░░░░░░░░░░░
 Other        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
 ```
 
-<!--END_SECTION:waka-->
---- 
 

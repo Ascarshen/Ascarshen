@@ -1,0 +1,41 @@
+name: Update Map README
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'  
+  workflow_dispatch:        
+
+jobs:
+  update-map:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install networkx osmnx matplotlib pandas
+        
+    - name: Run update script
+      run: python updatemap.py  
+      
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add README.md map.png
+        git commit -m "Update map and README for ${LOCATION}" || echo "No changes to commit"
+        git push
+      env:
+        LOCATION: ${{ env.LOCATION_TEXT }}  
+        
+    - name: Set environment variable
+      run: |
+        echo "LOCATION_TEXT=$(python update_map.py --get-location)" >> $GITHUB_ENV
