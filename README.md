@@ -12,7 +12,7 @@
 ---
 ## 📅 Daily Quota
 <!-- START_SECTION:daily_motto -->
-"More and more software would just increase the number of tasks that the computer would help solve." — Bill Gates
+"If our hearts and minds are not properly transformed, we are like musicians playing untuned instruments, or engineers working with broken and ill-programmed computers. The attunement of the heart is essential to the outflow of grace...We must aim at building the structures of God's kingdom but recognized that we will only create these through the transformation of our experience. Concentration on reformation without revival leads to skins without wine; concentration on revival without reformation soon loses the wine for want of skins." — Richard Lovelace
 <!-- END_SECTION:daily_motto -->
 ---
 ## 📊 GitHub Stats
