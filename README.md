@@ -15,10 +15,10 @@
 <!-- END_SECTION:daily_motto -->
 
 ## 🏛️ Sanctuary of Intellect
-### National Museum of Art (Osaka)(34.702, 135.4958)
-Update time: 2025-03-05 14:37:04  
+### Kyoto National Museum(34.9874, 135.7629)
+Update time: 2025-03-06 00:45:54  
 ![location](map.png)
-
+
 
 <!--## 📊 GitHub Stats
 

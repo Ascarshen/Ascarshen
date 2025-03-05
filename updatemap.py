@@ -14,9 +14,20 @@ logger = logging.getLogger("osmnx")
 def update_readme(location, current_time, image_path="map.png"):
     with open('README.md', 'r', encoding='utf-8') as f:
         content = f.read()
+    
+
+    content = content.rstrip('\x03')
+    
     pattern = r"(<!-- START_SECTION:map -->)(.*?)(<!-- END_SECTION:map -->)"
     replacement = f"### {location}\nUpdate time: {current_time}  \n![location]({image_path})\n"
     updated_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
+    
+
+    if content == updated_content:
+        logger.warning("README content was not changed")
+    else:
+        logger.info("README content was successfully updated")
+    
     with open('README.md', 'w', encoding='utf-8') as f:
         f.write(updated_content)
 
@@ -44,7 +55,7 @@ def try_generate_map(locations, distance):
             logger.info(f"Graph loaded: {len(G.nodes)} nodes, {len(G.edges)} edges")
         except Exception as e:
             logger.error(f"Failed to load graph: {e}")
-            continue  # 如果失败，跳到下一次循环
+            continue  
 
         
         if category == "universities":

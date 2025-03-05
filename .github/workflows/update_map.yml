@@ -38,7 +38,7 @@ jobs:
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add README.md map.png
-        git commit -m "Update map and README for ${{ env.LOCATION }}" || echo "No changes to commit"
-        git push origin master  # 直接推送，假设没有冲突
+        git diff --cached --quiet || git commit -m "Update map and README for ${{ env.LOCATION }}"
+        git push origin master
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
