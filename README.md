@@ -11,7 +11,7 @@
 
 ## 📅 Daily Quota
 <!-- START_SECTION:daily_motto -->
-"More and more software would just increase the number of tasks that the computer would help solve." — Bill Gates
+"If our hearts and minds are not properly transformed, we are like musicians playing untuned instruments, or engineers working with broken and ill-programmed computers. The attunement of the heart is essential to the outflow of grace...We must aim at building the structures of God's kingdom but recognized that we will only create these through the transformation of our experience. Concentration on reformation without revival leads to skins without wine; concentration on revival without reformation soon loses the wine for want of skins." — Richard Lovelace
 <!-- END_SECTION:daily_motto -->
 
 ## 🏛️ Sanctuary of Intellect
@@ -153,11 +153,11 @@ UCLA，(34.0689, -118.4452)
 <!--START_SECTION:waka-->
 
 ```txt
-Docker       49 mins         ██████████████▓░░░░░░░░░░   58.23 %
-Rust         13 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.63 %
-PowerShell   11 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.87 %
-Cuda         5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
-Other        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+Markdown     2 hrs 58 mins   ████████████▓░░░░░░░░░░░░   50.14 %
+Python       1 hr 15 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.21 %
+Docker       49 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
+YAML         20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
+Rust         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
 ```
 
 
