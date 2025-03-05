@@ -15,10 +15,11 @@
 <!-- END_SECTION:daily_motto -->
 
 ## 🏛️ Sanctuary of Intellect
-<!--END_SECTION:waka-->
+<!-- START_SECTION:map -->
 UCLA，(34.0689, -118.4452)
- Update time: 2025-03-05 19:55:30![location](map.png)
+Update time: 2025-03-05 19:55:30![location](map.png)
 <!-- END_SECTION:map -->
+
 <!--## 📊 GitHub Stats
 
 <p align="center">
@@ -160,4 +161,4 @@ YAML         20 mins         █▒░░░░░░░░░░░░░░░
 Rust         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
 ```
 
-
+<!--END_SECTION:waka-->
