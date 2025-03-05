@@ -2,8 +2,8 @@ name: Update Map README
 
 on:
   schedule:
-    - cron: '*/10 * * * *' 
-  workflow_dispatch:       
+    - cron: '*/10 * * * *'
+  workflow_dispatch:     # 保留手动触发选项
 
 jobs:
   update-map:
@@ -23,21 +23,22 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install networkx osmnx matplotlib pandas
+        pip install networkx osmnx matplotlib geopandas
         
     - name: Run update script and capture location
       id: run-script
       run: |
-        python updatemap.py
-        LOCATION=$(python updatemap.py --get-location)
+        python updatemap.py > output.log 2>&1 || (cat output.log && exit 1)
+        LOCATION=$(grep "README updated with" output.log | tail -1 | awk '{print $NF}')
         echo "LOCATION=$LOCATION" >> $GITHUB_ENV
-        
+      continue-on-error: false 
+
     - name: Commit and push changes
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add README.md map.png
         git commit -m "Update map and README for ${{ env.LOCATION }}" || echo "No changes to commit"
-        git fetch origin
-        git pull --rebase origin master 
-        git push origin master
+        git push origin master  # 直接推送，假设没有冲突
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
