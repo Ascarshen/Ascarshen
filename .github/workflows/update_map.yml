@@ -3,7 +3,6 @@ name: Update Map README
 on:
   schedule:
     - cron: '*/10 * * * *'  
-  workflow_dispatch:        
 
 jobs:
   update-map:
@@ -24,7 +23,7 @@ jobs:
         pip install networkx osmnx matplotlib pandas
         
     - name: Run update script
-      run: python updatemap.py  
+      run: python update_map.py
       
     - name: Commit and push changes
       run: |
@@ -32,9 +31,10 @@ jobs:
         git config --local user.name "github-actions[bot]"
         git add README.md map.png
         git commit -m "Update map and README for ${LOCATION}" || echo "No changes to commit"
+        git pull --rebase  
         git push
       env:
-        LOCATION: ${{ env.LOCATION_TEXT }}  
+        LOCATION: ${{ env.LOCATION_TEXT }}
         
     - name: Set environment variable
       run: |

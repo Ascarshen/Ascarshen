@@ -31,7 +31,7 @@ center_lat, center_lon = place["lat"], place["lon"]
 location_text = f"{place_name}({center_lat}, {center_lon})"
 current_time = ox.utils.ts()
 
-distance = 1500
+distance = 1000
 
 G = ox.graph_from_point((center_lat, center_lon), dist=distance, network_type='drive', truncate_by_edge=True)
 
