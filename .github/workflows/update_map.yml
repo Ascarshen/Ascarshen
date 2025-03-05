@@ -28,8 +28,8 @@ jobs:
     - name: Run update script and capture location
       id: run-script
       run: |
-        python update_map.py
-        LOCATION=$(python update_map.py --get-location)
+        python updatemap.py
+        LOCATION=$(python updatemap.py --get-location)
         echo "LOCATION=$LOCATION" >> $GITHUB_ENV
         
     - name: Commit and push changes
