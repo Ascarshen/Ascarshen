@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Tate Modern(51.5076, -0.0994), Category: art_galleries
-INFO:osmnx:Graph loaded: 902 nodes, 1871 edges
+INFO:osmnx:Trying: National Museum of Contemporary Art (Athens)(37.9942, 23.7328), Category: art_galleries
+INFO:osmnx:Graph loaded: 1109 nodes, 2056 edges
 INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 3007
-INFO:osmnx:Related features found: 3011
+INFO:osmnx:Buildings found: 8097
+INFO:osmnx:Related features found: 8105
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Tate Modern(51.5076, -0.0994)
+INFO:osmnx:README updated with National Museum of Contemporary Art (Athens)(37.9942, 23.7328)
