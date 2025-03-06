@@ -17,12 +17,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Belvedere Museum(48.1915, 16.3808)
+### University of Edinburgh(55.9474, -3.1872)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741285055)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-06 18:14:33(UTC) [^1] 
+Update time: 2025-03-06 18:37:52(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
