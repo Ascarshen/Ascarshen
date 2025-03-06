@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: National Gallery of Canada(45.4295, -75.6989), Category: art_galleries
-INFO:osmnx:Graph loaded: 284 nodes, 595 edges
+INFO:osmnx:Trying: Reina Sofia Museum(40.408, -3.6947), Category: art_galleries
+INFO:osmnx:Graph loaded: 602 nodes, 1022 edges
 INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 1924
-INFO:osmnx:Related features found: 1927
+INFO:osmnx:Buildings found: 3850
+INFO:osmnx:Related features found: 3854
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with National Gallery of Canada(45.4295, -75.6989)
+INFO:osmnx:README updated with Reina Sofia Museum(40.408, -3.6947)

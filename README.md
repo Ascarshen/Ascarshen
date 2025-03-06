@@ -19,7 +19,7 @@
 <!-- START_SECTION:map -->
 ### Reina Sofia Museum(40.408, -3.6947)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741276235)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-06 15:48:22  
