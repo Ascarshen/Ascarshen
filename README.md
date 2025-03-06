@@ -17,8 +17,8 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Tretyakov Gallery(55.7415, 37.6208)
-Update time: 2025-03-06 11:39:29  
+### University of Cape Town(-33.9576, 18.4612)
+Update time: 2025-03-06 11:49:09  
 ![location](map.png)
 <!-- END_SECTION:map -->
 
