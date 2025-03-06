@@ -17,8 +17,8 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### University of Copenhagen(55.6805, 12.5722)
-Update time: 2025-03-06 10:39:30  
+### Museu de Arte de Sao Paulo (MASP)(-23.5614, -46.6559)
+Update time: 2025-03-06 10:49:51  
 ![location](map.png)
 <!-- END_SECTION:map -->
 
