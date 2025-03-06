@@ -17,8 +17,8 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### National Museum of Beirut(33.8789, 35.515)
-Update time: 2025-03-06 05:15:44  
+### Musee de l'Orangerie(48.8639, 2.3226)
+Update time: 2025-03-06 05:33:33  
 ![location](map.png)
 <!-- END_SECTION:map -->
 
