@@ -17,8 +17,8 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Berlin State Museums (Museum Island)(52.521, 13.4016)
-Update time: 2025-03-06 05:46:03  
+### Peking University(39.9869, 116.3059)
+Update time: 2025-03-06 05:55:06  
 ![location](map.png)
 <!-- END_SECTION:map -->
 
