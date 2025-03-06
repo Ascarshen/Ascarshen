@@ -22,11 +22,9 @@
 ![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-06 15:30:24  
+Update time: 2025-03-06 15:30:24 [^1]  
 <!-- END_SECTION:map -->
-
-
-
+[^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
 <!--## 📊 GitHub Stats
 
@@ -48,6 +46,7 @@ Update time: 2025-03-06 15:30:24
 --- -->
 
 ### 📈 GitHub Activity Stats
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ascarshen&theme=radical">
 </p>
