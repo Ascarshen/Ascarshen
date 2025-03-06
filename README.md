@@ -17,8 +17,8 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### University of Warwick(52.3793, -1.5619)
-Update time: 2025-03-06 07:16:30  
+### Museum of Modern Art (Kuwait)(29.3697, 47.9635)
+Update time: 2025-03-06 07:31:49  
 ![location](map.png)
 <!-- END_SECTION:map -->
 
