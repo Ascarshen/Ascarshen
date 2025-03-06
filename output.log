@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Alte Pinakothek(48.1482, 11.57), Category: art_galleries
-INFO:osmnx:Graph loaded: 387 nodes, 868 edges
+INFO:osmnx:Trying: National Museum of Modern and Contemporary Art (Seoul)(37.579, 126.975), Category: art_galleries
+INFO:osmnx:Graph loaded: 259 nodes, 549 edges
 INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 3373
-INFO:osmnx:Related features found: 3449
+INFO:osmnx:Buildings found: 5037
+INFO:osmnx:Related features found: 5045
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Alte Pinakothek(48.1482, 11.57)
+INFO:osmnx:README updated with National Museum of Modern and Contemporary Art (Seoul)(37.579, 126.975)
