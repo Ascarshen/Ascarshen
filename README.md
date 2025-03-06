@@ -17,16 +17,11 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-<<<<<<< HEAD
 ### University of Wisconsin-Madison(43.0766, -89.4125)
 <!--START_SETCTION:temp-->
 ![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 Update time: 2025-03-06 19:52:07  
-=======
-### National Museum of Anthropology (Luanda)(-8.8132, 13.2318)
-Update time: 2025-03-06 11:58:40  
->>>>>>> 11a4af36a245e29a6aa74fee2c809b1d62d55362
 ![location](map.png)
 <!-- END_SECTION:map -->
 
