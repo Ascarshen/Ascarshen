@@ -17,8 +17,8 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Museu de Arte de Sao Paulo (MASP)(-23.5614, -46.6559)
-Update time: 2025-03-06 10:49:51  
+### Museo de Arte Contemporaneo (Barcelona)(41.3833, 2.1669)
+Update time: 2025-03-06 10:58:53  
 ![location](map.png)
 <!-- END_SECTION:map -->
 
