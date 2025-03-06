@@ -17,12 +17,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### University of Barcelona(41.3865, 2.1639)
+### National Gallery of Canada(45.4295, -75.6989)
 <!--START_SETCTION:temp-->
 ![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-06 15:30:24  
+Update time: 2025-03-06 15:41:46  
 <!-- END_SECTION:map -->
 
 
