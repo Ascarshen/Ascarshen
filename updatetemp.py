@@ -3,11 +3,13 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 import imageio.v2 as imageio
 import os
+import time
 from selenium.webdriver.common.by import By
 from PIL import Image
 from concurrent.futures import ThreadPoolExecutor
 import re
 
+timestamp = int(time.time())
 def get_loc():
     with open('README.md', 'r', encoding='utf-8') as f:
         content = f.read()
@@ -87,3 +89,14 @@ with ThreadPoolExecutor(max_workers=5) as executor:
 os.remove("temp.html")
 
 driver.quit()
+
+with open("README.md", "r") as file:
+    content = file.read()
+
+new_content = content.replace(
+    "![temp](images/demo.gif)",
+    f"![temp](images/demo.gif?{timestamp})"
+)
+
+with open("README.md", "w") as file:
+    file.write(new_content)
