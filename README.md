@@ -17,8 +17,8 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Fudan University(31.2989, 121.4992)
-Update time: 2025-03-06 03:59:28  
+### Museo de Arte Moderno de Bogotá(4.6059, -74.0731)
+Update time: 2025-03-06 04:29:25  
 ![location](map.png)
 <!-- END_SECTION:map -->
 
