@@ -17,8 +17,8 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Museum of Modern Art (Kuwait)(29.3697, 47.9635)
-Update time: 2025-03-06 07:31:49  
+### Museum of South Australia(-34.9205, 138.6033)
+Update time: 2025-03-06 07:45:07  
 ![location](map.png)
 <!-- END_SECTION:map -->
 
