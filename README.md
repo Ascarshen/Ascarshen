@@ -17,8 +17,8 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### University of Cape Town(-33.9576, 18.4612)
-Update time: 2025-03-06 11:49:09  
+### National Museum of Anthropology (Luanda)(-8.8132, 13.2318)
+Update time: 2025-03-06 11:58:40  
 ![location](map.png)
 <!-- END_SECTION:map -->
 
