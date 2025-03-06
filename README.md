@@ -17,8 +17,8 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Imperial College London(51.4988, -0.1749)
-Update time: 2025-03-06 08:40:14  
+### Australian National University(-35.2778, 149.1185)
+Update time: 2025-03-06 08:52:07  
 ![location](map.png)
 <!-- END_SECTION:map -->
 
