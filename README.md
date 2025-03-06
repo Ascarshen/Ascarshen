@@ -17,12 +17,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### National Museum of Denmark(55.6747, 12.5746)
+### Shanghai Museum(31.2304, 121.47)
 <!--START_SETCTION:temp-->
 ![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-06 12:37:19  
+Update time: 2025-03-06 12:43:30  
 <!-- END_SECTION:map -->
 
 
