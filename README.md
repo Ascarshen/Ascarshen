@@ -17,12 +17,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### National Gallery of Canada(45.4295, -75.6989)
+### Reina Sofia Museum(40.408, -3.6947)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741275882)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-06 15:41:46  
+Update time: 2025-03-06 15:48:22  
 <!-- END_SECTION:map -->
 
 
