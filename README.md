@@ -17,8 +17,8 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Museo de Arte Moderno de Bogotá(4.6059, -74.0731)
-Update time: 2025-03-06 04:29:25  
+### National Museum of Brazil (before fire)(-22.9058, -43.226)
+Update time: 2025-03-06 04:45:51  
 ![location](map.png)
 <!-- END_SECTION:map -->
 
