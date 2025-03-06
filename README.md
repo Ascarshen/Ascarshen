@@ -17,8 +17,8 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Museum of Turkish and Islamic Arts(41.0062, 28.9652)
-Update time: 2025-03-06 11:28:48  
+### Tretyakov Gallery(55.7415, 37.6208)
+Update time: 2025-03-06 11:39:29  
 ![location](map.png)
 <!-- END_SECTION:map -->
 
