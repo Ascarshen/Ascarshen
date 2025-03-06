@@ -17,8 +17,8 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Museo de Arte Moderno (Mexico City)(19.4254, -99.1818)
-Update time: 2025-03-06 08:20:08  
+### Imperial College London(51.4988, -0.1749)
+Update time: 2025-03-06 08:40:14  
 ![location](map.png)
 <!-- END_SECTION:map -->
 
