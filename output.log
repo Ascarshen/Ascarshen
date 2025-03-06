@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Art Gallery of New South Wales(-33.8688, 151.2173), Category: art_galleries
-INFO:osmnx:Graph loaded: 473 nodes, 968 edges
-INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 2218
-INFO:osmnx:Related features found: 2230
+INFO:osmnx:Trying: University of Buenos Aires(-34.5997, -58.3731), Category: universities
+INFO:osmnx:Graph loaded: 362 nodes, 667 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 1229
+INFO:osmnx:Related features found: 1238
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Art Gallery of New South Wales(-33.8688, 151.2173)
+INFO:osmnx:README updated with University of Buenos Aires(-34.5997, -58.3731)

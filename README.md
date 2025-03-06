@@ -19,7 +19,7 @@
 <!-- START_SECTION:map -->
 ### University of Buenos Aires(-34.5997, -58.3731)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741303597)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-06 23:26:27(UTC) [^1] 
