@@ -61,7 +61,7 @@ driver.switch_to.frame(iframe)
 os.makedirs("images", exist_ok=True)
 frames = []
 
-fps = 20  
+fps = 15  
 frames_duration = 1  
 total_frames = frames_duration * fps  
 gif_fps = 0.5 
@@ -80,7 +80,7 @@ with ThreadPoolExecutor(max_workers=5) as executor:
     frames = [imageio.imread(f.result()) for f in futures] 
 
 
-imageio.mimsave("images/demo.gif", frames, duration=1/gif_fps, quantize=128)
+imageio.mimsave("images/demo.gif", frames, duration=1/gif_fps,loop=0, quantize=128)
 
 
 with ThreadPoolExecutor(max_workers=5) as executor:
