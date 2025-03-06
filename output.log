@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Museo di Capodimonte(40.8672, 14.2505), Category: art_galleries
-INFO:osmnx:Graph loaded: 285 nodes, 564 edges
-INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 1904
-INFO:osmnx:Related features found: 1904
+INFO:osmnx:Trying: Museo de Arte Colonial (Caracas)(10.5061, -66.9156), Category: museums
+INFO:osmnx:Graph loaded: 481 nodes, 907 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 720
+INFO:osmnx:Related features found: 722
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Museo di Capodimonte(40.8672, 14.2505)
+INFO:osmnx:README updated with Museo de Arte Colonial (Caracas)(10.5061, -66.9156)

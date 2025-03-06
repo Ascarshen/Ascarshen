@@ -19,7 +19,7 @@
 <!-- START_SECTION:map -->
 ### Museo de Arte Colonial (Caracas)(10.5061, -66.9156)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741289703)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-06 19:33:06(UTC) [^1] 
