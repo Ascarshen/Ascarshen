@@ -17,8 +17,8 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Galleria dell'Accademia(43.7769, 11.2588)
-Update time: 2025-03-06 09:54:52  
+### Smithsonian American Art Museum(38.8977, -77.023)
+Update time: 2025-03-06 10:17:00  
 ![location](map.png)
 <!-- END_SECTION:map -->
 
