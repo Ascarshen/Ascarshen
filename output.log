@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: National Museum of Modern and Contemporary Art (Seoul)(37.579, 126.975), Category: art_galleries
-INFO:osmnx:Graph loaded: 259 nodes, 549 edges
-INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 5037
-INFO:osmnx:Related features found: 5045
+INFO:osmnx:Trying: University of Copenhagen(55.6805, 12.5722), Category: universities
+INFO:osmnx:Graph loaded: 550 nodes, 1137 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 3246
+INFO:osmnx:Related features found: 3254
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with National Museum of Modern and Contemporary Art (Seoul)(37.579, 126.975)
+INFO:osmnx:README updated with University of Copenhagen(55.6805, 12.5722)
