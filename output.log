@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: University of Helsinki(60.1726, 24.951), Category: universities
-INFO:osmnx:Graph loaded: 326 nodes, 714 edges
-INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 1184
-INFO:osmnx:Related features found: 1199
+INFO:osmnx:Trying: Pinacoteca do Estado de Sao Paulo(-23.5346, -46.634), Category: art_galleries
+INFO:osmnx:Graph loaded: 562 nodes, 966 edges
+INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
+INFO:osmnx:Buildings found: 8304
+INFO:osmnx:Related features found: 8304
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with University of Helsinki(60.1726, 24.951)
+INFO:osmnx:README updated with Pinacoteca do Estado de Sao Paulo(-23.5346, -46.634)
