@@ -19,7 +19,7 @@
 <!-- START_SECTION:map -->
 ### Museo di Capodimonte(40.8672, 14.2505)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741289068)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-06 19:22:11(UTC) [^1] 

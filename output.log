@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Johns Hopkins University(39.3299, -76.6205), Category: universities
-INFO:osmnx:Graph loaded: 368 nodes, 878 edges
-INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 6647
-INFO:osmnx:Related features found: 6651
+INFO:osmnx:Trying: Museo di Capodimonte(40.8672, 14.2505), Category: art_galleries
+INFO:osmnx:Graph loaded: 285 nodes, 564 edges
+INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
+INFO:osmnx:Buildings found: 1904
+INFO:osmnx:Related features found: 1904
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Johns Hopkins University(39.3299, -76.6205)
+INFO:osmnx:README updated with Museo di Capodimonte(40.8672, 14.2505)
