@@ -62,10 +62,9 @@ os.makedirs("images", exist_ok=True)
 frames = []
 
 fps = 15  
-frames_duration = 1  
+frames_duration = 1
 total_frames = frames_duration * fps  
-gif_fps = 0.5 
-
+gif_fps = 5
 
 def capture_frame(i):
     screenshot = driver.get_screenshot_as_png()
@@ -80,7 +79,7 @@ with ThreadPoolExecutor(max_workers=5) as executor:
     frames = [imageio.imread(f.result()) for f in futures] 
 
 
-imageio.mimsave("images/demo.gif", frames, duration=1/gif_fps,loop=0, quantize=128)
+imageio.mimsave("images/demo.gif", frames, duration=1/gif_fps, loop=0, quantize=64)
 
 
 with ThreadPoolExecutor(max_workers=5) as executor:
