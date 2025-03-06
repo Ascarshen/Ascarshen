@@ -17,8 +17,8 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Museo de Arte Contemporaneo (Barcelona)(41.3833, 2.1669)
-Update time: 2025-03-06 10:58:53  
+### University of Glasgow(55.8721, -4.2892)
+Update time: 2025-03-06 11:18:44  
 ![location](map.png)
 <!-- END_SECTION:map -->
 
