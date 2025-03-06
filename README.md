@@ -17,8 +17,8 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### University of Zurich(47.3748, 8.5481)
-Update time: 2025-03-06 04:55:06  
+### National Museum of Beirut(33.8789, 35.515)
+Update time: 2025-03-06 05:15:44  
 ![location](map.png)
 <!-- END_SECTION:map -->
 
