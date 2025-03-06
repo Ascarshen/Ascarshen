@@ -61,7 +61,7 @@ driver.switch_to.frame(iframe)
 os.makedirs("images", exist_ok=True)
 frames = []
 
-fps = 30  
+fps = 20  
 frames_duration = 1  
 total_frames = frames_duration * fps  
 gif_fps = 0.5 
