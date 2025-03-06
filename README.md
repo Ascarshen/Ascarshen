@@ -17,12 +17,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### University of Warwick(52.3793, -1.5619)
+### Australian Museum(-33.8742, 151.2135)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741295470)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-06 21:10:22(UTC) [^1] 
+Update time: 2025-03-06 21:26:28(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
