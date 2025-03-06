@@ -14,6 +14,8 @@
 "Try this New Year's resolution: I won't check my phone, my tablet, or my computer until I've first read a chapter in my Bible." — Kevin DeYoung
 <!-- END_SECTION:daily_motto -->
 
+
+## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
 ### Shanghai Museum(31.2304, 121.47)
 Update time: 2025-03-06 10:59:19  
