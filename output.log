@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Columbia University(40.8075, -73.9626), Category: universities
-INFO:osmnx:Graph loaded: 307 nodes, 714 edges
-INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 2507
-INFO:osmnx:Related features found: 2519
+INFO:osmnx:Trying: Belvedere Museum(48.1915, 16.3808), Category: art_galleries
+INFO:osmnx:Graph loaded: 446 nodes, 857 edges
+INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
+INFO:osmnx:Buildings found: 2371
+INFO:osmnx:Related features found: 2375
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Columbia University(40.8075, -73.9626)
+INFO:osmnx:README updated with Belvedere Museum(48.1915, 16.3808)
