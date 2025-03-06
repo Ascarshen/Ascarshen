@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Australian Museum(-33.8742, 151.2135), Category: museums
-INFO:osmnx:Graph loaded: 658 nodes, 1369 edges
-INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 2940
-INFO:osmnx:Related features found: 2945
+INFO:osmnx:Trying: Uffizi Gallery(43.7678, 11.2558), Category: art_galleries
+INFO:osmnx:Graph loaded: 202 nodes, 349 edges
+INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
+INFO:osmnx:Buildings found: 5638
+INFO:osmnx:Related features found: 5640
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Australian Museum(-33.8742, 151.2135)
+INFO:osmnx:README updated with Uffizi Gallery(43.7678, 11.2558)
