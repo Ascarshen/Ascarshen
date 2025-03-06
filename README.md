@@ -17,8 +17,8 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Rijksmuseum(52.36, 4.8852)
-Update time: 2025-03-06 07:55:12  
+### Museo de Arte Moderno (Mexico City)(19.4254, -99.1818)
+Update time: 2025-03-06 08:20:08  
 ![location](map.png)
 <!-- END_SECTION:map -->
 
