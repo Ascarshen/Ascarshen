@@ -17,8 +17,8 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Detroit Institute of Arts(42.3594, -83.0645)
-Update time: 2025-03-06 06:55:01  
+### University of Warwick(52.3793, -1.5619)
+Update time: 2025-03-06 07:16:30  
 ![location](map.png)
 <!-- END_SECTION:map -->
 
