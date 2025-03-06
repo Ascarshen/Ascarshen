@@ -11,7 +11,7 @@
 
 ## 📅 Daily Quota
 <!-- START_SECTION:daily_motto -->
-"If our hearts and minds are not properly transformed, we are like musicians playing untuned instruments, or engineers working with broken and ill-programmed computers. The attunement of the heart is essential to the outflow of grace...We must aim at building the structures of God's kingdom but recognized that we will only create these through the transformation of our experience. Concentration on reformation without revival leads to skins without wine; concentration on revival without reformation soon loses the wine for want of skins." — Richard Lovelace
+"Try this New Year's resolution: I won't check my phone, my tablet, or my computer until I've first read a chapter in my Bible." — Kevin DeYoung
 <!-- END_SECTION:daily_motto -->
 
 <!-- START_SECTION:map -->
@@ -155,11 +155,11 @@ Update time: 2025-03-06 10:59:19
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     2 hrs 58 mins   ████████████▓░░░░░░░░░░░░   50.14 %
-Python       1 hr 15 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.21 %
-Docker       49 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
-YAML         20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
-Rust         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+Python       8 hrs 14 mins   ██████████████▓░░░░░░░░░░   58.19 %
+Markdown     3 hrs 32 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.97 %
+YAML         54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
+Docker       49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+Rust         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
 ```
 
 <!--END_SECTION:waka-->
