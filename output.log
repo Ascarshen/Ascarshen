@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Fudan University(31.2989, 121.4992), Category: universities
-INFO:osmnx:Graph loaded: 131 nodes, 277 edges
+INFO:osmnx:Trying: Johns Hopkins University(39.3299, -76.6205), Category: universities
+INFO:osmnx:Graph loaded: 368 nodes, 878 edges
 INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 896
-INFO:osmnx:Related features found: 900
+INFO:osmnx:Buildings found: 6647
+INFO:osmnx:Related features found: 6651
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Fudan University(31.2989, 121.4992)
+INFO:osmnx:README updated with Johns Hopkins University(39.3299, -76.6205)
