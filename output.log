@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: University of Buenos Aires(-34.5997, -58.3731), Category: universities
-INFO:osmnx:Graph loaded: 362 nodes, 667 edges
-INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 1229
-INFO:osmnx:Related features found: 1238
+INFO:osmnx:Trying: Tate Modern(51.5076, -0.0994), Category: art_galleries
+INFO:osmnx:Graph loaded: 902 nodes, 1871 edges
+INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
+INFO:osmnx:Buildings found: 3007
+INFO:osmnx:Related features found: 3011
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with University of Buenos Aires(-34.5997, -58.3731)
+INFO:osmnx:README updated with Tate Modern(51.5076, -0.0994)
