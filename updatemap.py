@@ -18,8 +18,8 @@ def update_readme(location, current_time, image_path="map.png"):
 
     content = content.rstrip('\x03')
     
-    pattern = r"(<!-- START_SECTION:map -->)(.*?)(<!-- END_SECTION:map -->)"
-    replacement = f"### {location}\nUpdate time: {current_time}  \n![location]({image_path})\n"
+    pattern = r"(<!-- START_SECTION:map -->).*?(<!-- END_SECTION:map -->)"
+    replacement = f"<!-- START_SECTION:map -->\n### {location}\nUpdate time: {current_time}  \n![location]({image_path})\n<!-- END_SECTION:map -->"
     updated_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
     
 
