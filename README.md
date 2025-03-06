@@ -17,8 +17,8 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Museo Nacional de Arte (Mexico City)(19.4361, -99.1392)
-Update time: 2025-03-06 09:33:08  
+### Sorbonne University(48.8503, 2.3431)
+Update time: 2025-03-06 09:44:46  
 ![location](map.png)
 <!-- END_SECTION:map -->
 
