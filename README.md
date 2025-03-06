@@ -17,8 +17,8 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Sorbonne University(48.8503, 2.3431)
-Update time: 2025-03-06 09:44:46  
+### Galleria dell'Accademia(43.7769, 11.2588)
+Update time: 2025-03-06 09:54:52  
 ![location](map.png)
 <!-- END_SECTION:map -->
 
