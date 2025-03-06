@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: University of Warwick(52.3793, -1.5619), Category: universities
-INFO:osmnx:Graph loaded: 124 nodes, 232 edges
-INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 1278
-INFO:osmnx:Related features found: 1281
+INFO:osmnx:Trying: Australian Museum(-33.8742, 151.2135), Category: museums
+INFO:osmnx:Graph loaded: 658 nodes, 1369 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 2940
+INFO:osmnx:Related features found: 2945
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with University of Warwick(52.3793, -1.5619)
+INFO:osmnx:README updated with Australian Museum(-33.8742, 151.2135)

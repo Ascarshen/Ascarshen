@@ -19,7 +19,7 @@
 <!-- START_SECTION:map -->
 ### Australian Museum(-33.8742, 151.2135)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741296500)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-06 21:26:28(UTC) [^1] 
