@@ -17,12 +17,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Johns Hopkins University(39.3299, -76.6205)
+### Museo di Capodimonte(40.8672, 14.2505)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741288248)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-06 19:08:37(UTC) [^1] 
+Update time: 2025-03-06 19:22:11(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
