@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Shanghai Jiao Tong University(31.0252, 121.4355), Category: universities
-INFO:osmnx:Graph loaded: 76 nodes, 150 edges
+INFO:osmnx:Trying: University of Queensland(-27.4975, 153.0137), Category: universities
+INFO:osmnx:Graph loaded: 122 nodes, 265 edges
 INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 225
-INFO:osmnx:Related features found: 227
+INFO:osmnx:Buildings found: 1969
+INFO:osmnx:Related features found: 1976
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Shanghai Jiao Tong University(31.0252, 121.4355)
+INFO:osmnx:README updated with University of Queensland(-27.4975, 153.0137)
