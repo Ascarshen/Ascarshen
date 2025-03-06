@@ -17,8 +17,8 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Stedelijk Museum(52.358, 4.8798)
-Update time: 2025-03-06 03:50:09  
+### Fudan University(31.2989, 121.4992)
+Update time: 2025-03-06 03:59:28  
 ![location](map.png)
 <!-- END_SECTION:map -->
 
