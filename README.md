@@ -17,12 +17,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### National Museum of Ireland(53.3404, -6.255)
+### Sorbonne University(48.8503, 2.3431)
 <!--START_SETCTION:temp-->
 ![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-06 14:26:35  
+Update time: 2025-03-06 14:31:44  
 <!-- END_SECTION:map -->
 
 
