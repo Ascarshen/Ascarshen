@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Sorbonne University(48.8503, 2.3431), Category: universities
-INFO:osmnx:Graph loaded: 553 nodes, 1011 edges
+INFO:osmnx:Trying: University of Helsinki(60.1726, 24.951), Category: universities
+INFO:osmnx:Graph loaded: 326 nodes, 714 edges
 INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 6194
-INFO:osmnx:Related features found: 6256
+INFO:osmnx:Buildings found: 1184
+INFO:osmnx:Related features found: 1199
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Sorbonne University(48.8503, 2.3431)
+INFO:osmnx:README updated with University of Helsinki(60.1726, 24.951)
