@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Museum of Fine Arts (Boston)(42.3394, -71.094), Category: art_galleries
-INFO:osmnx:Graph loaded: 466 nodes, 1006 edges
+INFO:osmnx:Trying: Museo de Arte de Ponce(18.0038, -66.617), Category: art_galleries
+INFO:osmnx:Graph loaded: 518 nodes, 1347 edges
 INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 2125
-INFO:osmnx:Related features found: 2128
+INFO:osmnx:Buildings found: 5056
+INFO:osmnx:Related features found: 5056
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Museum of Fine Arts (Boston)(42.3394, -71.094)
+INFO:osmnx:README updated with Museo de Arte de Ponce(18.0038, -66.617)
