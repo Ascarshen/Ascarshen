@@ -17,12 +17,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Australian Museum(-33.8742, 151.2135)
+### Uffizi Gallery(43.7678, 11.2558)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741296500)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-06 21:26:28(UTC) [^1] 
+Update time: 2025-03-06 21:34:47(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
