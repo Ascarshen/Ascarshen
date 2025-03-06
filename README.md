@@ -17,8 +17,8 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Musee de l'Orangerie(48.8639, 2.3226)
-Update time: 2025-03-06 05:33:33  
+### Berlin State Museums (Museum Island)(52.521, 13.4016)
+Update time: 2025-03-06 05:46:03  
 ![location](map.png)
 <!-- END_SECTION:map -->
 
