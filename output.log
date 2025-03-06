@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: University of Copenhagen(55.6805, 12.5722), Category: universities
-INFO:osmnx:Graph loaded: 550 nodes, 1137 edges
+INFO:osmnx:Trying: Columbia University(40.8075, -73.9626), Category: universities
+INFO:osmnx:Graph loaded: 307 nodes, 714 edges
 INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 3246
-INFO:osmnx:Related features found: 3254
+INFO:osmnx:Buildings found: 2507
+INFO:osmnx:Related features found: 2519
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with University of Copenhagen(55.6805, 12.5722)
+INFO:osmnx:README updated with Columbia University(40.8075, -73.9626)
