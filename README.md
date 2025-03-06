@@ -19,7 +19,7 @@
 <!-- START_SECTION:map -->
 ### University of Edinburgh(55.9474, -3.1872)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741286504)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-06 18:37:52(UTC) [^1] 

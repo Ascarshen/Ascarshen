@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Belvedere Museum(48.1915, 16.3808), Category: art_galleries
-INFO:osmnx:Graph loaded: 446 nodes, 857 edges
-INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 2371
-INFO:osmnx:Related features found: 2375
+INFO:osmnx:Trying: University of Edinburgh(55.9474, -3.1872), Category: universities
+INFO:osmnx:Graph loaded: 453 nodes, 978 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 3623
+INFO:osmnx:Related features found: 3645
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Belvedere Museum(48.1915, 16.3808)
+INFO:osmnx:README updated with University of Edinburgh(55.9474, -3.1872)
