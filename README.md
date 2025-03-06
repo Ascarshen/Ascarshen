@@ -17,12 +17,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Pinacoteca do Estado de Sao Paulo(-23.5346, -46.634)
+### University of Barcelona(41.3865, 2.1639)
 <!--START_SETCTION:temp-->
 ![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-06 15:11:11  
+Update time: 2025-03-06 15:30:24  
 <!-- END_SECTION:map -->
 
 
