@@ -17,8 +17,8 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Smithsonian American Art Museum(38.8977, -77.023)
-Update time: 2025-03-06 10:17:00  
+### University of Copenhagen(55.6805, 12.5722)
+Update time: 2025-03-06 10:39:30  
 ![location](map.png)
 <!-- END_SECTION:map -->
 
