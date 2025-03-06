@@ -19,9 +19,17 @@ def update_readme(location, current_time, image_path="map.png"):
     content = content.rstrip('\x03')
     
     pattern = r"(<!-- START_SECTION:map -->).*?(<!-- END_SECTION:map -->)"
-    replacement = f"<!-- START_SECTION:map -->\n### {location}\nUpdate time: {current_time}  \n![location]({image_path})\n<!-- END_SECTION:map -->"
+    replacement = (
+        f"<!-- START_SECTION:map -->\n"
+        f"### {location}\n"
+        f"<!--START_SETCTION:temp-->\n"
+        f"![temp](images/demo.gif)\n"
+        f"<!--END:SETCTION:temp-->\n"
+        f"![location]({image_path})\n"
+        f"Update time: {current_time}  \n"
+        f"<!-- END_SECTION:map -->"
+    )
     updated_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
-    
 
     if content == updated_content:
         logger.warning("README content was not changed")

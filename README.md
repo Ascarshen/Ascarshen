@@ -17,10 +17,15 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Museo de Arte Carrillo Gil(19.3478, -99.1856)
-Update time: 2025-03-06 06:22:12  
+### University of Wisconsin-Madison(43.0766, -89.4125)
+<!--START_SETCTION:temp-->
+![temp](images/demo.gif)
+<!--END:SETCTION:temp-->
+Update time: 2025-03-06 19:52:07  
 ![location](map.png)
 <!-- END_SECTION:map -->
+
+
 
 
 <!--## 📊 GitHub Stats

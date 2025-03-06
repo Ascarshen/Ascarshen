@@ -2,43 +2,63 @@ name: Update Map README
 
 on:
   schedule:
-    - cron: '*/10 * * * *'
-  workflow_dispatch:     # 保留手动触发选项
+    - cron: '*/20 * * * *'
+  workflow_dispatch:     # Keep manual trigger option
 
 jobs:
   update-map:
     runs-on: ubuntu-latest
-    
+
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
-      with:
-        fetch-depth: 0  
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-    - name: Set up Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.x'
-        
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install networkx osmnx matplotlib geopandas
-        
-    - name: Run update script and capture location
-      id: run-script
-      run: |
-        python updatemap.py > output.log 2>&1 || (cat output.log && exit 1)
-        LOCATION=$(grep "README updated with" output.log | tail -1 | awk '{print $NF}')
-        echo "LOCATION=$LOCATION" >> $GITHUB_ENV
-      continue-on-error: false 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
 
-    - name: Commit and push changes
-      run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
-        git add README.md map.png
-        git diff --cached --quiet || git commit -m "Update map and README for ${{ env.LOCATION }}"
-        git push origin master
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install networkx osmnx matplotlib geopandas
+
+      - name: Run update script and capture location
+        id: run-script
+        run: |
+          python updatemap.py > output.log 2>&1 || (cat output.log && exit 1)
+          LOCATION=$(grep "README updated with" output.log | tail -1 | awk '{print $NF}')
+          echo "LOCATION=$LOCATION" >> $GITHUB_ENV
+        continue-on-error: false
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md map.png
+          git diff --cached --quiet || git commit -m "Update map and README for ${{ env.LOCATION }}"
+          git push origin master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # ---------------------------
+      # New step to run updatetemp.py AFTER all previous steps
+      # ---------------------------
+      - name: Run updatetemp.py
+        run: |
+          python updatetemp.py
+
+      # ---------------------------
+      # Finally, commit everything that changed due to updatetemp.py
+      # ---------------------------
+      - name: Commit all changes after updatetemp
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .
+          git diff --cached --quiet || git commit -m "Update repo after updatetemp"
+          git push origin master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
