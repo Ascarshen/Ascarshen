@@ -17,12 +17,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Sorbonne University(48.8503, 2.3431)
+### University of Helsinki(60.1726, 24.951)
 <!--START_SETCTION:temp-->
 ![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-06 14:31:44  
+Update time: 2025-03-06 14:47:45  
 <!-- END_SECTION:map -->
 
 
