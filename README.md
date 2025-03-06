@@ -17,8 +17,8 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### National Museum of Ethiopia(9.0369, 38.7618)
-Update time: 2025-03-06 03:37:07  
+### Stedelijk Museum(52.358, 4.8798)
+Update time: 2025-03-06 03:50:09  
 ![location](map.png)
 <!-- END_SECTION:map -->
 
