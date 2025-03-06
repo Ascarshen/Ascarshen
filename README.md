@@ -17,12 +17,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Shanghai Museum(31.2304, 121.47)
+### National Museum of Ireland(53.3404, -6.255)
 <!--START_SETCTION:temp-->
 ![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-06 12:43:30  
+Update time: 2025-03-06 14:26:35  
 <!-- END_SECTION:map -->
 
 
