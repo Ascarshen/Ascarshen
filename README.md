@@ -17,12 +17,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### University of Helsinki(60.1726, 24.951)
+### Pinacoteca do Estado de Sao Paulo(-23.5346, -46.634)
 <!--START_SETCTION:temp-->
 ![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-06 14:47:45  
+Update time: 2025-03-06 15:11:11  
 <!-- END_SECTION:map -->
 
 
