@@ -17,8 +17,8 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Museum of South Australia(-34.9205, 138.6033)
-Update time: 2025-03-06 07:45:07  
+### Rijksmuseum(52.36, 4.8852)
+Update time: 2025-03-06 07:55:12  
 ![location](map.png)
 <!-- END_SECTION:map -->
 
