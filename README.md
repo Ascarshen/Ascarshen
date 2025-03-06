@@ -17,8 +17,8 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Shanghai Museum(31.2304, 121.47)
-Update time: 2025-03-06 10:59:19  
+### Museum of African Art (Belgrade)(44.8156, 20.4275)
+Update time: 2025-03-06 03:08:28  
 ![location](map.png)
 <!-- END_SECTION:map -->
 
