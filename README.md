@@ -17,12 +17,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Shanghai Jiao Tong University(31.0252, 121.4355)
+### University of Queensland(-27.4975, 153.0137)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741279143)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-06 16:36:10(UTC) [^1] 
+Update time: 2025-03-06 16:52:30(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
