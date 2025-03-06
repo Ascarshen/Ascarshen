@@ -26,7 +26,7 @@ def update_readme(location, current_time, image_path="map.png"):
         f"![temp](images/demo.gif)\n"
         f"<!--END:SETCTION:temp-->\n"
         f"![location]({image_path})\n"
-        f"Update time: {current_time}  \n"
+        f"Update time: {current_time}(UTC) [^1] \n"
         f"<!-- END_SECTION:map -->"
     )
     updated_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
