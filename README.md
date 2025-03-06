@@ -17,8 +17,8 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Peking University(39.9869, 116.3059)
-Update time: 2025-03-06 05:55:06  
+### Museo de Arte Carrillo Gil(19.3478, -99.1856)
+Update time: 2025-03-06 06:22:12  
 ![location](map.png)
 <!-- END_SECTION:map -->
 
