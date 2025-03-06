@@ -17,8 +17,8 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### University of Bologna(44.4972, 11.3538)
-Update time: 2025-03-06 06:45:22  
+### Detroit Institute of Arts(42.3594, -83.0645)
+Update time: 2025-03-06 06:55:01  
 ![location](map.png)
 <!-- END_SECTION:map -->
 
