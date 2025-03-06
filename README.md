@@ -17,12 +17,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### University of Wisconsin-Madison(43.0766, -89.4125)
+### National Museum of Denmark(55.6747, 12.5746)
 <!--START_SETCTION:temp-->
 ![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
-Update time: 2025-03-06 19:52:07  
 ![location](map.png)
+Update time: 2025-03-06 12:37:19  
 <!-- END_SECTION:map -->
 
 
