@@ -17,8 +17,8 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Australian National University(-35.2778, 149.1185)
-Update time: 2025-03-06 08:52:07  
+### Guggenheim Museum (New York)(40.783, -73.959)
+Update time: 2025-03-06 09:17:01  
 ![location](map.png)
 <!-- END_SECTION:map -->
 
