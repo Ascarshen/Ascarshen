@@ -19,7 +19,7 @@
 <!-- START_SECTION:map -->
 ### Pontifical Catholic University of Chile(-33.4412, -70.6408)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741299017)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-06 22:10:02(UTC) [^1] 

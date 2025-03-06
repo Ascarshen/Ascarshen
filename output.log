@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Museum of Contemporary Art (Sydney)(-33.8599, 151.209), Category: art_galleries
-INFO:osmnx:Graph loaded: 226 nodes, 467 edges
-INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 1238
-INFO:osmnx:Related features found: 1243
+INFO:osmnx:Trying: Pontifical Catholic University of Chile(-33.4412, -70.6408), Category: universities
+INFO:osmnx:Graph loaded: 500 nodes, 827 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 3471
+INFO:osmnx:Related features found: 3503
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Museum of Contemporary Art (Sydney)(-33.8599, 151.209)
+INFO:osmnx:README updated with Pontifical Catholic University of Chile(-33.4412, -70.6408)
