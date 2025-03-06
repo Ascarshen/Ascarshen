@@ -17,8 +17,8 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Museum of African Art (Belgrade)(44.8156, 20.4275)
-Update time: 2025-03-06 03:08:28  
+### National Museum of Ethiopia(9.0369, 38.7618)
+Update time: 2025-03-06 03:37:07  
 ![location](map.png)
 <!-- END_SECTION:map -->
 
