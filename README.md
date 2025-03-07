@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### University of Stockholm(59.363, 18.0583)
+### University of Nottingham(52.939, -1.1907)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741349963)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-07 12:19:01(UTC) [^1] 
+Update time: 2025-03-07 12:57:38(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
