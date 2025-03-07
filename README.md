@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Indian Museum(22.558, 88.3509)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741386407)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-07 22:25:54(UTC) [^1] 
