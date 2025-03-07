@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Museo Nacional de Antropología(19.426, -99.1863), Category: museums
-INFO:osmnx:Graph loaded: 471 nodes, 773 edges
-INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 243
-INFO:osmnx:Related features found: 248
+INFO:osmnx:Trying: Museum of Modern Art (MoMA)(40.7614, -73.9776), Category: art_galleries
+INFO:osmnx:Graph loaded: 340 nodes, 637 edges
+INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
+INFO:osmnx:Buildings found: 3186
+INFO:osmnx:Related features found: 3190
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Museo Nacional de Antropología(19.426, -99.1863)
+INFO:osmnx:README updated with Museum of Modern Art (MoMA)(40.7614, -73.9776)
