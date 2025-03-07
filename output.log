@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: University of Auckland(-36.8485, 174.7633), Category: universities
-INFO:osmnx:Graph loaded: 491 nodes, 1038 edges
+INFO:osmnx:Trying: Tsinghua University(40.0005, 116.3264), Category: universities
+INFO:osmnx:Graph loaded: 244 nodes, 535 edges
 INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 2069
-INFO:osmnx:Related features found: 2086
+INFO:osmnx:Buildings found: 754
+INFO:osmnx:Related features found: 766
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with University of Auckland(-36.8485, 174.7633)
+INFO:osmnx:README updated with Tsinghua University(40.0005, 116.3264)
