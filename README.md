@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Museo del Prado(40.4138, -3.6921)
+### Museum of African Art (Belgrade)(44.8156, 20.4275)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741326468)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-07 05:47:37(UTC) [^1] 
+Update time: 2025-03-07 06:15:10(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
