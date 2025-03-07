@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### University of Texas at Austin(30.2849, -97.7341)
+### University of Cape Town(-33.9576, 18.4612)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741330307)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-07 06:51:23(UTC) [^1] 
+Update time: 2025-03-07 07:10:54(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
