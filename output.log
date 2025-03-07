@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: University of Oslo(59.9399, 10.7209), Category: universities
-INFO:osmnx:Graph loaded: 340 nodes, 742 edges
-INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 3306
-INFO:osmnx:Related features found: 3314
+INFO:osmnx:Trying: National Museum of Scotland(55.947, -3.19), Category: museums
+INFO:osmnx:Graph loaded: 485 nodes, 1057 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 4129
+INFO:osmnx:Related features found: 4140
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with University of Oslo(59.9399, 10.7209)
+INFO:osmnx:README updated with National Museum of Scotland(55.947, -3.19)
