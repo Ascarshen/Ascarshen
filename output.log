@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: National Museum of Ireland(53.3404, -6.255), Category: museums
-INFO:osmnx:Graph loaded: 568 nodes, 1169 edges
-INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 6284
-INFO:osmnx:Related features found: 6299
+INFO:osmnx:Trying: University of Munich (LMU)(48.1508, 11.5802), Category: universities
+INFO:osmnx:Graph loaded: 313 nodes, 723 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 2774
+INFO:osmnx:Related features found: 2818
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with National Museum of Ireland(53.3404, -6.255)
+INFO:osmnx:README updated with University of Munich (LMU)(48.1508, 11.5802)

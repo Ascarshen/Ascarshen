@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### University of Munich (LMU)(48.1508, 11.5802)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741318689)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-07 03:37:57(UTC) [^1] 
