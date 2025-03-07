@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Museo de las Americas (San Juan)(18.4663, -66.1168), Category: museums
-INFO:osmnx:Graph loaded: 145 nodes, 268 edges
+INFO:osmnx:Trying: National Museum of Ireland(53.3404, -6.255), Category: museums
+INFO:osmnx:Graph loaded: 568 nodes, 1169 edges
 INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 1278
-INFO:osmnx:Related features found: 1282
+INFO:osmnx:Buildings found: 6284
+INFO:osmnx:Related features found: 6299
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Museo de las Americas (San Juan)(18.4663, -66.1168)
+INFO:osmnx:README updated with National Museum of Ireland(53.3404, -6.255)
