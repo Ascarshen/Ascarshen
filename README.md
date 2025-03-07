@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Museo de las Americas (San Juan)(18.4663, -66.1168)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741383308)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-07 21:33:10(UTC) [^1] 

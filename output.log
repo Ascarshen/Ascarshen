@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Uffizi Gallery(43.7678, 11.2558), Category: art_galleries
-INFO:osmnx:Graph loaded: 202 nodes, 349 edges
-INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 5638
-INFO:osmnx:Related features found: 5640
+INFO:osmnx:Trying: Museo de las Americas (San Juan)(18.4663, -66.1168), Category: museums
+INFO:osmnx:Graph loaded: 145 nodes, 268 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 1278
+INFO:osmnx:Related features found: 1282
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Uffizi Gallery(43.7678, 11.2558)
+INFO:osmnx:README updated with Museo de las Americas (San Juan)(18.4663, -66.1168)
