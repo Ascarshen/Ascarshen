@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Musee d'Orsay(48.86, 2.3255), Category: art_galleries
-INFO:osmnx:Graph loaded: 412 nodes, 752 edges
-INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 3909
-INFO:osmnx:Related features found: 3926
+INFO:osmnx:Trying: University of Vienna(48.2132, 16.3601), Category: universities
+INFO:osmnx:Graph loaded: 567 nodes, 1040 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 2704
+INFO:osmnx:Related features found: 2789
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Musee d'Orsay(48.86, 2.3255)
+INFO:osmnx:README updated with University of Vienna(48.2132, 16.3601)
