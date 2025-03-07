@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### University of Stockholm(59.363, 18.0583)
+### National Museum of Finland(60.1749, 24.9355)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741322969)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-07 04:49:20(UTC) [^1] 
+Update time: 2025-03-07 05:11:22(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
