@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Museo de Arte Contemporaneo (Barcelona)(41.3833, 2.1669), Category: art_galleries
-INFO:osmnx:Graph loaded: 497 nodes, 802 edges
-INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 6703
-INFO:osmnx:Related features found: 6723
+INFO:osmnx:Trying: University of Bristol(51.4569, -2.6024), Category: universities
+INFO:osmnx:Graph loaded: 634 nodes, 1437 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 6986
+INFO:osmnx:Related features found: 6992
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Museo de Arte Contemporaneo (Barcelona)(41.3833, 2.1669)
+INFO:osmnx:README updated with University of Bristol(51.4569, -2.6024)
