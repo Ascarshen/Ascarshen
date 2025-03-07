@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: University of Munich (LMU)(48.1508, 11.5802), Category: universities
-INFO:osmnx:Graph loaded: 313 nodes, 723 edges
+INFO:osmnx:Trying: University of Pennsylvania(39.9522, -75.1932), Category: universities
+INFO:osmnx:Graph loaded: 294 nodes, 638 edges
 INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 2774
-INFO:osmnx:Related features found: 2818
+INFO:osmnx:Buildings found: 2324
+INFO:osmnx:Related features found: 2332
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with University of Munich (LMU)(48.1508, 11.5802)
+INFO:osmnx:README updated with University of Pennsylvania(39.9522, -75.1932)
