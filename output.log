@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Shanghai Jiao Tong University(31.0252, 121.4355), Category: universities
-INFO:osmnx:Graph loaded: 76 nodes, 150 edges
-INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 225
-INFO:osmnx:Related features found: 227
+INFO:osmnx:Trying: Philadelphia Museum of Art(39.9656, -75.181), Category: art_galleries
+INFO:osmnx:Graph loaded: 488 nodes, 954 edges
+INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
+INFO:osmnx:Buildings found: 6585
+INFO:osmnx:Related features found: 6585
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Shanghai Jiao Tong University(31.0252, 121.4355)
+INFO:osmnx:README updated with Philadelphia Museum of Art(39.9656, -75.181)
