@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Museo de Arte Contemporaneo (Barcelona)(41.3833, 2.1669)
+### University of Bristol(51.4569, -2.6024)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741379486)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-07 20:29:57(UTC) [^1] 
+Update time: 2025-03-07 20:38:09(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
