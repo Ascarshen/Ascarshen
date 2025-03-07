@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: University of Leeds(53.8067, -1.555), Category: universities
-INFO:osmnx:Graph loaded: 834 nodes, 1836 edges
+INFO:osmnx:Trying: University of Bologna(44.4972, 11.3538), Category: universities
+INFO:osmnx:Graph loaded: 430 nodes, 762 edges
 INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 3537
-INFO:osmnx:Related features found: 3548
+INFO:osmnx:Buildings found: 8077
+INFO:osmnx:Related features found: 8191
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with University of Leeds(53.8067, -1.555)
+INFO:osmnx:README updated with University of Bologna(44.4972, 11.3538)
