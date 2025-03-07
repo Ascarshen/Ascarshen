@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### National Museum of Art (Osaka)(34.702, 135.4958)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741389002)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-07 23:09:34(UTC) [^1] 
