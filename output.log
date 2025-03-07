@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Musee d'Orsay(48.86, 2.3255), Category: art_galleries
-INFO:osmnx:Graph loaded: 412 nodes, 752 edges
-INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 3909
-INFO:osmnx:Related features found: 3926
+INFO:osmnx:Trying: University of Stockholm(59.363, 18.0583), Category: universities
+INFO:osmnx:Graph loaded: 140 nodes, 291 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 264
+INFO:osmnx:Related features found: 275
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Musee d'Orsay(48.86, 2.3255)
+INFO:osmnx:README updated with University of Stockholm(59.363, 18.0583)

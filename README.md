@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### University of Stockholm(59.363, 18.0583)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741349963)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-07 12:19:01(UTC) [^1] 
