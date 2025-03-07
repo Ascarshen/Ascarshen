@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### University of Copenhagen(55.6805, 12.5722)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741384099)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-07 21:47:47(UTC) [^1] 
