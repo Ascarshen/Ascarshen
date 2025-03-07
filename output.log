@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: University of Oxford(51.7548, -1.254), Category: universities
-INFO:osmnx:Graph loaded: 283 nodes, 612 edges
+INFO:osmnx:Trying: Seoul National University(37.4602, 126.9519), Category: universities
+INFO:osmnx:Graph loaded: 35 nodes, 63 edges
 INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 3405
-INFO:osmnx:Related features found: 3496
+INFO:osmnx:Buildings found: 233
+INFO:osmnx:Related features found: 236
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with University of Oxford(51.7548, -1.254)
+INFO:osmnx:README updated with Seoul National University(37.4602, 126.9519)
