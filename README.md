@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Museum of Modern Art (MoMA)(40.7614, -73.9776)
+### Art Gallery of New South Wales(-33.8688, 151.2173)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741362580)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-07 15:47:49(UTC) [^1] 
+Update time: 2025-03-07 16:13:00(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
