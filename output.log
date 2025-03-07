@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Fudan University(31.2989, 121.4992), Category: universities
-INFO:osmnx:Graph loaded: 131 nodes, 277 edges
+INFO:osmnx:Trying: University of Stockholm(59.363, 18.0583), Category: universities
+INFO:osmnx:Graph loaded: 140 nodes, 291 edges
 INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 896
-INFO:osmnx:Related features found: 900
+INFO:osmnx:Buildings found: 264
+INFO:osmnx:Related features found: 275
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Fudan University(31.2989, 121.4992)
+INFO:osmnx:README updated with University of Stockholm(59.363, 18.0583)
