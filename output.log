@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: University of Texas at Austin(30.2849, -97.7341), Category: universities
-INFO:osmnx:Graph loaded: 360 nodes, 803 edges
+INFO:osmnx:Trying: University of Cape Town(-33.9576, 18.4612), Category: universities
+INFO:osmnx:Graph loaded: 217 nodes, 454 edges
 INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 1294
-INFO:osmnx:Related features found: 1298
+INFO:osmnx:Buildings found: 382
+INFO:osmnx:Related features found: 385
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with University of Texas at Austin(30.2849, -97.7341)
+INFO:osmnx:README updated with University of Cape Town(-33.9576, 18.4612)

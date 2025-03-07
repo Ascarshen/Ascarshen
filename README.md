@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### University of Cape Town(-33.9576, 18.4612)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741331543)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-07 07:10:54(UTC) [^1] 
