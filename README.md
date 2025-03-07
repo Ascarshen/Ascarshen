@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Art Gallery of New South Wales(-33.8688, 151.2173)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741364139)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-07 16:13:00(UTC) [^1] 
