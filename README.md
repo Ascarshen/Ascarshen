@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Galleria dell'Accademia(43.7769, 11.2588)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741329557)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-07 06:39:02(UTC) [^1] 

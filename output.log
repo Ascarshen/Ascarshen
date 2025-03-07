@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Museum of African Art (Belgrade)(44.8156, 20.4275), Category: museums
-INFO:osmnx:Graph loaded: 395 nodes, 733 edges
-INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 958
-INFO:osmnx:Related features found: 958
+INFO:osmnx:Trying: Galleria dell'Accademia(43.7769, 11.2588), Category: art_galleries
+INFO:osmnx:Graph loaded: 489 nodes, 827 edges
+INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
+INFO:osmnx:Buildings found: 5959
+INFO:osmnx:Related features found: 5961
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Museum of African Art (Belgrade)(44.8156, 20.4275)
+INFO:osmnx:README updated with Galleria dell'Accademia(43.7769, 11.2588)
