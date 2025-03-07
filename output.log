@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Smithsonian National Air and Space Museum(38.8882, -77.0199), Category: museums
-INFO:osmnx:Graph loaded: 379 nodes, 857 edges
-INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 949
-INFO:osmnx:Related features found: 957
+INFO:osmnx:Trying: University of Barcelona(41.3865, 2.1639), Category: universities
+INFO:osmnx:Graph loaded: 418 nodes, 711 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 6294
+INFO:osmnx:Related features found: 6310
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Smithsonian National Air and Space Museum(38.8882, -77.0199)
+INFO:osmnx:README updated with University of Barcelona(41.3865, 2.1639)
