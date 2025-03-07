@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Art Gallery of New South Wales(-33.8688, 151.2173)
+### University of Oslo(59.9399, 10.7209)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741364139)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-07 16:13:00(UTC) [^1] 
+Update time: 2025-03-07 16:35:23(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
