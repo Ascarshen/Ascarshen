@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Museo de las Americas (San Juan)(18.4663, -66.1168)
+### University of Copenhagen(55.6805, 12.5722)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741383308)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-07 21:33:10(UTC) [^1] 
+Update time: 2025-03-07 21:47:47(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
