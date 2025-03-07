@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### University of Nottingham(52.939, -1.1907)
+### Vatican Museums(41.9065, 12.4534)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741352272)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-07 12:57:38(UTC) [^1] 
+Update time: 2025-03-07 13:21:36(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
