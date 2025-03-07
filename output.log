@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: University of Stockholm(59.363, 18.0583), Category: universities
-INFO:osmnx:Graph loaded: 140 nodes, 291 edges
+INFO:osmnx:Trying: University of Nottingham(52.939, -1.1907), Category: universities
+INFO:osmnx:Graph loaded: 281 nodes, 540 edges
 INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 264
-INFO:osmnx:Related features found: 275
+INFO:osmnx:Buildings found: 2533
+INFO:osmnx:Related features found: 2538
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with University of Stockholm(59.363, 18.0583)
+INFO:osmnx:README updated with University of Nottingham(52.939, -1.1907)

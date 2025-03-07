@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### University of Nottingham(52.939, -1.1907)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741352272)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-07 12:57:38(UTC) [^1] 
