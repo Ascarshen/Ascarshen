@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### University of Vienna(48.2132, 16.3601)
+### University of Oslo(59.9399, 10.7209)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741340885)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-07 09:47:47(UTC) [^1] 
+Update time: 2025-03-07 10:11:55(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
