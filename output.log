@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: University of Warwick(52.3793, -1.5619), Category: universities
-INFO:osmnx:Graph loaded: 124 nodes, 232 edges
+INFO:osmnx:Trying: University of Auckland(-36.8485, 174.7633), Category: universities
+INFO:osmnx:Graph loaded: 491 nodes, 1038 edges
 INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 1278
-INFO:osmnx:Related features found: 1281
+INFO:osmnx:Buildings found: 2069
+INFO:osmnx:Related features found: 2086
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with University of Warwick(52.3793, -1.5619)
+INFO:osmnx:README updated with University of Auckland(-36.8485, 174.7633)
