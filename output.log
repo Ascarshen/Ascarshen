@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: National Museum of Natural History(38.8913, -77.0261), Category: museums
-INFO:osmnx:Graph loaded: 343 nodes, 793 edges
+INFO:osmnx:Trying: Museo del Prado(40.4138, -3.6921), Category: museums
+INFO:osmnx:Graph loaded: 565 nodes, 925 edges
 INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 686
-INFO:osmnx:Related features found: 698
+INFO:osmnx:Buildings found: 3589
+INFO:osmnx:Related features found: 3603
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with National Museum of Natural History(38.8913, -77.0261)
+INFO:osmnx:README updated with Museo del Prado(40.4138, -3.6921)

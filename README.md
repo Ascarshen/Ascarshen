@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Museo del Prado(40.4138, -3.6921)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741326468)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-07 05:47:37(UTC) [^1] 
