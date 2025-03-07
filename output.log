@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: University of Nottingham(52.939, -1.1907), Category: universities
-INFO:osmnx:Graph loaded: 281 nodes, 540 edges
-INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 2533
-INFO:osmnx:Related features found: 2538
+INFO:osmnx:Trying: Vatican Museums(41.9065, 12.4534), Category: museums
+INFO:osmnx:Graph loaded: 673 nodes, 1262 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 1968
+INFO:osmnx:Related features found: 1979
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with University of Nottingham(52.939, -1.1907)
+INFO:osmnx:README updated with Vatican Museums(41.9065, 12.4534)
