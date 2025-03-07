@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Acropolis Museum(37.9684, 23.7285), Category: museums
-INFO:osmnx:Graph loaded: 837 nodes, 1538 edges
-INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 6692
-INFO:osmnx:Related features found: 6700
+INFO:osmnx:Trying: Galleria Borghese(41.9142, 12.4923), Category: art_galleries
+INFO:osmnx:Graph loaded: 547 nodes, 997 edges
+INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
+INFO:osmnx:Buildings found: 1930
+INFO:osmnx:Related features found: 1932
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Acropolis Museum(37.9684, 23.7285)
+INFO:osmnx:README updated with Galleria Borghese(41.9142, 12.4923)
