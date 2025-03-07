@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Philadelphia Museum of Art(39.9656, -75.181), Category: art_galleries
-INFO:osmnx:Graph loaded: 488 nodes, 954 edges
+INFO:osmnx:Trying: Alte Pinakothek(48.1482, 11.57), Category: art_galleries
+INFO:osmnx:Graph loaded: 387 nodes, 868 edges
 INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 6585
-INFO:osmnx:Related features found: 6585
+INFO:osmnx:Buildings found: 3373
+INFO:osmnx:Related features found: 3449
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Philadelphia Museum of Art(39.9656, -75.181)
+INFO:osmnx:README updated with Alte Pinakothek(48.1482, 11.57)
