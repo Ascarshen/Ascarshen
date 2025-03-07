@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Galleria Borghese(41.9142, 12.4923), Category: art_galleries
-INFO:osmnx:Graph loaded: 547 nodes, 997 edges
-INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 1930
-INFO:osmnx:Related features found: 1932
+INFO:osmnx:Trying: Museo de Arte Colonial (Caracas)(10.5061, -66.9156), Category: museums
+INFO:osmnx:Graph loaded: 481 nodes, 907 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 720
+INFO:osmnx:Related features found: 722
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Galleria Borghese(41.9142, 12.4923)
+INFO:osmnx:README updated with Museo de Arte Colonial (Caracas)(10.5061, -66.9156)
