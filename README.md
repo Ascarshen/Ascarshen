@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Shanghai Jiao Tong University(31.0252, 121.4355)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741376987)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-07 19:47:56(UTC) [^1] 
