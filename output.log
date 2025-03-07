@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Museum of Modern Art (MoMA)(40.7614, -73.9776), Category: art_galleries
-INFO:osmnx:Graph loaded: 340 nodes, 637 edges
+INFO:osmnx:Trying: Musee d'Orsay(48.86, 2.3255), Category: art_galleries
+INFO:osmnx:Graph loaded: 412 nodes, 752 edges
 INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 3186
-INFO:osmnx:Related features found: 3190
+INFO:osmnx:Buildings found: 3909
+INFO:osmnx:Related features found: 3926
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Museum of Modern Art (MoMA)(40.7614, -73.9776)
+INFO:osmnx:README updated with Musee d'Orsay(48.86, 2.3255)
