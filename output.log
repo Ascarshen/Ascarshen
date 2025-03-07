@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Art Gallery of New South Wales(-33.8688, 151.2173), Category: art_galleries
-INFO:osmnx:Graph loaded: 473 nodes, 968 edges
+INFO:osmnx:Trying: National Museum of Art (Osaka)(34.702, 135.4958), Category: art_galleries
+INFO:osmnx:Graph loaded: 1085 nodes, 2471 edges
 INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 2218
-INFO:osmnx:Related features found: 2230
+INFO:osmnx:Buildings found: 6373
+INFO:osmnx:Related features found: 6385
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Art Gallery of New South Wales(-33.8688, 151.2173)
+INFO:osmnx:README updated with National Museum of Art (Osaka)(34.702, 135.4958)
