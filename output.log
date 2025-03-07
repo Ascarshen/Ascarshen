@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: University of Copenhagen(55.6805, 12.5722), Category: universities
-INFO:osmnx:Graph loaded: 550 nodes, 1137 edges
+INFO:osmnx:Trying: MIT(42.3601, -71.0942), Category: universities
+INFO:osmnx:Graph loaded: 389 nodes, 835 edges
 INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 3245
-INFO:osmnx:Related features found: 3253
+INFO:osmnx:Buildings found: 2135
+INFO:osmnx:Related features found: 2145
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with University of Copenhagen(55.6805, 12.5722)
+INFO:osmnx:README updated with MIT(42.3601, -71.0942)
