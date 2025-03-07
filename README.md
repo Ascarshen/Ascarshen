@@ -19,7 +19,7 @@
 <!-- START_SECTION:map -->
 ### The Louvre(48.8606, 2.3376)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741308597)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-07 00:49:36(UTC) [^1] 
