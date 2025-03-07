@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: National Museum of Finland(60.1749, 24.9355), Category: museums
-INFO:osmnx:Graph loaded: 428 nodes, 926 edges
-INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 1335
-INFO:osmnx:Related features found: 1342
+INFO:osmnx:Trying: San Francisco Museum of Modern Art (SFMOMA)(37.7857, -122.4011), Category: art_galleries
+INFO:osmnx:Graph loaded: 496 nodes, 1058 edges
+INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
+INFO:osmnx:Buildings found: 2831
+INFO:osmnx:Related features found: 2854
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with National Museum of Finland(60.1749, 24.9355)
+INFO:osmnx:README updated with San Francisco Museum of Modern Art (SFMOMA)(37.7857, -122.4011)
