@@ -1,4 +1,4 @@
-## 🚀 Who am I？
+##  Who am I？
 <img align="right" alt="Hello World" width="19%" src="https://miro.medium.com/v2/resize:fit:1080/1*gtRsUj9T6r6WEFz_J3FUpA.gif">
 
 - 👨‍💻 ~~Geek~~/~~Hacker~~/~~Engineer~~/~~Scientist~~ 
@@ -8,6 +8,8 @@
 - 🙆 According to lexicographic order
 - 🤦 "A" makes me ranked **top** of ur contact list.
 - 😊 Yea, it's me, a **maverick** and **funny** guy.
+- <img src="https://i.imgur.com/GG5Bd8N.png" width="20" height="20">  Just an edgy symbol.
+
 
 ## 📅 Daily Quota
 <!-- START_SECTION:daily_motto -->
