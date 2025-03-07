@@ -11,7 +11,7 @@
 
 ## 📅 Daily Quota
 <!-- START_SECTION:daily_motto -->
-"Try this New Year's resolution: I won't check my phone, my tablet, or my computer until I've first read a chapter in my Bible." — Kevin DeYoung
+"I went to a website the other day and right at the top of the page it showed me my ip address. It was the most disturbing moment I have ever experienced. This website even told me what internet browser I was using, and what day it was. Computers can do anything." — Edward Snowden
 <!-- END_SECTION:daily_motto -->
 
 
