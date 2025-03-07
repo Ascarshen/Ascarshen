@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Guggenheim Museum Bilbao(43.2687, -2.9339), Category: art_galleries
-INFO:osmnx:Graph loaded: 413 nodes, 728 edges
-INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 945
-INFO:osmnx:Related features found: 948
+INFO:osmnx:Trying: Victoria and Albert Museum(51.4966, -0.1722), Category: museums
+INFO:osmnx:Graph loaded: 680 nodes, 1613 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 5098
+INFO:osmnx:Related features found: 5102
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Guggenheim Museum Bilbao(43.2687, -2.9339)
+INFO:osmnx:README updated with Victoria and Albert Museum(51.4966, -0.1722)
