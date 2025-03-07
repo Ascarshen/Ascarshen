@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Waseda University(35.709, 139.72)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741369456)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-07 17:39:03(UTC) [^1] 

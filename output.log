@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: University of Barcelona(41.3865, 2.1639), Category: universities
-INFO:osmnx:Graph loaded: 418 nodes, 711 edges
+INFO:osmnx:Trying: Waseda University(35.709, 139.72), Category: universities
+INFO:osmnx:Graph loaded: 832 nodes, 2117 edges
 INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 6294
-INFO:osmnx:Related features found: 6310
+INFO:osmnx:Buildings found: 11529
+INFO:osmnx:Related features found: 11556
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with University of Barcelona(41.3865, 2.1639)
+INFO:osmnx:README updated with Waseda University(35.709, 139.72)
