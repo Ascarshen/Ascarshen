@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### National Museum of Afghanistan(34.4678, 69.12)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741344483)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-07 10:47:52(UTC) [^1] 

@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: National Museum of Scotland(55.947, -3.19), Category: museums
-INFO:osmnx:Graph loaded: 485 nodes, 1057 edges
+INFO:osmnx:Trying: National Museum of Afghanistan(34.4678, 69.12), Category: museums
+INFO:osmnx:Graph loaded: 279 nodes, 605 edges
 INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 4129
-INFO:osmnx:Related features found: 4140
+INFO:osmnx:Buildings found: 3516
+INFO:osmnx:Related features found: 3517
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with National Museum of Scotland(55.947, -3.19)
+INFO:osmnx:README updated with National Museum of Afghanistan(34.4678, 69.12)
