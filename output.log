@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Indian Museum(22.558, 88.3509), Category: museums
-INFO:osmnx:Graph loaded: 409 nodes, 958 edges
-INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 1857
-INFO:osmnx:Related features found: 1858
+INFO:osmnx:Trying: Art Gallery of New South Wales(-33.8688, 151.2173), Category: art_galleries
+INFO:osmnx:Graph loaded: 473 nodes, 968 edges
+INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
+INFO:osmnx:Buildings found: 2218
+INFO:osmnx:Related features found: 2230
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Indian Museum(22.558, 88.3509)
+INFO:osmnx:README updated with Art Gallery of New South Wales(-33.8688, 151.2173)
