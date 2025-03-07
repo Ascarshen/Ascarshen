@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### University of Auckland(-36.8485, 174.7633)
+### Tsinghua University(40.0005, 116.3264)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741375451)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-07 19:22:35(UTC) [^1] 
+Update time: 2025-03-07 19:33:41(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
