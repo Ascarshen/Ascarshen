@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Uffizi Gallery(43.7678, 11.2558)
+### Museo de las Americas (San Juan)(18.4663, -66.1168)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741382767)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-07 21:23:41(UTC) [^1] 
+Update time: 2025-03-07 21:33:10(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
