@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Uffizi Gallery(43.7678, 11.2558)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741382767)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-07 21:23:41(UTC) [^1] 
