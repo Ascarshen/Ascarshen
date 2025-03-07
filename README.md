@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### University of Barcelona(41.3865, 2.1639)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741368676)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-07 17:28:00(UTC) [^1] 

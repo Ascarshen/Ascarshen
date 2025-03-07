@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Alte Pinakothek(48.1482, 11.57), Category: art_galleries
-INFO:osmnx:Graph loaded: 387 nodes, 868 edges
-INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 3373
-INFO:osmnx:Related features found: 3449
+INFO:osmnx:Trying: University of Barcelona(41.3865, 2.1639), Category: universities
+INFO:osmnx:Graph loaded: 418 nodes, 711 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 6294
+INFO:osmnx:Related features found: 6310
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Alte Pinakothek(48.1482, 11.57)
+INFO:osmnx:README updated with University of Barcelona(41.3865, 2.1639)
