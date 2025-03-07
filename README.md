@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Egyptian Museum(30.0478, 31.2336)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741358595)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-07 14:41:36(UTC) [^1] 

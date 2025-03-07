@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: National Palace Museum(25.1024, 121.5485), Category: museums
-INFO:osmnx:Graph loaded: 59 nodes, 114 edges
+INFO:osmnx:Trying: Egyptian Museum(30.0478, 31.2336), Category: museums
+INFO:osmnx:Graph loaded: 840 nodes, 1811 edges
 INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 617
-INFO:osmnx:Related features found: 620
+INFO:osmnx:Buildings found: 1619
+INFO:osmnx:Related features found: 1621
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with National Palace Museum(25.1024, 121.5485)
+INFO:osmnx:README updated with Egyptian Museum(30.0478, 31.2336)
