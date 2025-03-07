@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Indian Museum(22.558, 88.3509)
+### Art Gallery of New South Wales(-33.8688, 151.2173)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741386407)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-07 22:25:54(UTC) [^1] 
+Update time: 2025-03-07 22:33:06(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
