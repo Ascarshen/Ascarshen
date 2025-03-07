@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Victoria and Albert Museum(51.4966, -0.1722), Category: museums
-INFO:osmnx:Graph loaded: 680 nodes, 1613 edges
+INFO:osmnx:Trying: National Palace Museum(25.1024, 121.5485), Category: museums
+INFO:osmnx:Graph loaded: 59 nodes, 114 edges
 INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 5098
-INFO:osmnx:Related features found: 5102
+INFO:osmnx:Buildings found: 617
+INFO:osmnx:Related features found: 620
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Victoria and Albert Museum(51.4966, -0.1722)
+INFO:osmnx:README updated with National Palace Museum(25.1024, 121.5485)
