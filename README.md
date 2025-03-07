@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### University of Bonn(50.7339, 7.1033)
+### National Archaeological Museum (Athens)(37.989, 23.7328)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741380545)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-07 20:47:56(UTC) [^1] 
+Update time: 2025-03-07 21:09:18(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
