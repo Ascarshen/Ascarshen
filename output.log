@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: University of Bonn(50.7339, 7.1033), Category: universities
-INFO:osmnx:Graph loaded: 387 nodes, 831 edges
-INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 6794
-INFO:osmnx:Related features found: 6849
+INFO:osmnx:Trying: National Archaeological Museum (Athens)(37.989, 23.7328), Category: museums
+INFO:osmnx:Graph loaded: 1036 nodes, 1885 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 7354
+INFO:osmnx:Related features found: 7361
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with University of Bonn(50.7339, 7.1033)
+INFO:osmnx:README updated with National Archaeological Museum (Athens)(37.989, 23.7328)
