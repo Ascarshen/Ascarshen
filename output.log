@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: University of Barcelona(41.3865, 2.1639), Category: universities
-INFO:osmnx:Graph loaded: 418 nodes, 711 edges
-INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 6294
-INFO:osmnx:Related features found: 6310
+INFO:osmnx:Trying: Egyptian Museum(30.0478, 31.2336), Category: museums
+INFO:osmnx:Graph loaded: 840 nodes, 1811 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 1619
+INFO:osmnx:Related features found: 1621
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with University of Barcelona(41.3865, 2.1639)
+INFO:osmnx:README updated with Egyptian Museum(30.0478, 31.2336)
