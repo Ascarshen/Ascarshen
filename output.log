@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Hermitage Museum (Amsterdam Branch)(52.3651, 4.9028), Category: museums
-INFO:osmnx:Graph loaded: 663 nodes, 1339 edges
-INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 8980
-INFO:osmnx:Related features found: 9014
+INFO:osmnx:Trying: University of Oxford(51.7548, -1.254), Category: universities
+INFO:osmnx:Graph loaded: 283 nodes, 612 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 3405
+INFO:osmnx:Related features found: 3496
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Hermitage Museum (Amsterdam Branch)(52.3651, 4.9028)
+INFO:osmnx:README updated with University of Oxford(51.7548, -1.254)
