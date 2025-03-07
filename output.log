@@ -1,10 +1,8 @@
-INFO:osmnx:Trying: Peggy Guggenheim Collection(45.4308, 12.3311), Category: art_galleries
-ERROR:osmnx:Failed to load graph: Found no graph nodes within the requested polygon.
-INFO:osmnx:Trying: Hermitage Museum (Amsterdam Branch)(52.3651, 4.9028), Category: museums
-INFO:osmnx:Graph loaded: 663 nodes, 1339 edges
-INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 8980
-INFO:osmnx:Related features found: 9014
+INFO:osmnx:Trying: University of Leeds(53.8067, -1.555), Category: universities
+INFO:osmnx:Graph loaded: 834 nodes, 1836 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 3537
+INFO:osmnx:Related features found: 3548
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Hermitage Museum (Amsterdam Branch)(52.3651, 4.9028)
+INFO:osmnx:README updated with University of Leeds(53.8067, -1.555)
