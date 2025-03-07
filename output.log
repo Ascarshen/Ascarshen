@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Museo de Arte Moderno (Mexico City)(19.4254, -99.1818), Category: art_galleries
-INFO:osmnx:Graph loaded: 561 nodes, 943 edges
+INFO:osmnx:Trying: National Portrait Gallery (London)(51.5094, -0.128), Category: art_galleries
+INFO:osmnx:Graph loaded: 738 nodes, 1413 edges
 INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 300
-INFO:osmnx:Related features found: 302
+INFO:osmnx:Buildings found: 4311
+INFO:osmnx:Related features found: 4329
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Museo de Arte Moderno (Mexico City)(19.4254, -99.1818)
+INFO:osmnx:README updated with National Portrait Gallery (London)(51.5094, -0.128)
