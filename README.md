@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Museo de Arte Moderno (Mexico City)(19.4254, -99.1818)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741369832)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-07 17:47:49(UTC) [^1] 
