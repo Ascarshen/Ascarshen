@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Hermitage Museum (Amsterdam Branch)(52.3651, 4.9028)
+### University of Leeds(53.8067, -1.555)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741337444)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-07 08:50:26(UTC) [^1] 
+Update time: 2025-03-07 09:11:32(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
