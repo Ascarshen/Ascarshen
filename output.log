@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: National Museum of Brazil (before fire)(-22.9058, -43.226), Category: museums
-INFO:osmnx:Graph loaded: 406 nodes, 694 edges
+INFO:osmnx:Trying: Museo de la Nación (Lima)(-12.087, -77.0018), Category: museums
+INFO:osmnx:Graph loaded: 671 nodes, 1434 edges
 INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 528
-INFO:osmnx:Related features found: 531
+INFO:osmnx:Buildings found: 1348
+INFO:osmnx:Related features found: 1349
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with National Museum of Brazil (before fire)(-22.9058, -43.226)
+INFO:osmnx:README updated with Museo de la Nación (Lima)(-12.087, -77.0018)

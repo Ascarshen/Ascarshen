@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Museo de la Nación (Lima)(-12.087, -77.0018)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741459689)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-08 18:47:57(UTC) [^1] 
