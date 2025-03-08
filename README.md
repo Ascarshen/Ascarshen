@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Yale University(41.3163, -72.9223)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741410558)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-08 05:09:09(UTC) [^1] 
