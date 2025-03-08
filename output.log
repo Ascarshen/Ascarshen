@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: University of Auckland(-36.8485, 174.7633), Category: universities
-INFO:osmnx:Graph loaded: 491 nodes, 1038 edges
-INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 2069
-INFO:osmnx:Related features found: 2086
+INFO:osmnx:Trying: National Gallery of Victoria(-37.8226, 144.9689), Category: art_galleries
+INFO:osmnx:Graph loaded: 602 nodes, 1125 edges
+INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
+INFO:osmnx:Buildings found: 1283
+INFO:osmnx:Related features found: 1290
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with University of Auckland(-36.8485, 174.7633)
+INFO:osmnx:README updated with National Gallery of Victoria(-37.8226, 144.9689)
