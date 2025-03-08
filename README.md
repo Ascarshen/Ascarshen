@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Museo de Arte Precolombino (Cusco)(-13.5167, -71.978)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741457528)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-08 18:11:53(UTC) [^1] 
