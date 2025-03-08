@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Pontifical Catholic University of Chile(-33.4412, -70.6408)
+### Museum of African Art (Belgrade)(44.8156, 20.4275)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741439371)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-08 13:09:18(UTC) [^1] 
+Update time: 2025-03-08 13:24:03(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
