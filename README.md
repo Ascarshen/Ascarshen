@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Stedelijk Museum(52.358, 4.8798)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741412874)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-08 05:47:38(UTC) [^1] 
