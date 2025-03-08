@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### University of Auckland(-36.8485, 174.7633)
+### Museum of Fine Arts (Houston)(29.7257, -95.3905)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741466006)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-08 20:33:15(UTC) [^1] 
+Update time: 2025-03-08 20:47:59(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
