@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Museum of Fine Arts (Budapest)(47.5159, 19.0771), Category: art_galleries
-INFO:osmnx:Graph loaded: 278 nodes, 570 edges
-INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 1631
-INFO:osmnx:Related features found: 1637
+INFO:osmnx:Trying: University of Auckland(-36.8485, 174.7633), Category: universities
+INFO:osmnx:Graph loaded: 491 nodes, 1038 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 2069
+INFO:osmnx:Related features found: 2086
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Museum of Fine Arts (Budapest)(47.5159, 19.0771)
+INFO:osmnx:README updated with University of Auckland(-36.8485, 174.7633)
