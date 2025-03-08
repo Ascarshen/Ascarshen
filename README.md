@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### National Museum of Mongolia(47.9212, 106.9177)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741473208)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-08 22:33:16(UTC) [^1] 
