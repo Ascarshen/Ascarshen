@@ -13,7 +13,7 @@
 
 ## 📅 Daily Quota
 <!-- START_SECTION:daily_motto -->
-"I went to a website the other day and right at the top of the page it showed me my ip address. It was the most disturbing moment I have ever experienced. This website even told me what internet browser I was using, and what day it was. Computers can do anything." — Edward Snowden
+"A computer once beat me at chess, but it was no match for me at kick boxing." — Emo Philips
 <!-- END_SECTION:daily_motto -->
 
 
