@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### State Hermitage Museum(59.9398, 30.3146)
+### San Francisco Museum of Modern Art (SFMOMA)(37.7857, -122.4011)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741432146)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-08 11:08:56(UTC) [^1] 
+Update time: 2025-03-08 11:20:13(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
