@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Alte Pinakothek(48.1482, 11.57), Category: art_galleries
-INFO:osmnx:Graph loaded: 387 nodes, 868 edges
-INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 3373
-INFO:osmnx:Related features found: 3449
+INFO:osmnx:Trying: Museum of New Zealand Te Papa(-41.2904, 174.7821), Category: museums
+INFO:osmnx:Graph loaded: 352 nodes, 735 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 3236
+INFO:osmnx:Related features found: 3237
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Alte Pinakothek(48.1482, 11.57)
+INFO:osmnx:README updated with Museum of New Zealand Te Papa(-41.2904, 174.7821)

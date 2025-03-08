@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Museum of New Zealand Te Papa(-41.2904, 174.7821)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741404408)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-08 03:26:38(UTC) [^1] 
