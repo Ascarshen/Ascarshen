@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Museum of African Art (Belgrade)(44.8156, 20.4275), Category: museums
-INFO:osmnx:Graph loaded: 395 nodes, 733 edges
-INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 958
-INFO:osmnx:Related features found: 958
+INFO:osmnx:Trying: Cornell University(42.4534, -76.4735), Category: universities
+INFO:osmnx:Graph loaded: 118 nodes, 295 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 532
+INFO:osmnx:Related features found: 537
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Museum of African Art (Belgrade)(44.8156, 20.4275)
+INFO:osmnx:README updated with Cornell University(42.4534, -76.4735)
