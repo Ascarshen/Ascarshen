@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: National Gallery of Art(38.891, -77.02), Category: art_galleries
-INFO:osmnx:Graph loaded: 408 nodes, 946 edges
+INFO:osmnx:Trying: Museum of Modern Art (Kuwait)(29.3697, 47.9635), Category: art_galleries
+INFO:osmnx:Graph loaded: 218 nodes, 332 edges
 INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 754
-INFO:osmnx:Related features found: 755
+INFO:osmnx:Buildings found: 230
+INFO:osmnx:Related features found: 230
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with National Gallery of Art(38.891, -77.02)
+INFO:osmnx:README updated with Museum of Modern Art (Kuwait)(29.3697, 47.9635)

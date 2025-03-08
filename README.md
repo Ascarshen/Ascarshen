@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Museum of Modern Art (Kuwait)(29.3697, 47.9635)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741451262)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-08 16:27:26(UTC) [^1] 
