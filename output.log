@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Museum of Contemporary Art (Tokyo)(35.6902, 139.705), Category: museums
-INFO:osmnx:Graph loaded: 904 nodes, 2110 edges
-INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 7954
-INFO:osmnx:Related features found: 7959
+INFO:osmnx:Trying: University of Illinois Urbana-Champaign(40.1019, -88.2272), Category: universities
+INFO:osmnx:Graph loaded: 188 nodes, 541 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 921
+INFO:osmnx:Related features found: 925
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Museum of Contemporary Art (Tokyo)(35.6902, 139.705)
+INFO:osmnx:README updated with University of Illinois Urbana-Champaign(40.1019, -88.2272)
