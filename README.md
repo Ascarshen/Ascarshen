@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Museum of Anthropology (UBC)(49.2698, -123.259)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741452490)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-08 16:48:02(UTC) [^1] 

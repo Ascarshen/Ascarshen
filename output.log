@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: University of Glasgow(55.8721, -4.2892), Category: universities
-INFO:osmnx:Graph loaded: 576 nodes, 1240 edges
-INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 3382
-INFO:osmnx:Related features found: 3385
+INFO:osmnx:Trying: Museum of Anthropology (UBC)(49.2698, -123.259), Category: museums
+INFO:osmnx:Graph loaded: 110 nodes, 262 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 435
+INFO:osmnx:Related features found: 436
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with University of Glasgow(55.8721, -4.2892)
+INFO:osmnx:README updated with Museum of Anthropology (UBC)(49.2698, -123.259)
