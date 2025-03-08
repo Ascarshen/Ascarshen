@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Museum of the History of Science (Oxford)(51.7545, -1.255)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741418566)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-08 07:22:34(UTC) [^1] 
