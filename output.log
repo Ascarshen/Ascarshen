@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: ETH Zurich(47.3769, 8.5481), Category: universities
-INFO:osmnx:Graph loaded: 587 nodes, 1245 edges
+INFO:osmnx:Trying: University College London (UCL)(51.5246, -0.134), Category: universities
+INFO:osmnx:Graph loaded: 755 nodes, 1555 edges
 INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 4536
-INFO:osmnx:Related features found: 4562
+INFO:osmnx:Buildings found: 4809
+INFO:osmnx:Related features found: 4853
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with ETH Zurich(47.3769, 8.5481)
+INFO:osmnx:README updated with University College London (UCL)(51.5246, -0.134)
