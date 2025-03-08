@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Tsinghua University(40.0005, 116.3264)
+### Museum of Tomorrow(-22.8951, -43.1803)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741408433)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-08 04:33:46(UTC) [^1] 
+Update time: 2025-03-08 04:47:31(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
