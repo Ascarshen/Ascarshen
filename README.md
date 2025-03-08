@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### University of Glasgow(55.8721, -4.2892)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741451688)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-08 16:34:34(UTC) [^1] 

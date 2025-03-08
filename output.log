@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Museum of Modern Art (Kuwait)(29.3697, 47.9635), Category: art_galleries
-INFO:osmnx:Graph loaded: 218 nodes, 332 edges
-INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 230
-INFO:osmnx:Related features found: 230
+INFO:osmnx:Trying: University of Glasgow(55.8721, -4.2892), Category: universities
+INFO:osmnx:Graph loaded: 576 nodes, 1240 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 3382
+INFO:osmnx:Related features found: 3385
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Museum of Modern Art (Kuwait)(29.3697, 47.9635)
+INFO:osmnx:README updated with University of Glasgow(55.8721, -4.2892)
