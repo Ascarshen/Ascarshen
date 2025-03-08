@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### University College London (UCL)(51.5246, -0.134)
+### University of Zurich(47.3748, 8.5481)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741401833)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-08 02:43:36(UTC) [^1] 
+Update time: 2025-03-08 02:50:30(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
