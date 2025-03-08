@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Museo de Arte de Lima(-12.0602, -77.0375), Category: art_galleries
-INFO:osmnx:Graph loaded: 589 nodes, 1010 edges
-INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 3137
-INFO:osmnx:Related features found: 3140
+INFO:osmnx:Trying: National Museum of Denmark(55.6747, 12.5746), Category: museums
+INFO:osmnx:Graph loaded: 516 nodes, 1062 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 2865
+INFO:osmnx:Related features found: 2878
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Museo de Arte de Lima(-12.0602, -77.0375)
+INFO:osmnx:README updated with National Museum of Denmark(55.6747, 12.5746)

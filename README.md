@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### National Museum of Denmark(55.6747, 12.5746)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741472691)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-08 22:24:40(UTC) [^1] 
