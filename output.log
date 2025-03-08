@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Museo de Arte Contemporaneo (Barcelona)(41.3833, 2.1669), Category: art_galleries
-INFO:osmnx:Graph loaded: 497 nodes, 802 edges
+INFO:osmnx:Trying: Museo de Arte Carrillo Gil(19.3478, -99.1856), Category: art_galleries
+INFO:osmnx:Graph loaded: 653 nodes, 1216 edges
 INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 6703
-INFO:osmnx:Related features found: 6723
+INFO:osmnx:Buildings found: 625
+INFO:osmnx:Related features found: 625
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Museo de Arte Contemporaneo (Barcelona)(41.3833, 2.1669)
+INFO:osmnx:README updated with Museo de Arte Carrillo Gil(19.3478, -99.1856)
