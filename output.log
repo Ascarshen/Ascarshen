@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Seoul National University(37.4602, 126.9519), Category: universities
-INFO:osmnx:Graph loaded: 35 nodes, 63 edges
-INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 233
-INFO:osmnx:Related features found: 236
+INFO:osmnx:Trying: San Francisco Museum of Modern Art (SFMOMA)(37.7857, -122.4011), Category: art_galleries
+INFO:osmnx:Graph loaded: 496 nodes, 1058 edges
+INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
+INFO:osmnx:Buildings found: 2832
+INFO:osmnx:Related features found: 2855
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Seoul National University(37.4602, 126.9519)
+INFO:osmnx:README updated with San Francisco Museum of Modern Art (SFMOMA)(37.7857, -122.4011)
