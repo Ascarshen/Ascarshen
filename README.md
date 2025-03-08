@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Field Museum (Chicago)(41.8663, -87.617)
+### University College London (UCL)(51.5246, -0.134)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741476224)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-08 23:23:34(UTC) [^1] 
+Update time: 2025-03-08 23:33:22(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
