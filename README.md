@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Museo Chileno de Arte Precolombino(-33.4399, -70.6524)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741427283)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-08 09:47:51(UTC) [^1] 

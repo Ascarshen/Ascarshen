@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: McGill University(45.5048, -73.5772), Category: universities
-INFO:osmnx:Graph loaded: 312 nodes, 640 edges
-INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 2308
-INFO:osmnx:Related features found: 2318
+INFO:osmnx:Trying: Museo Chileno de Arte Precolombino(-33.4399, -70.6524), Category: museums
+INFO:osmnx:Graph loaded: 493 nodes, 818 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 3351
+INFO:osmnx:Related features found: 3361
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with McGill University(45.5048, -73.5772)
+INFO:osmnx:README updated with Museo Chileno de Arte Precolombino(-33.4399, -70.6524)
