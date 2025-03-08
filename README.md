@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### University of Copenhagen(55.6805, 12.5722)
+### University of Auckland(-36.8485, 174.7633)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741422449)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-08 08:27:14(UTC) [^1] 
+Update time: 2025-03-08 08:35:29(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
