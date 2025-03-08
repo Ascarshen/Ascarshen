@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Kroller-Muller Museum(52.0956, 5.8167), Category: art_galleries
-INFO:osmnx:Graph loaded: 4 nodes, 6 edges
-INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 25
-INFO:osmnx:Related features found: 25
+INFO:osmnx:Trying: ETH Zurich(47.3769, 8.5481), Category: universities
+INFO:osmnx:Graph loaded: 587 nodes, 1245 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 4536
+INFO:osmnx:Related features found: 4562
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Kroller-Muller Museum(52.0956, 5.8167)
+INFO:osmnx:README updated with ETH Zurich(47.3769, 8.5481)
