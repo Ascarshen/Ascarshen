@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Museum of Anthropology (UBC)(49.2698, -123.259), Category: museums
-INFO:osmnx:Graph loaded: 110 nodes, 262 edges
-INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 435
-INFO:osmnx:Related features found: 436
+INFO:osmnx:Trying: Museo Nacional de Bellas Artes (Buenos Aires)(-34.584, -58.3928), Category: art_galleries
+INFO:osmnx:Graph loaded: 416 nodes, 833 edges
+INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
+INFO:osmnx:Buildings found: 934
+INFO:osmnx:Related features found: 935
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Museum of Anthropology (UBC)(49.2698, -123.259)
+INFO:osmnx:README updated with Museo Nacional de Bellas Artes (Buenos Aires)(-34.584, -58.3928)
