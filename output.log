@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Field Museum (Chicago)(41.8663, -87.617), Category: museums
-INFO:osmnx:Graph loaded: 161 nodes, 380 edges
-INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 1135
-INFO:osmnx:Related features found: 1136
+INFO:osmnx:Trying: University College London (UCL)(51.5246, -0.134), Category: universities
+INFO:osmnx:Graph loaded: 755 nodes, 1555 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 4809
+INFO:osmnx:Related features found: 4853
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Field Museum (Chicago)(41.8663, -87.617)
+INFO:osmnx:README updated with University College London (UCL)(51.5246, -0.134)
