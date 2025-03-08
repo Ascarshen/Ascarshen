@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### University of Auckland(-36.8485, 174.7633)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741468081)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-08 21:07:50(UTC) [^1] 
