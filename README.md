@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Stanford University(37.4275, -122.1697)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741433588)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-08 11:32:57(UTC) [^1] 
