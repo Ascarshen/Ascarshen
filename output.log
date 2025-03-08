@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Museo de Arte Precolombino (Cusco)(-13.5167, -71.978), Category: museums
-INFO:osmnx:Graph loaded: 388 nodes, 856 edges
+INFO:osmnx:Trying: National Museum of Qatar(25.2876, 51.5488), Category: museums
+INFO:osmnx:Graph loaded: 569 nodes, 1142 edges
 INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 3059
-INFO:osmnx:Related features found: 3082
+INFO:osmnx:Buildings found: 1360
+INFO:osmnx:Related features found: 1361
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Museo de Arte Precolombino (Cusco)(-13.5167, -71.978)
+INFO:osmnx:README updated with National Museum of Qatar(25.2876, 51.5488)
