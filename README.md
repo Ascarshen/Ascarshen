@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Kroller-Muller Museum(52.0956, 5.8167)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741428596)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-08 10:09:50(UTC) [^1] 
