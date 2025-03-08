@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Museo de Bellas Artes de Bilbao(43.265, -2.9366)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741404830)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-08 03:33:40(UTC) [^1] 
