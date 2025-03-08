@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Kyoto National Museum(34.9874, 135.7629)
+### Museo de Arte Carrillo Gil(19.3478, -99.1856)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741448010)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-08 15:33:03(UTC) [^1] 
+Update time: 2025-03-08 15:47:34(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
