@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Stedelijk Museum(52.358, 4.8798), Category: art_galleries
-INFO:osmnx:Graph loaded: 725 nodes, 1542 edges
-INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 10398
-INFO:osmnx:Related features found: 10410
+INFO:osmnx:Trying: Museu Nacional (Brazil)(-22.9058, -43.226), Category: museums
+INFO:osmnx:Graph loaded: 406 nodes, 694 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 528
+INFO:osmnx:Related features found: 531
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Stedelijk Museum(52.358, 4.8798)
+INFO:osmnx:README updated with Museu Nacional (Brazil)(-22.9058, -43.226)
