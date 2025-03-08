@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: The Louvre(48.8606, 2.3376), Category: museums
-INFO:osmnx:Graph loaded: 467 nodes, 780 edges
-INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 5845
-INFO:osmnx:Related features found: 5861
+INFO:osmnx:Trying: University of Toronto(43.6629, -79.3957), Category: universities
+INFO:osmnx:Graph loaded: 317 nodes, 780 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 3082
+INFO:osmnx:Related features found: 3099
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with The Louvre(48.8606, 2.3376)
+INFO:osmnx:README updated with University of Toronto(43.6629, -79.3957)

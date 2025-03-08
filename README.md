@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### University of Toronto(43.6629, -79.3957)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741470506)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-08 21:48:11(UTC) [^1] 
