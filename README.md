@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### University of Illinois Urbana-Champaign(40.1019, -88.2272)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741430882)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-08 10:47:54(UTC) [^1] 

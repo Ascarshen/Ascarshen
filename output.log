@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Museo de Arte Carrillo Gil(19.3478, -99.1856), Category: art_galleries
-INFO:osmnx:Graph loaded: 653 nodes, 1216 edges
-INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 625
-INFO:osmnx:Related features found: 625
+INFO:osmnx:Trying: University of Illinois Urbana-Champaign(40.1019, -88.2272), Category: universities
+INFO:osmnx:Graph loaded: 188 nodes, 541 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 921
+INFO:osmnx:Related features found: 925
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Museo de Arte Carrillo Gil(19.3478, -99.1856)
+INFO:osmnx:README updated with University of Illinois Urbana-Champaign(40.1019, -88.2272)
