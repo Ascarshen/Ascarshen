@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Museum of Fine Arts (Budapest)(47.5159, 19.0771)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741461573)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-08 19:19:21(UTC) [^1] 

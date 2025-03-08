@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Pontifical Catholic University of Chile(-33.4412, -70.6408), Category: universities
-INFO:osmnx:Graph loaded: 500 nodes, 827 edges
-INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 3471
-INFO:osmnx:Related features found: 3503
+INFO:osmnx:Trying: Museum of Fine Arts (Budapest)(47.5159, 19.0771), Category: art_galleries
+INFO:osmnx:Graph loaded: 278 nodes, 570 edges
+INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
+INFO:osmnx:Buildings found: 1631
+INFO:osmnx:Related features found: 1637
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Pontifical Catholic University of Chile(-33.4412, -70.6408)
+INFO:osmnx:README updated with Museum of Fine Arts (Budapest)(47.5159, 19.0771)
