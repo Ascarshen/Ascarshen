@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Art Institute of Chicago(41.8796, -87.6237), Category: art_galleries
-INFO:osmnx:Graph loaded: 373 nodes, 782 edges
+INFO:osmnx:Trying: Belvedere Museum(48.1915, 16.3808), Category: art_galleries
+INFO:osmnx:Graph loaded: 446 nodes, 857 edges
 INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 1090
-INFO:osmnx:Related features found: 1092
+INFO:osmnx:Buildings found: 2371
+INFO:osmnx:Related features found: 2375
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Art Institute of Chicago(41.8796, -87.6237)
+INFO:osmnx:README updated with Belvedere Museum(48.1915, 16.3808)

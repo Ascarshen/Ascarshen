@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Belvedere Museum(48.1915, 16.3808)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741412010)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-08 05:33:18(UTC) [^1] 
