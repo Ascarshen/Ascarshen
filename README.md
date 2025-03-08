@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### University of Oxford(51.7548, -1.254)
+### National Museum of Anthropology (Philippines)(14.5846, 120.9759)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741443803)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-08 14:23:11(UTC) [^1] 
+Update time: 2025-03-08 14:33:05(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
