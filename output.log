@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: University of Barcelona(41.3865, 2.1639), Category: universities
-INFO:osmnx:Graph loaded: 418 nodes, 711 edges
+INFO:osmnx:Trying: Pontifical Catholic University of Chile(-33.4412, -70.6408), Category: universities
+INFO:osmnx:Graph loaded: 500 nodes, 827 edges
 INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 6294
-INFO:osmnx:Related features found: 6310
+INFO:osmnx:Buildings found: 3471
+INFO:osmnx:Related features found: 3503
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with University of Barcelona(41.3865, 2.1639)
+INFO:osmnx:README updated with Pontifical Catholic University of Chile(-33.4412, -70.6408)
