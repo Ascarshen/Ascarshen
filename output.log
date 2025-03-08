@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: National Museum of Anthropology (Philippines)(14.5846, 120.9759), Category: museums
-INFO:osmnx:Graph loaded: 290 nodes, 594 edges
-INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 1717
-INFO:osmnx:Related features found: 1722
+INFO:osmnx:Trying: Hermitage Amsterdam(52.3651, 4.9028), Category: art_galleries
+INFO:osmnx:Graph loaded: 663 nodes, 1339 edges
+INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
+INFO:osmnx:Buildings found: 8980
+INFO:osmnx:Related features found: 8994
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with National Museum of Anthropology (Philippines)(14.5846, 120.9759)
+INFO:osmnx:README updated with Hermitage Amsterdam(52.3651, 4.9028)

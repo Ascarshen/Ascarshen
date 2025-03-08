@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Hermitage Amsterdam(52.3651, 4.9028)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741445304)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-08 14:48:02(UTC) [^1] 
