@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Museum of Tomorrow(-22.8951, -43.1803)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741409261)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-08 04:47:31(UTC) [^1] 

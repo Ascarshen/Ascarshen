@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Tsinghua University(40.0005, 116.3264), Category: universities
-INFO:osmnx:Graph loaded: 244 nodes, 535 edges
-INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 754
-INFO:osmnx:Related features found: 766
+INFO:osmnx:Trying: Museum of Tomorrow(-22.8951, -43.1803), Category: museums
+INFO:osmnx:Graph loaded: 197 nodes, 331 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 3930
+INFO:osmnx:Related features found: 3936
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Tsinghua University(40.0005, 116.3264)
+INFO:osmnx:README updated with Museum of Tomorrow(-22.8951, -43.1803)
