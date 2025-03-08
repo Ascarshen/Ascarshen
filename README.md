@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Harvard University(42.377, -71.1167)
+### Museo de Arte de Lima(-12.0602, -77.0375)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741419194)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-08 07:33:00(UTC) [^1] 
+Update time: 2025-03-08 07:47:43(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
