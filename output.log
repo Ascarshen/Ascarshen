@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Museo de Arte Carrillo Gil(19.3478, -99.1856), Category: art_galleries
-INFO:osmnx:Graph loaded: 653 nodes, 1216 edges
+INFO:osmnx:Trying: National Gallery of Art(38.891, -77.02), Category: art_galleries
+INFO:osmnx:Graph loaded: 408 nodes, 946 edges
 INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 625
-INFO:osmnx:Related features found: 625
+INFO:osmnx:Buildings found: 754
+INFO:osmnx:Related features found: 755
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Museo de Arte Carrillo Gil(19.3478, -99.1856)
+INFO:osmnx:README updated with National Gallery of Art(38.891, -77.02)
