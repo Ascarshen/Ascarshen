@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Museum of the Revolution (Havana)(23.1416, -82.356), Category: museums
-INFO:osmnx:Graph loaded: 453 nodes, 875 edges
+INFO:osmnx:Trying: Museum of the History of Science (Oxford)(51.7545, -1.255), Category: museums
+INFO:osmnx:Graph loaded: 292 nodes, 640 edges
 INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 2958
-INFO:osmnx:Related features found: 3003
+INFO:osmnx:Buildings found: 3318
+INFO:osmnx:Related features found: 3321
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Museum of the Revolution (Havana)(23.1416, -82.356)
+INFO:osmnx:README updated with Museum of the History of Science (Oxford)(51.7545, -1.255)
