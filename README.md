@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### The Louvre(48.8606, 2.3376)
+### University of Toronto(43.6629, -79.3957)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741469610)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-08 21:33:11(UTC) [^1] 
+Update time: 2025-03-08 21:48:11(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
