@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Art Institute of Chicago(41.8796, -87.6237)
+### Belvedere Museum(48.1915, 16.3808)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741411560)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-08 05:25:49(UTC) [^1] 
+Update time: 2025-03-08 05:33:18(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
