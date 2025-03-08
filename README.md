@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### National Museum of Anthropology (Philippines)(14.5846, 120.9759)
+### Hermitage Amsterdam(52.3651, 4.9028)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741444400)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-08 14:33:05(UTC) [^1] 
+Update time: 2025-03-08 14:48:02(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
