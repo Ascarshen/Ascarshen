@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Museo de Arte de Lima(-12.0602, -77.0375)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741471757)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-08 22:09:07(UTC) [^1] 

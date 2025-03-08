@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: University of Toronto(43.6629, -79.3957), Category: universities
-INFO:osmnx:Graph loaded: 317 nodes, 780 edges
-INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 3082
-INFO:osmnx:Related features found: 3099
+INFO:osmnx:Trying: Museo de Arte de Lima(-12.0602, -77.0375), Category: art_galleries
+INFO:osmnx:Graph loaded: 589 nodes, 1010 edges
+INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
+INFO:osmnx:Buildings found: 3137
+INFO:osmnx:Related features found: 3140
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with University of Toronto(43.6629, -79.3957)
+INFO:osmnx:README updated with Museo de Arte de Lima(-12.0602, -77.0375)
