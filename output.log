@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Museo de Bellas Artes de Bilbao(43.265, -2.9366), Category: art_galleries
-INFO:osmnx:Graph loaded: 575 nodes, 1035 edges
-INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 1261
-INFO:osmnx:Related features found: 1264
+INFO:osmnx:Trying: Sorbonne University(48.8503, 2.3431), Category: universities
+INFO:osmnx:Graph loaded: 553 nodes, 1011 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 6194
+INFO:osmnx:Related features found: 6256
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Museo de Bellas Artes de Bilbao(43.265, -2.9366)
+INFO:osmnx:README updated with Sorbonne University(48.8503, 2.3431)
