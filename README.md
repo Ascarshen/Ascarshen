@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Field Museum (Chicago)(41.8663, -87.617)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741476224)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-08 23:23:34(UTC) [^1] 
