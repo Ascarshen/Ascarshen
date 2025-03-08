@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Kyoto National Museum(34.9874, 135.7629)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741448010)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-08 15:33:03(UTC) [^1] 
