@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: University of Oxford(51.7548, -1.254), Category: universities
-INFO:osmnx:Graph loaded: 283 nodes, 612 edges
-INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 3405
-INFO:osmnx:Related features found: 3496
+INFO:osmnx:Trying: National Museum of Anthropology (Philippines)(14.5846, 120.9759), Category: museums
+INFO:osmnx:Graph loaded: 290 nodes, 594 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 1717
+INFO:osmnx:Related features found: 1722
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with University of Oxford(51.7548, -1.254)
+INFO:osmnx:README updated with National Museum of Anthropology (Philippines)(14.5846, 120.9759)
