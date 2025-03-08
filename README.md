@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Tsinghua University(40.0005, 116.3264)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741468947)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-08 21:22:21(UTC) [^1] 
