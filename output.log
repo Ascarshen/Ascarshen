@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Kroller-Muller Museum(52.0956, 5.8167), Category: art_galleries
-INFO:osmnx:Graph loaded: 4 nodes, 6 edges
+INFO:osmnx:Trying: Museo de Arte Contemporaneo (Barcelona)(41.3833, 2.1669), Category: art_galleries
+INFO:osmnx:Graph loaded: 497 nodes, 802 edges
 INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 25
-INFO:osmnx:Related features found: 25
+INFO:osmnx:Buildings found: 6703
+INFO:osmnx:Related features found: 6723
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Kroller-Muller Museum(52.0956, 5.8167)
+INFO:osmnx:README updated with Museo de Arte Contemporaneo (Barcelona)(41.3833, 2.1669)
