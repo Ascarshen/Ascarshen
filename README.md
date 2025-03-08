@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Pontifical Catholic University of Chile(-33.4412, -70.6408)
+### Museum of Fine Arts (Budapest)(47.5159, 19.0771)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741460949)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-08 19:08:58(UTC) [^1] 
+Update time: 2025-03-08 19:19:21(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
