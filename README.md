@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### University of Zurich(47.3748, 8.5481)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741402246)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-08 02:50:30(UTC) [^1] 
