@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Museum of New Zealand Te Papa(-41.2904, 174.7821), Category: museums
-INFO:osmnx:Graph loaded: 352 nodes, 735 edges
+INFO:osmnx:Trying: State Hermitage Museum(59.9398, 30.3146), Category: museums
+INFO:osmnx:Graph loaded: 298 nodes, 545 edges
 INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 3236
-INFO:osmnx:Related features found: 3237
+INFO:osmnx:Buildings found: 804
+INFO:osmnx:Related features found: 854
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Museum of New Zealand Te Papa(-41.2904, 174.7821)
+INFO:osmnx:README updated with State Hermitage Museum(59.9398, 30.3146)
