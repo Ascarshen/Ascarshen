@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### National Museum of Ethiopia(9.0369, 38.7618)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741442878)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-08 14:07:51(UTC) [^1] 

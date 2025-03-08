@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Royal Ontario Museum(43.6677, -79.3948), Category: museums
-INFO:osmnx:Graph loaded: 314 nodes, 775 edges
+INFO:osmnx:Trying: National Museum of Ethiopia(9.0369, 38.7618), Category: museums
+INFO:osmnx:Graph loaded: 563 nodes, 1236 edges
 INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 3036
-INFO:osmnx:Related features found: 3042
+INFO:osmnx:Buildings found: 538
+INFO:osmnx:Related features found: 540
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Royal Ontario Museum(43.6677, -79.3948)
+INFO:osmnx:README updated with National Museum of Ethiopia(9.0369, 38.7618)
