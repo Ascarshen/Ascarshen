@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Alte Pinakothek(48.1482, 11.57)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741403459)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-08 03:10:47(UTC) [^1] 
