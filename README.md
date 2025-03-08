@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### San Francisco Museum of Modern Art (SFMOMA)(37.7857, -122.4011)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741432832)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-08 11:20:13(UTC) [^1] 
