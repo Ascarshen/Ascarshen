@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Cornell University(42.4534, -76.4735), Category: universities
-INFO:osmnx:Graph loaded: 118 nodes, 295 edges
-INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 532
-INFO:osmnx:Related features found: 537
+INFO:osmnx:Trying: Royal Ontario Museum(43.6677, -79.3948), Category: museums
+INFO:osmnx:Graph loaded: 314 nodes, 775 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 3036
+INFO:osmnx:Related features found: 3042
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Cornell University(42.4534, -76.4735)
+INFO:osmnx:README updated with Royal Ontario Museum(43.6677, -79.3948)
