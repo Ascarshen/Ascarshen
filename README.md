@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### National Museum of Anthropology (Philippines)(14.5846, 120.9759)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741492077)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-09 03:47:47(UTC) [^1] 
