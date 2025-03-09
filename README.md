@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### University of Sheffield(53.3811, -1.4882)
+### Museo Nacional de Bellas Artes (Buenos Aires)(-34.584, -58.3928)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741512807)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-09 09:33:14(UTC) [^1] 
+Update time: 2025-03-09 09:47:51(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
