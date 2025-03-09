@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Museo de Arte Moderno de Bogotá(4.6059, -74.0731), Category: art_galleries
-INFO:osmnx:Graph loaded: 547 nodes, 1037 edges
+INFO:osmnx:Trying: Pushkin State Museum of Fine Arts(55.7472, 37.6051), Category: art_galleries
+INFO:osmnx:Graph loaded: 289 nodes, 537 edges
 INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 2932
-INFO:osmnx:Related features found: 2934
+INFO:osmnx:Buildings found: 1992
+INFO:osmnx:Related features found: 2010
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Museo de Arte Moderno de Bogotá(4.6059, -74.0731)
+INFO:osmnx:README updated with Pushkin State Museum of Fine Arts(55.7472, 37.6051)
