@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: University of São Paulo(-23.5614, -46.7308), Category: universities
-INFO:osmnx:Graph loaded: 180 nodes, 285 edges
+INFO:osmnx:Trying: University of Texas at Austin(30.2849, -97.7341), Category: universities
+INFO:osmnx:Graph loaded: 360 nodes, 803 edges
 INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 1050
-INFO:osmnx:Related features found: 1067
+INFO:osmnx:Buildings found: 1294
+INFO:osmnx:Related features found: 1298
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with University of São Paulo(-23.5614, -46.7308)
+INFO:osmnx:README updated with University of Texas at Austin(30.2849, -97.7341)
