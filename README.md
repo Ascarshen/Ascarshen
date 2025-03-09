@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Rijksmuseum(52.36, 4.8852)
+### Seoul National University(37.4602, 126.9519)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741519291)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-09 11:21:11(UTC) [^1] 
+Update time: 2025-03-09 11:33:07(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
