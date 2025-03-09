@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Museo Nacional de Bellas Artes (Buenos Aires)(-34.584, -58.3928)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741513682)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-09 09:47:51(UTC) [^1] 
