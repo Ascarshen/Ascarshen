@@ -1,8 +1,10 @@
-INFO:osmnx:Trying: National Museum of China(39.9037, 116.3951), Category: museums
-INFO:osmnx:Graph loaded: 176 nodes, 387 edges
-INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 1281
-INFO:osmnx:Related features found: 1284
+INFO:osmnx:Trying: Peggy Guggenheim Collection(45.4308, 12.3311), Category: art_galleries
+ERROR:osmnx:Failed to load graph: Found no graph nodes within the requested polygon.
+INFO:osmnx:Trying: National Museum of Modern and Contemporary Art (Seoul)(37.579, 126.975), Category: art_galleries
+INFO:osmnx:Graph loaded: 259 nodes, 549 edges
+INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
+INFO:osmnx:Buildings found: 5037
+INFO:osmnx:Related features found: 5045
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with National Museum of China(39.9037, 116.3951)
+INFO:osmnx:README updated with National Museum of Modern and Contemporary Art (Seoul)(37.579, 126.975)
