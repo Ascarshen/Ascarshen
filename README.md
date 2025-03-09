@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Museo Nacional de Arte (Mexico City)(19.4361, -99.1392)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741532972)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-09 15:09:24(UTC) [^1] 

@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Museum of Contemporary Art (Sydney)(-33.8599, 151.209), Category: art_galleries
-INFO:osmnx:Graph loaded: 226 nodes, 467 edges
+INFO:osmnx:Trying: Museo Nacional de Arte (Mexico City)(19.4361, -99.1392), Category: art_galleries
+INFO:osmnx:Graph loaded: 457 nodes, 820 edges
 INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 1237
-INFO:osmnx:Related features found: 1242
+INFO:osmnx:Buildings found: 855
+INFO:osmnx:Related features found: 855
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Museum of Contemporary Art (Sydney)(-33.8599, 151.209)
+INFO:osmnx:README updated with Museo Nacional de Arte (Mexico City)(19.4361, -99.1392)
