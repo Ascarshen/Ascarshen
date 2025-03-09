@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Museo de Bellas Artes de Bilbao(43.265, -2.9366)
+### MIT(42.3601, -71.0942)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741545412)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-09 18:36:42(UTC) [^1] 
+Update time: 2025-03-09 18:48:40(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
