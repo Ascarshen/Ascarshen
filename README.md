@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### University of Helsinki(60.1726, 24.951)
+### The Whitney Museum of American Art(40.7396, -74.0089)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741553303)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-09 20:48:14(UTC) [^1] 
+Update time: 2025-03-09 21:09:04(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
