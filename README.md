@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Museo de Arte Moderno de Bogotá(4.6059, -74.0731)
+### Harvard University(42.377, -71.1167)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741493454)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-09 04:10:43(UTC) [^1] 
+Update time: 2025-03-09 04:27:16(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
