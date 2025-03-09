@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Museo Soumaya(19.4406, -99.2049)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741506492)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-09 07:48:06(UTC) [^1] 
