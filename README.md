@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Victoria and Albert Museum(51.4966, -0.1722)
+### National Museum of Qatar(25.2876, 51.5488)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741524854)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-09 12:54:00(UTC) [^1] 
+Update time: 2025-03-09 13:10:11(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
