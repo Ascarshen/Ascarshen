@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### National Gallery of Art(38.891, -77.02)
+### Museum of South Australia(-34.9205, 138.6033)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741489867)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-09 03:10:56(UTC) [^1] 
+Update time: 2025-03-09 03:27:51(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
