@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Pushkin State Museum of Fine Arts(55.7472, 37.6051)
+### National Museum of Finland(60.1749, 24.9355)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741549697)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-09 19:48:05(UTC) [^1] 
+Update time: 2025-03-09 20:09:41(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
