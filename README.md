@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Kiasma Museum of Contemporary Art(60.1718, 24.9366)
+### University of Warwick(52.3793, -1.5619)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741534414)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-09 15:33:25(UTC) [^1] 
+Update time: 2025-03-09 15:48:23(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
