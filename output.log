@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: National Gallery of Ireland(53.3409, -6.2525), Category: art_galleries
-INFO:osmnx:Graph loaded: 533 nodes, 1105 edges
+INFO:osmnx:Trying: Thyssen-Bornemisza Museum(40.416, -3.6949), Category: art_galleries
+INFO:osmnx:Graph loaded: 639 nodes, 1043 edges
 INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 5789
-INFO:osmnx:Related features found: 5794
+INFO:osmnx:Buildings found: 4720
+INFO:osmnx:Related features found: 4723
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with National Gallery of Ireland(53.3409, -6.2525)
+INFO:osmnx:README updated with Thyssen-Bornemisza Museum(40.416, -3.6949)
