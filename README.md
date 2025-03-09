@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Seoul National University(37.4602, 126.9519)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741519993)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-09 11:33:07(UTC) [^1] 
