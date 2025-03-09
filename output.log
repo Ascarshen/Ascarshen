@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: University of Geneva(46.199, 6.1443), Category: universities
-INFO:osmnx:Graph loaded: 783 nodes, 1603 edges
+INFO:osmnx:Trying: ETH Zurich(47.3769, 8.5481), Category: universities
+INFO:osmnx:Graph loaded: 587 nodes, 1245 edges
 INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 4425
-INFO:osmnx:Related features found: 4458
+INFO:osmnx:Buildings found: 4536
+INFO:osmnx:Related features found: 4562
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with University of Geneva(46.199, 6.1443)
+INFO:osmnx:README updated with ETH Zurich(47.3769, 8.5481)

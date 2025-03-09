@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### ETH Zurich(47.3769, 8.5481)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741548802)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-09 19:33:09(UTC) [^1] 
