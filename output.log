@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Museum of Fine Arts (Boston)(42.3394, -71.094), Category: art_galleries
-INFO:osmnx:Graph loaded: 467 nodes, 1008 edges
+INFO:osmnx:Trying: Galleria Borghese(41.9142, 12.4923), Category: art_galleries
+INFO:osmnx:Graph loaded: 547 nodes, 997 edges
 INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 2124
-INFO:osmnx:Related features found: 2127
+INFO:osmnx:Buildings found: 1930
+INFO:osmnx:Related features found: 1932
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Museum of Fine Arts (Boston)(42.3394, -71.094)
+INFO:osmnx:README updated with Galleria Borghese(41.9142, 12.4923)
