@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### National Gallery of Scotland(55.9509, -3.1956)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741538908)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-09 16:48:13(UTC) [^1] 
