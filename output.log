@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: National Gallery of Scotland(55.9509, -3.1956), Category: art_galleries
-INFO:osmnx:Graph loaded: 600 nodes, 1308 edges
+INFO:osmnx:Trying: Museo de Bellas Artes (Valencia)(39.4789, -0.375), Category: art_galleries
+INFO:osmnx:Graph loaded: 696 nodes, 1167 edges
 INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 5932
-INFO:osmnx:Related features found: 5945
+INFO:osmnx:Buildings found: 4284
+INFO:osmnx:Related features found: 4284
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with National Gallery of Scotland(55.9509, -3.1956)
+INFO:osmnx:README updated with Museo de Bellas Artes (Valencia)(39.4789, -0.375)

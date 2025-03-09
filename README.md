@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Museo de Bellas Artes (Valencia)(39.4789, -0.375)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741563230)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-09 23:33:39(UTC) [^1] 
