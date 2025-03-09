@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Nanyang Technological University(1.3483, 103.6831)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741556890)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-09 21:48:03(UTC) [^1] 
