@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Centre Pompidou(48.8606, 2.3522), Category: art_galleries
-INFO:osmnx:Graph loaded: 495 nodes, 811 edges
-INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 6794
-INFO:osmnx:Related features found: 6999
+INFO:osmnx:Trying: University of Sheffield(53.3811, -1.4882), Category: universities
+INFO:osmnx:Graph loaded: 864 nodes, 1923 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 2915
+INFO:osmnx:Related features found: 2923
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Centre Pompidou(48.8606, 2.3522)
+INFO:osmnx:README updated with University of Sheffield(53.3811, -1.4882)
