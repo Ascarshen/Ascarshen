@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Museo de Arte Moderno de Bogotá(4.6059, -74.0731), Category: art_galleries
-INFO:osmnx:Graph loaded: 547 nodes, 1037 edges
-INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 2932
-INFO:osmnx:Related features found: 2934
+INFO:osmnx:Trying: Harvard University(42.377, -71.1167), Category: universities
+INFO:osmnx:Graph loaded: 608 nodes, 1268 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 3933
+INFO:osmnx:Related features found: 3961
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Museo de Arte Moderno de Bogotá(4.6059, -74.0731)
+INFO:osmnx:README updated with Harvard University(42.377, -71.1167)
