@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### National Gallery of Scotland(55.9509, -3.1956)
+### Museo de Bellas Artes (Valencia)(39.4789, -0.375)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741562519)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-09 23:21:47(UTC) [^1] 
+Update time: 2025-03-09 23:33:39(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
