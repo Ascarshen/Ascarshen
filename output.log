@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: National Museum of Anthropology (Luanda)(-8.8132, 13.2318), Category: museums
-INFO:osmnx:Graph loaded: 472 nodes, 918 edges
-INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 473
-INFO:osmnx:Related features found: 477
+INFO:osmnx:Trying: Guggenheim Museum Bilbao(43.2687, -2.9339), Category: art_galleries
+INFO:osmnx:Graph loaded: 413 nodes, 728 edges
+INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
+INFO:osmnx:Buildings found: 945
+INFO:osmnx:Related features found: 948
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with National Museum of Anthropology (Luanda)(-8.8132, 13.2318)
+INFO:osmnx:README updated with Guggenheim Museum Bilbao(43.2687, -2.9339)
