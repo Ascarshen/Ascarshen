@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Kunsthaus Zurich(47.3705, 8.548)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741544907)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-09 18:28:16(UTC) [^1] 
