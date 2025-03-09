@@ -1,10 +1,8 @@
-INFO:osmnx:Trying: Peggy Guggenheim Collection(45.4308, 12.3311), Category: art_galleries
-ERROR:osmnx:Failed to load graph: Found no graph nodes within the requested polygon.
-INFO:osmnx:Trying: National Museum of Modern and Contemporary Art (Seoul)(37.579, 126.975), Category: art_galleries
-INFO:osmnx:Graph loaded: 259 nodes, 549 edges
-INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 5037
-INFO:osmnx:Related features found: 5045
+INFO:osmnx:Trying: Pergamon Museum(52.521, 13.3965), Category: museums
+INFO:osmnx:Graph loaded: 356 nodes, 850 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 2628
+INFO:osmnx:Related features found: 2656
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with National Museum of Modern and Contemporary Art (Seoul)(37.579, 126.975)
+INFO:osmnx:README updated with Pergamon Museum(52.521, 13.3965)
