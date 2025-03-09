@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: National Art Gallery (Islamabad)(33.7362, 73.0845), Category: art_galleries
-INFO:osmnx:Graph loaded: 262 nodes, 568 edges
+INFO:osmnx:Trying: National Museum of Contemporary Art (Athens)(37.9942, 23.7328), Category: art_galleries
+INFO:osmnx:Graph loaded: 1109 nodes, 2056 edges
 INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 81
-INFO:osmnx:Related features found: 83
+INFO:osmnx:Buildings found: 8096
+INFO:osmnx:Related features found: 8104
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with National Art Gallery (Islamabad)(33.7362, 73.0845)
+INFO:osmnx:README updated with National Museum of Contemporary Art (Athens)(37.9942, 23.7328)
