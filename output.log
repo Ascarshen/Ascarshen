@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Museo de Bellas Artes de Bilbao(43.265, -2.9366), Category: art_galleries
-INFO:osmnx:Graph loaded: 575 nodes, 1035 edges
-INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 1261
-INFO:osmnx:Related features found: 1264
+INFO:osmnx:Trying: MIT(42.3601, -71.0942), Category: universities
+INFO:osmnx:Graph loaded: 389 nodes, 835 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 2137
+INFO:osmnx:Related features found: 2147
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Museo de Bellas Artes de Bilbao(43.265, -2.9366)
+INFO:osmnx:README updated with MIT(42.3601, -71.0942)

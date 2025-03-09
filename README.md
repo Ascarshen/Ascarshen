@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### MIT(42.3601, -71.0942)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741546134)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-09 18:48:40(UTC) [^1] 
