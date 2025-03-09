@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Pushkin State Museum of Fine Arts(55.7472, 37.6051)
+### Museum of Modern Art (MoMA)(40.7614, -73.9776)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741516296)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-09 10:31:25(UTC) [^1] 
+Update time: 2025-03-09 10:40:00(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
