@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### The Whitney Museum of American Art(40.7396, -74.0089)
+### National Gallery of Ireland(53.3409, -6.2525)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741554556)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-09 21:09:04(UTC) [^1] 
+Update time: 2025-03-09 21:23:16(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
