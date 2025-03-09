@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Museum of Fine Arts (Boston)(42.3394, -71.094)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741527203)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-09 13:33:11(UTC) [^1] 
