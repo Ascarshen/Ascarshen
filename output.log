@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: National Gallery of Scotland(55.9509, -3.1956), Category: art_galleries
-INFO:osmnx:Graph loaded: 600 nodes, 1308 edges
+INFO:osmnx:Trying: Museum of Contemporary Art (Sydney)(-33.8599, 151.209), Category: art_galleries
+INFO:osmnx:Graph loaded: 226 nodes, 467 edges
 INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 5932
-INFO:osmnx:Related features found: 5945
+INFO:osmnx:Buildings found: 1237
+INFO:osmnx:Related features found: 1242
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with National Gallery of Scotland(55.9509, -3.1956)
+INFO:osmnx:README updated with Museum of Contemporary Art (Sydney)(-33.8599, 151.209)
