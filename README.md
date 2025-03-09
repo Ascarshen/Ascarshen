@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### National Museum of Finland(60.1749, 24.9355)
+### Tate Britain(51.491, -0.1278)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741550990)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-09 20:09:41(UTC) [^1] 
+Update time: 2025-03-09 20:25:50(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
