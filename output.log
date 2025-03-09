@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Egyptian Museum(30.0478, 31.2336), Category: museums
-INFO:osmnx:Graph loaded: 840 nodes, 1811 edges
+INFO:osmnx:Trying: National Museum of Anthropology (Luanda)(-8.8132, 13.2318), Category: museums
+INFO:osmnx:Graph loaded: 472 nodes, 918 edges
 INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 1619
-INFO:osmnx:Related features found: 1621
+INFO:osmnx:Buildings found: 473
+INFO:osmnx:Related features found: 477
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Egyptian Museum(30.0478, 31.2336)
+INFO:osmnx:README updated with National Museum of Anthropology (Luanda)(-8.8132, 13.2318)
