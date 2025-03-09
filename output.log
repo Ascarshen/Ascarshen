@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: University of Barcelona(41.3865, 2.1639), Category: universities
-INFO:osmnx:Graph loaded: 418 nodes, 711 edges
-INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 6294
-INFO:osmnx:Related features found: 6310
+INFO:osmnx:Trying: National Museum of Uzbekistan(41.3004, 69.271), Category: museums
+INFO:osmnx:Graph loaded: 304 nodes, 639 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 1584
+INFO:osmnx:Related features found: 1590
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with University of Barcelona(41.3865, 2.1639)
+INFO:osmnx:README updated with National Museum of Uzbekistan(41.3004, 69.271)
