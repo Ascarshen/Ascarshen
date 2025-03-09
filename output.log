@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Museo de Arte de Ponce(18.0038, -66.617), Category: art_galleries
-INFO:osmnx:Graph loaded: 518 nodes, 1347 edges
-INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 5056
-INFO:osmnx:Related features found: 5056
+INFO:osmnx:Trying: University of Southern California (USC)(34.0224, -118.2851), Category: universities
+INFO:osmnx:Graph loaded: 290 nodes, 743 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 2675
+INFO:osmnx:Related features found: 2680
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Museo de Arte de Ponce(18.0038, -66.617)
+INFO:osmnx:README updated with University of Southern California (USC)(34.0224, -118.2851)
