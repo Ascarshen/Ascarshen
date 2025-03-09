@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Museu de Arte de Sao Paulo (MASP)(-23.5614, -46.6559), Category: art_galleries
-INFO:osmnx:Graph loaded: 421 nodes, 762 edges
+INFO:osmnx:Trying: Hermitage Amsterdam(52.3651, 4.9028), Category: art_galleries
+INFO:osmnx:Graph loaded: 662 nodes, 1338 edges
 INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 8050
-INFO:osmnx:Related features found: 8053
+INFO:osmnx:Buildings found: 8980
+INFO:osmnx:Related features found: 8994
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Museu de Arte de Sao Paulo (MASP)(-23.5614, -46.6559)
+INFO:osmnx:README updated with Hermitage Amsterdam(52.3651, 4.9028)
