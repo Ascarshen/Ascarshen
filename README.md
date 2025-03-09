@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Caltech(34.1377, -118.1253)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741538218)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-09 16:36:46(UTC) [^1] 

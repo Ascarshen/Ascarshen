@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Hermitage Amsterdam(52.3651, 4.9028), Category: art_galleries
-INFO:osmnx:Graph loaded: 662 nodes, 1338 edges
-INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 8980
-INFO:osmnx:Related features found: 8994
+INFO:osmnx:Trying: Caltech(34.1377, -118.1253), Category: universities
+INFO:osmnx:Graph loaded: 198 nodes, 558 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 2306
+INFO:osmnx:Related features found: 2308
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Hermitage Amsterdam(52.3651, 4.9028)
+INFO:osmnx:README updated with Caltech(34.1377, -118.1253)
