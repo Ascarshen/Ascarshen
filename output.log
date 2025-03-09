@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: University of Sheffield(53.3811, -1.4882), Category: universities
-INFO:osmnx:Graph loaded: 864 nodes, 1923 edges
+INFO:osmnx:Trying: University of Alberta(53.5268, -113.5247), Category: universities
+INFO:osmnx:Graph loaded: 211 nodes, 490 edges
 INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 2915
-INFO:osmnx:Related features found: 2923
+INFO:osmnx:Buildings found: 1626
+INFO:osmnx:Related features found: 1628
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with University of Sheffield(53.3811, -1.4882)
+INFO:osmnx:README updated with University of Alberta(53.5268, -113.5247)
