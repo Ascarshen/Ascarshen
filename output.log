@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: The Whitney Museum of American Art(40.7396, -74.0089), Category: art_galleries
-INFO:osmnx:Graph loaded: 261 nodes, 482 edges
+INFO:osmnx:Trying: National Gallery of Ireland(53.3409, -6.2525), Category: art_galleries
+INFO:osmnx:Graph loaded: 533 nodes, 1105 edges
 INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 3763
-INFO:osmnx:Related features found: 3814
+INFO:osmnx:Buildings found: 5789
+INFO:osmnx:Related features found: 5794
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with The Whitney Museum of American Art(40.7396, -74.0089)
+INFO:osmnx:README updated with National Gallery of Ireland(53.3409, -6.2525)
