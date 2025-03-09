@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Museu Nacional (Brazil)(-22.9058, -43.226), Category: museums
-INFO:osmnx:Graph loaded: 406 nodes, 694 edges
-INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 528
-INFO:osmnx:Related features found: 531
+INFO:osmnx:Trying: Johns Hopkins University(39.3299, -76.6205), Category: universities
+INFO:osmnx:Graph loaded: 368 nodes, 878 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 6647
+INFO:osmnx:Related features found: 6651
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Museu Nacional (Brazil)(-22.9058, -43.226)
+INFO:osmnx:README updated with Johns Hopkins University(39.3299, -76.6205)
