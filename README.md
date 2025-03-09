@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Museo de Arte Moderno de Bogotá(4.6059, -74.0731)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741515093)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-09 10:11:20(UTC) [^1] 

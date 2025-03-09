@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Museo Nacional de Bellas Artes (Buenos Aires)(-34.584, -58.3928), Category: art_galleries
-INFO:osmnx:Graph loaded: 416 nodes, 833 edges
+INFO:osmnx:Trying: Museo de Arte Moderno de Bogotá(4.6059, -74.0731), Category: art_galleries
+INFO:osmnx:Graph loaded: 547 nodes, 1037 edges
 INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 934
-INFO:osmnx:Related features found: 935
+INFO:osmnx:Buildings found: 2932
+INFO:osmnx:Related features found: 2934
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Museo Nacional de Bellas Artes (Buenos Aires)(-34.584, -58.3928)
+INFO:osmnx:README updated with Museo de Arte Moderno de Bogotá(4.6059, -74.0731)
