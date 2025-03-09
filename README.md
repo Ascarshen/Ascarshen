@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### UC Berkeley(37.8719, -122.2585)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741491340)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-09 03:35:25(UTC) [^1] 
