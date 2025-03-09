@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Museum of South Australia(-34.9205, 138.6033)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741490881)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-09 03:27:51(UTC) [^1] 

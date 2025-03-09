@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: National Gallery of Art(38.891, -77.02), Category: art_galleries
-INFO:osmnx:Graph loaded: 408 nodes, 946 edges
-INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 754
-INFO:osmnx:Related features found: 755
+INFO:osmnx:Trying: Museum of South Australia(-34.9205, 138.6033), Category: museums
+INFO:osmnx:Graph loaded: 383 nodes, 810 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 1446
+INFO:osmnx:Related features found: 1451
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with National Gallery of Art(38.891, -77.02)
+INFO:osmnx:README updated with Museum of South Australia(-34.9205, 138.6033)
