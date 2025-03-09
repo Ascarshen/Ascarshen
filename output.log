@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Kunsthaus Zurich(47.3705, 8.548), Category: art_galleries
-INFO:osmnx:Graph loaded: 606 nodes, 1259 edges
+INFO:osmnx:Trying: Museo de Bellas Artes de Bilbao(43.265, -2.9366), Category: art_galleries
+INFO:osmnx:Graph loaded: 575 nodes, 1035 edges
 INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 4122
-INFO:osmnx:Related features found: 4160
+INFO:osmnx:Buildings found: 1261
+INFO:osmnx:Related features found: 1264
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Kunsthaus Zurich(47.3705, 8.548)
+INFO:osmnx:README updated with Museo de Bellas Artes de Bilbao(43.265, -2.9366)
