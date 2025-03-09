@@ -13,7 +13,7 @@
 
 ## 📅 Daily Quota
 <!-- START_SECTION:daily_motto -->
-"A computer once beat me at chess, but it was no match for me at kick boxing." — Emo Philips
+"Bill Gates is just a monocle and a Persian Cat away from being one of the bad guys in a James Bond movie." — Dennis Miller
 <!-- END_SECTION:daily_motto -->
 
 
