@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Nanyang Technological University(1.3483, 103.6831), Category: universities
-INFO:osmnx:Graph loaded: 131 nodes, 241 edges
-INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 447
-INFO:osmnx:Related features found: 450
+INFO:osmnx:Trying: Museo de Arte de Ponce(18.0038, -66.617), Category: art_galleries
+INFO:osmnx:Graph loaded: 518 nodes, 1347 edges
+INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
+INFO:osmnx:Buildings found: 5056
+INFO:osmnx:Related features found: 5056
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Nanyang Technological University(1.3483, 103.6831)
+INFO:osmnx:README updated with Museo de Arte de Ponce(18.0038, -66.617)
