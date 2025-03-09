@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Pushkin State Museum of Fine Arts(55.7472, 37.6051), Category: art_galleries
-INFO:osmnx:Graph loaded: 289 nodes, 537 edges
-INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 1992
-INFO:osmnx:Related features found: 2010
+INFO:osmnx:Trying: National Museum of Finland(60.1749, 24.9355), Category: museums
+INFO:osmnx:Graph loaded: 428 nodes, 926 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 1335
+INFO:osmnx:Related features found: 1342
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Pushkin State Museum of Fine Arts(55.7472, 37.6051)
+INFO:osmnx:README updated with National Museum of Finland(60.1749, 24.9355)
