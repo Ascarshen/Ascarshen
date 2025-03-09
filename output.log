@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Victoria and Albert Museum(51.4966, -0.1722), Category: museums
-INFO:osmnx:Graph loaded: 680 nodes, 1613 edges
+INFO:osmnx:Trying: National Museum of Qatar(25.2876, 51.5488), Category: museums
+INFO:osmnx:Graph loaded: 569 nodes, 1142 edges
 INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 5098
-INFO:osmnx:Related features found: 5102
+INFO:osmnx:Buildings found: 1360
+INFO:osmnx:Related features found: 1361
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Victoria and Albert Museum(51.4966, -0.1722)
+INFO:osmnx:README updated with National Museum of Qatar(25.2876, 51.5488)
