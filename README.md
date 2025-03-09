@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Nanyang Technological University(1.3483, 103.6831)
+### Museo de Arte de Ponce(18.0038, -66.617)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741556890)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-09 21:48:03(UTC) [^1] 
+Update time: 2025-03-09 22:09:19(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
