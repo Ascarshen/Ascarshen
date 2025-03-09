@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Pushkin State Museum of Fine Arts(55.7472, 37.6051), Category: art_galleries
-INFO:osmnx:Graph loaded: 289 nodes, 537 edges
+INFO:osmnx:Trying: Museum of Modern Art (MoMA)(40.7614, -73.9776), Category: art_galleries
+INFO:osmnx:Graph loaded: 340 nodes, 637 edges
 INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 1992
-INFO:osmnx:Related features found: 2010
+INFO:osmnx:Buildings found: 3186
+INFO:osmnx:Related features found: 3190
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Pushkin State Museum of Fine Arts(55.7472, 37.6051)
+INFO:osmnx:README updated with Museum of Modern Art (MoMA)(40.7614, -73.9776)
