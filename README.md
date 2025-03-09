@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### University of Alberta(53.5268, -113.5247)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741552422)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-09 20:33:31(UTC) [^1] 
