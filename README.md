@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Pushkin State Museum of Fine Arts(55.7472, 37.6051)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741549697)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-09 19:48:05(UTC) [^1] 
