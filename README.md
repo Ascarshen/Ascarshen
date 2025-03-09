@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### University of Warwick(52.3793, -1.5619)
+### Museu de Arte de Sao Paulo (MASP)(-23.5614, -46.6559)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741535311)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-09 15:48:23(UTC) [^1] 
+Update time: 2025-03-09 16:10:42(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
