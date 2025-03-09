@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Queensland Art Gallery(-27.4705, 153.0179), Category: art_galleries
-INFO:osmnx:Graph loaded: 527 nodes, 1044 edges
-INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 1726
-INFO:osmnx:Related features found: 1730
+INFO:osmnx:Trying: Shanghai Museum(31.2304, 121.47), Category: museums
+INFO:osmnx:Graph loaded: 484 nodes, 1032 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 1811
+INFO:osmnx:Related features found: 1816
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Queensland Art Gallery(-27.4705, 153.0179)
+INFO:osmnx:README updated with Shanghai Museum(31.2304, 121.47)

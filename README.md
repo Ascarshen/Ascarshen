@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Shanghai Museum(31.2304, 121.47)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741495696)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-09 04:48:08(UTC) [^1] 
