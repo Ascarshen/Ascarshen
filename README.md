@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### University of São Paulo(-23.5614, -46.7308)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741502891)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-09 06:48:02(UTC) [^1] 
