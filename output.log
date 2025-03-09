@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: University of Warwick(52.3793, -1.5619), Category: universities
-INFO:osmnx:Graph loaded: 124 nodes, 232 edges
-INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 1278
-INFO:osmnx:Related features found: 1281
+INFO:osmnx:Trying: Museu de Arte de Sao Paulo (MASP)(-23.5614, -46.6559), Category: art_galleries
+INFO:osmnx:Graph loaded: 421 nodes, 762 edges
+INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
+INFO:osmnx:Buildings found: 8050
+INFO:osmnx:Related features found: 8053
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with University of Warwick(52.3793, -1.5619)
+INFO:osmnx:README updated with Museu de Arte de Sao Paulo (MASP)(-23.5614, -46.6559)
