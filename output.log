@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Museo de Bellas Artes (Valencia)(39.4789, -0.375), Category: art_galleries
-INFO:osmnx:Graph loaded: 696 nodes, 1167 edges
-INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 4284
-INFO:osmnx:Related features found: 4284
+INFO:osmnx:Trying: Tokyo National Museum(35.7189, 139.7756), Category: museums
+INFO:osmnx:Graph loaded: 835 nodes, 1870 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 9855
+INFO:osmnx:Related features found: 9867
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Museo de Bellas Artes (Valencia)(39.4789, -0.375)
+INFO:osmnx:README updated with Tokyo National Museum(35.7189, 139.7756)
