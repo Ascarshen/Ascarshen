@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Guggenheim Museum Bilbao(43.2687, -2.9339), Category: art_galleries
-INFO:osmnx:Graph loaded: 413 nodes, 728 edges
+INFO:osmnx:Trying: Tate Modern(51.5076, -0.0994), Category: art_galleries
+INFO:osmnx:Graph loaded: 902 nodes, 1871 edges
 INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 945
-INFO:osmnx:Related features found: 948
+INFO:osmnx:Buildings found: 3007
+INFO:osmnx:Related features found: 3011
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Guggenheim Museum Bilbao(43.2687, -2.9339)
+INFO:osmnx:README updated with Tate Modern(51.5076, -0.0994)
