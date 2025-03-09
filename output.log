@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: National Museum of Contemporary Art (Athens)(37.9942, 23.7328), Category: art_galleries
-INFO:osmnx:Graph loaded: 1109 nodes, 2056 edges
-INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 8096
-INFO:osmnx:Related features found: 8104
+INFO:osmnx:Trying: Museum of South Australia(-34.9205, 138.6033), Category: museums
+INFO:osmnx:Graph loaded: 383 nodes, 810 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 1449
+INFO:osmnx:Related features found: 1454
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with National Museum of Contemporary Art (Athens)(37.9942, 23.7328)
+INFO:osmnx:README updated with Museum of South Australia(-34.9205, 138.6033)
