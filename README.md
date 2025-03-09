@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Pergamon Museum(52.521, 13.3965)
+### Fudan University(31.2989, 121.4992)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741501840)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-09 06:30:27(UTC) [^1] 
+Update time: 2025-03-09 06:38:40(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
