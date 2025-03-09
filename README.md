@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### National Museum of Anthropology (Luanda)(-8.8132, 13.2318)
+### Guggenheim Museum Bilbao(43.2687, -2.9339)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741510076)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-09 08:47:48(UTC) [^1] 
+Update time: 2025-03-09 09:10:40(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
