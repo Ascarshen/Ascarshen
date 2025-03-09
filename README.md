@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Kyoto University(35.0261, 135.7808)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741496985)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-09 05:09:26(UTC) [^1] 

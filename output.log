@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Shanghai Museum(31.2304, 121.47), Category: museums
-INFO:osmnx:Graph loaded: 484 nodes, 1032 edges
-INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 1811
-INFO:osmnx:Related features found: 1816
+INFO:osmnx:Trying: Kyoto University(35.0261, 135.7808), Category: universities
+INFO:osmnx:Graph loaded: 986 nodes, 2633 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 14286
+INFO:osmnx:Related features found: 14301
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Shanghai Museum(31.2304, 121.47)
+INFO:osmnx:README updated with Kyoto University(35.0261, 135.7808)
