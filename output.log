@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: University of Sheffield(53.3811, -1.4882), Category: universities
-INFO:osmnx:Graph loaded: 864 nodes, 1923 edges
-INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 2915
-INFO:osmnx:Related features found: 2923
+INFO:osmnx:Trying: National Museum of Singapore(1.2966, 103.8486), Category: museums
+INFO:osmnx:Graph loaded: 419 nodes, 706 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 1753
+INFO:osmnx:Related features found: 1762
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with University of Sheffield(53.3811, -1.4882)
+INFO:osmnx:README updated with National Museum of Singapore(1.2966, 103.8486)
