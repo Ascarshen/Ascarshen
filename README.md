@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### University of Malaya(3.1209, 101.6538)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741505065)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-09 07:24:16(UTC) [^1] 
