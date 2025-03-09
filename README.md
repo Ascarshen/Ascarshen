@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Fudan University(31.2989, 121.4992)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741502327)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-09 06:38:40(UTC) [^1] 
