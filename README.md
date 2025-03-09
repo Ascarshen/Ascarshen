@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Fudan University(31.2989, 121.4992)
+### University of São Paulo(-23.5614, -46.7308)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741502327)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-09 06:38:40(UTC) [^1] 
+Update time: 2025-03-09 06:48:02(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
