@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### National Museum of China(39.9037, 116.3951)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741499287)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-09 05:48:00(UTC) [^1] 

@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Museo de Arte de Ponce(18.0038, -66.617), Category: art_galleries
-INFO:osmnx:Graph loaded: 518 nodes, 1347 edges
-INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 5056
-INFO:osmnx:Related features found: 5056
+INFO:osmnx:Trying: National Museum of China(39.9037, 116.3951), Category: museums
+INFO:osmnx:Graph loaded: 176 nodes, 387 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 1281
+INFO:osmnx:Related features found: 1284
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Museo de Arte de Ponce(18.0038, -66.617)
+INFO:osmnx:README updated with National Museum of China(39.9037, 116.3951)
