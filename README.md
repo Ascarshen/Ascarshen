@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### University of Bologna(44.4972, 11.3538)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741603707)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-10 10:48:13(UTC) [^1] 

@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: National Museum of Ethiopia(9.0369, 38.7618), Category: museums
-INFO:osmnx:Graph loaded: 563 nodes, 1236 edges
-INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 538
-INFO:osmnx:Related features found: 540
+INFO:osmnx:Trying: University of Bologna(44.4972, 11.3538), Category: universities
+INFO:osmnx:Graph loaded: 430 nodes, 762 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 8077
+INFO:osmnx:Related features found: 8191
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with National Museum of Ethiopia(9.0369, 38.7618)
+INFO:osmnx:README updated with University of Bologna(44.4972, 11.3538)
