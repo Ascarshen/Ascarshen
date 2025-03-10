@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: National Museum of China(39.9037, 116.3951), Category: museums
-INFO:osmnx:Graph loaded: 176 nodes, 387 edges
-INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 1282
-INFO:osmnx:Related features found: 1285
+INFO:osmnx:Trying: Museo de Bellas Artes (Valencia)(39.4789, -0.375), Category: art_galleries
+INFO:osmnx:Graph loaded: 696 nodes, 1167 edges
+INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
+INFO:osmnx:Buildings found: 4284
+INFO:osmnx:Related features found: 4284
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with National Museum of China(39.9037, 116.3951)
+INFO:osmnx:README updated with Museo de Bellas Artes (Valencia)(39.4789, -0.375)
