@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: University of Malaya(3.1209, 101.6538), Category: universities
-INFO:osmnx:Graph loaded: 201 nodes, 399 edges
-INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 1416
-INFO:osmnx:Related features found: 1442
+INFO:osmnx:Trying: Museum of Turkish and Islamic Arts(41.0062, 28.9652), Category: museums
+INFO:osmnx:Graph loaded: 621 nodes, 1422 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 5958
+INFO:osmnx:Related features found: 5977
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with University of Malaya(3.1209, 101.6538)
+INFO:osmnx:README updated with Museum of Turkish and Islamic Arts(41.0062, 28.9652)

@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Museum of Turkish and Islamic Arts(41.0062, 28.9652)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741584404)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-10 05:26:34(UTC) [^1] 
