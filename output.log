@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: National Museum of Anthropology (Madrid)(40.408, -3.6885), Category: museums
-INFO:osmnx:Graph loaded: 490 nodes, 828 edges
-INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 2646
-INFO:osmnx:Related features found: 2655
+INFO:osmnx:Trying: University of British Columbia(49.2606, -123.246), Category: universities
+INFO:osmnx:Graph loaded: 220 nodes, 492 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 724
+INFO:osmnx:Related features found: 727
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with National Museum of Anthropology (Madrid)(40.408, -3.6885)
+INFO:osmnx:README updated with University of British Columbia(49.2606, -123.246)

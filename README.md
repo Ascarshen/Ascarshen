@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### University of British Columbia(49.2606, -123.246)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741623123)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-10 16:11:52(UTC) [^1] 
