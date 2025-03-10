@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Pergamon Museum(52.521, 13.3965)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741597885)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-10 09:11:11(UTC) [^1] 

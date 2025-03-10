@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: National Museum of China(39.9037, 116.3951), Category: museums
-INFO:osmnx:Graph loaded: 176 nodes, 387 edges
+INFO:osmnx:Trying: Pergamon Museum(52.521, 13.3965), Category: museums
+INFO:osmnx:Graph loaded: 357 nodes, 852 edges
 INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 1281
-INFO:osmnx:Related features found: 1284
+INFO:osmnx:Buildings found: 2628
+INFO:osmnx:Related features found: 2656
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with National Museum of China(39.9037, 116.3951)
+INFO:osmnx:README updated with Pergamon Museum(52.521, 13.3965)
