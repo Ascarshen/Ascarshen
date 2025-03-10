@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Museo de Arte Colonial (Caracas)(10.5061, -66.9156), Category: museums
-INFO:osmnx:Graph loaded: 481 nodes, 907 edges
-INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 720
-INFO:osmnx:Related features found: 722
+INFO:osmnx:Trying: Nanyang Technological University(1.3483, 103.6831), Category: universities
+INFO:osmnx:Graph loaded: 131 nodes, 241 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 447
+INFO:osmnx:Related features found: 450
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Museo de Arte Colonial (Caracas)(10.5061, -66.9156)
+INFO:osmnx:README updated with Nanyang Technological University(1.3483, 103.6831)
