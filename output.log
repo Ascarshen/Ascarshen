@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Fondation Beyeler(47.5878, 7.6512), Category: art_galleries
-INFO:osmnx:Graph loaded: 215 nodes, 505 edges
-INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 3358
-INFO:osmnx:Related features found: 3360
+INFO:osmnx:Trying: National Museum of China(39.9037, 116.3951), Category: museums
+INFO:osmnx:Graph loaded: 176 nodes, 387 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 1281
+INFO:osmnx:Related features found: 1284
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Fondation Beyeler(47.5878, 7.6512)
+INFO:osmnx:README updated with National Museum of China(39.9037, 116.3951)
