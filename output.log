@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Columbia University(40.8075, -73.9626), Category: universities
-INFO:osmnx:Graph loaded: 307 nodes, 714 edges
-INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 2507
-INFO:osmnx:Related features found: 2519
+INFO:osmnx:Trying: Museu Nacional (Brazil)(-22.9058, -43.226), Category: museums
+INFO:osmnx:Graph loaded: 406 nodes, 694 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 528
+INFO:osmnx:Related features found: 531
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Columbia University(40.8075, -73.9626)
+INFO:osmnx:README updated with Museu Nacional (Brazil)(-22.9058, -43.226)
