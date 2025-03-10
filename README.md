@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Museum of Tomorrow(-22.8951, -43.1803)
+### Pinacoteca do Estado de Sao Paulo(-23.5346, -46.634)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741580868)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-10 04:27:40(UTC) [^1] 
+Update time: 2025-03-10 04:37:01(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
