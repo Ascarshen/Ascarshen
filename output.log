@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Museum of the City of New York(40.7925, -73.9519), Category: museums
-INFO:osmnx:Graph loaded: 295 nodes, 571 edges
-INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 2548
-INFO:osmnx:Related features found: 2550
+INFO:osmnx:Trying: Kiasma Museum of Contemporary Art(60.1718, 24.9366), Category: art_galleries
+INFO:osmnx:Graph loaded: 476 nodes, 1019 edges
+INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
+INFO:osmnx:Buildings found: 1521
+INFO:osmnx:Related features found: 1543
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Museum of the City of New York(40.7925, -73.9519)
+INFO:osmnx:README updated with Kiasma Museum of Contemporary Art(60.1718, 24.9366)
