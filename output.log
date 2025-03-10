@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Tokyo National Museum(35.7189, 139.7756), Category: museums
-INFO:osmnx:Graph loaded: 835 nodes, 1870 edges
-INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 9855
-INFO:osmnx:Related features found: 9867
+INFO:osmnx:Trying: Australian National University(-35.2778, 149.1185), Category: universities
+INFO:osmnx:Graph loaded: 343 nodes, 678 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 663
+INFO:osmnx:Related features found: 668
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Tokyo National Museum(35.7189, 139.7756)
+INFO:osmnx:README updated with Australian National University(-35.2778, 149.1185)

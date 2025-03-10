@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Australian National University(-35.2778, 149.1185)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741567329)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-10 00:42:01(UTC) [^1] 
