@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### National Gallery of Ireland(53.3409, -6.2525)
+### Israel Museum(31.7725, 35.2046)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741628486)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-10 17:40:26(UTC) [^1] 
+Update time: 2025-03-10 17:48:37(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
