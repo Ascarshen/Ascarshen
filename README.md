@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### University of Bologna(44.4972, 11.3538)
+### Museo de Arte Colonial (Caracas)(10.5061, -66.9156)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741603707)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-10 10:48:13(UTC) [^1] 
+Update time: 2025-03-10 11:08:33(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
