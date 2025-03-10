@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Museo Soumaya(19.4406, -99.2049)
+### National Museum of Qatar(25.2876, 51.5488)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741630432)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-10 18:13:44(UTC) [^1] 
+Update time: 2025-03-10 18:37:22(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
