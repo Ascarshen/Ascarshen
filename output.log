@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Kyoto National Museum(34.9874, 135.7629), Category: museums
-INFO:osmnx:Graph loaded: 893 nodes, 2012 edges
-INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 14507
-INFO:osmnx:Related features found: 14515
+INFO:osmnx:Trying: Alte Pinakothek(48.1482, 11.57), Category: art_galleries
+INFO:osmnx:Graph loaded: 387 nodes, 868 edges
+INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
+INFO:osmnx:Buildings found: 3373
+INFO:osmnx:Related features found: 3449
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Kyoto National Museum(34.9874, 135.7629)
+INFO:osmnx:README updated with Alte Pinakothek(48.1482, 11.57)
