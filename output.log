@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Harvard University(42.377, -71.1167), Category: universities
-INFO:osmnx:Graph loaded: 608 nodes, 1268 edges
-INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 3933
-INFO:osmnx:Related features found: 3961
+INFO:osmnx:Trying: National Museum of Ethiopia(9.0369, 38.7618), Category: museums
+INFO:osmnx:Graph loaded: 563 nodes, 1236 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 538
+INFO:osmnx:Related features found: 540
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Harvard University(42.377, -71.1167)
+INFO:osmnx:README updated with National Museum of Ethiopia(9.0369, 38.7618)
