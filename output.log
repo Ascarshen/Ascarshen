@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Art Institute of Chicago(41.8796, -87.6237), Category: art_galleries
-INFO:osmnx:Graph loaded: 373 nodes, 782 edges
+INFO:osmnx:Trying: Fondation Beyeler(47.5878, 7.6512), Category: art_galleries
+INFO:osmnx:Graph loaded: 215 nodes, 505 edges
 INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 1090
-INFO:osmnx:Related features found: 1092
+INFO:osmnx:Buildings found: 3358
+INFO:osmnx:Related features found: 3360
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Art Institute of Chicago(41.8796, -87.6237)
+INFO:osmnx:README updated with Fondation Beyeler(47.5878, 7.6512)

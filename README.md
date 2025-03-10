@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Fondation Beyeler(47.5878, 7.6512)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741595475)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-10 08:31:01(UTC) [^1] 
