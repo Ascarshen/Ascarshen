@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### National Museum of Denmark(55.6747, 12.5746)
+### National Museum of Singapore(1.2966, 103.8486)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741574904)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-10 02:48:13(UTC) [^1] 
+Update time: 2025-03-10 03:12:15(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
