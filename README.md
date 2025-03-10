@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### University of Southern California (USC)(34.0224, -118.2851)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741590725)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-10 07:11:45(UTC) [^1] 
