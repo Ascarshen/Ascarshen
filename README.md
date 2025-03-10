@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### National Museum of Anthropology (Madrid)(40.408, -3.6885)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741621721)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-10 15:48:30(UTC) [^1] 
