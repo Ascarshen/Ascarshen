@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: National Gallery(51.5089, -0.1283), Category: art_galleries
-INFO:osmnx:Graph loaded: 721 nodes, 1383 edges
-INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 4188
-INFO:osmnx:Related features found: 4207
+INFO:osmnx:Trying: ETH Zurich(47.3769, 8.5481), Category: universities
+INFO:osmnx:Graph loaded: 587 nodes, 1245 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 4536
+INFO:osmnx:Related features found: 4562
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with National Gallery(51.5089, -0.1283)
+INFO:osmnx:README updated with ETH Zurich(47.3769, 8.5481)
