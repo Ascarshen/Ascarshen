@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Rijksmuseum(52.36, 4.8852)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741592065)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-10 07:34:07(UTC) [^1] 
