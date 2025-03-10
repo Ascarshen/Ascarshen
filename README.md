@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### University of British Columbia(49.2606, -123.246)
+### Guggenheim Museum (New York)(40.783, -73.959)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741623123)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-10 16:11:52(UTC) [^1] 
+Update time: 2025-03-10 16:34:55(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
