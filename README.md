@@ -13,7 +13,7 @@
 
 ## 📅 Daily Quota
 <!-- START_SECTION:daily_motto -->
-"Bill Gates is just a monocle and a Persian Cat away from being one of the bad guys in a James Bond movie." — Dennis Miller
+"My hope is that in the future, women stop referring to themselves as 'the only woman' in their physics lab or 'only one of two' in their computer science jobs." — Kirsten Gillibrand
 <!-- END_SECTION:daily_motto -->
 
 
