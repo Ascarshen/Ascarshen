@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: University of Texas at Austin(30.2849, -97.7341), Category: universities
-INFO:osmnx:Graph loaded: 360 nodes, 803 edges
-INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 1294
-INFO:osmnx:Related features found: 1298
+INFO:osmnx:Trying: Kyoto National Museum(34.9874, 135.7629), Category: museums
+INFO:osmnx:Graph loaded: 893 nodes, 2012 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 14507
+INFO:osmnx:Related features found: 14515
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with University of Texas at Austin(30.2849, -97.7341)
+INFO:osmnx:README updated with Kyoto National Museum(34.9874, 135.7629)
