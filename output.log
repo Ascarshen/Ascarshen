@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Museum of the Revolution (Havana)(23.1416, -82.356), Category: museums
-INFO:osmnx:Graph loaded: 453 nodes, 875 edges
+INFO:osmnx:Trying: National Museum of Denmark(55.6747, 12.5746), Category: museums
+INFO:osmnx:Graph loaded: 516 nodes, 1062 edges
 INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 2958
-INFO:osmnx:Related features found: 3003
+INFO:osmnx:Buildings found: 2865
+INFO:osmnx:Related features found: 2878
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Museum of the Revolution (Havana)(23.1416, -82.356)
+INFO:osmnx:README updated with National Museum of Denmark(55.6747, 12.5746)
