@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: University of British Columbia(49.2606, -123.246), Category: universities
-INFO:osmnx:Graph loaded: 220 nodes, 492 edges
-INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 724
-INFO:osmnx:Related features found: 727
+INFO:osmnx:Trying: Guggenheim Museum (New York)(40.783, -73.959), Category: art_galleries
+INFO:osmnx:Graph loaded: 259 nodes, 506 edges
+INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
+INFO:osmnx:Buildings found: 3418
+INFO:osmnx:Related features found: 3420
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with University of British Columbia(49.2606, -123.246)
+INFO:osmnx:README updated with Guggenheim Museum (New York)(40.783, -73.959)

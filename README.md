@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Guggenheim Museum (New York)(40.783, -73.959)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741624560)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-10 16:34:55(UTC) [^1] 
