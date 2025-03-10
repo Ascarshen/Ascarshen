@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Pinacoteca do Estado de Sao Paulo(-23.5346, -46.634)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741581443)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-10 04:37:01(UTC) [^1] 
