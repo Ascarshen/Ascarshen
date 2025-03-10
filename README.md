@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Museum of the City of New York(40.7925, -73.9519)
+### Kiasma Museum of Contemporary Art(60.1718, 24.9366)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741600126)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-10 09:48:30(UTC) [^1] 
+Update time: 2025-03-10 10:11:21(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
