@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Guggenheim Museum (New York)(40.783, -73.959)
+### McGill University(45.5048, -73.5772)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741624560)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-10 16:34:55(UTC) [^1] 
+Update time: 2025-03-10 16:53:42(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
