@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: National Museum of Cambodia(11.5678, 104.9312), Category: museums
-INFO:osmnx:Graph loaded: 210 nodes, 544 edges
-INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 2512
-INFO:osmnx:Related features found: 2513
+INFO:osmnx:Trying: University of Malaya(3.1209, 101.6538), Category: universities
+INFO:osmnx:Graph loaded: 201 nodes, 399 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 1416
+INFO:osmnx:Related features found: 1442
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with National Museum of Cambodia(11.5678, 104.9312)
+INFO:osmnx:README updated with University of Malaya(3.1209, 101.6538)
