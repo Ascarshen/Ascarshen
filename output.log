@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Cornell University(42.4534, -76.4735), Category: universities
-INFO:osmnx:Graph loaded: 118 nodes, 295 edges
-INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 532
-INFO:osmnx:Related features found: 537
+INFO:osmnx:Trying: Museo de Arte Contemporaneo (Barcelona)(41.3833, 2.1669), Category: art_galleries
+INFO:osmnx:Graph loaded: 497 nodes, 802 edges
+INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
+INFO:osmnx:Buildings found: 6703
+INFO:osmnx:Related features found: 6723
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Cornell University(42.4534, -76.4735)
+INFO:osmnx:README updated with Museo de Arte Contemporaneo (Barcelona)(41.3833, 2.1669)
