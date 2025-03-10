@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### McGill University(45.5048, -73.5772)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741614197)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-10 13:43:04(UTC) [^1] 
