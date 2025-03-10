@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Cornell University(42.4534, -76.4735)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741588391)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-10 06:33:05(UTC) [^1] 
