@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Tretyakov Gallery(55.7415, 37.6208)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741618175)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-10 14:49:24(UTC) [^1] 
