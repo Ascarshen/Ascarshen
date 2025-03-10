@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Museum of Tomorrow(-22.8951, -43.1803), Category: museums
-INFO:osmnx:Graph loaded: 197 nodes, 331 edges
+INFO:osmnx:Trying: Museum of South Australia(-34.9205, 138.6033), Category: museums
+INFO:osmnx:Graph loaded: 383 nodes, 810 edges
 INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 3930
-INFO:osmnx:Related features found: 3936
+INFO:osmnx:Buildings found: 1449
+INFO:osmnx:Related features found: 1454
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Museum of Tomorrow(-22.8951, -43.1803)
+INFO:osmnx:README updated with Museum of South Australia(-34.9205, 138.6033)
