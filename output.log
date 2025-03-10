@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: National Museum of Singapore(1.2966, 103.8486), Category: museums
-INFO:osmnx:Graph loaded: 419 nodes, 706 edges
-INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 1753
-INFO:osmnx:Related features found: 1762
+INFO:osmnx:Trying: National Gallery(51.5089, -0.1283), Category: art_galleries
+INFO:osmnx:Graph loaded: 721 nodes, 1383 edges
+INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
+INFO:osmnx:Buildings found: 4188
+INFO:osmnx:Related features found: 4207
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with National Museum of Singapore(1.2966, 103.8486)
+INFO:osmnx:README updated with National Gallery(51.5089, -0.1283)
