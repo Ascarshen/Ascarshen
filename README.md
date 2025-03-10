@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### The British Museum(51.5194, -0.127)
+### McGill University(45.5048, -73.5772)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741613284)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-10 13:27:49(UTC) [^1] 
+Update time: 2025-03-10 13:43:04(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
