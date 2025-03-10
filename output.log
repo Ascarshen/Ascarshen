@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Guggenheim Museum (New York)(40.783, -73.959), Category: art_galleries
-INFO:osmnx:Graph loaded: 259 nodes, 506 edges
-INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 3418
-INFO:osmnx:Related features found: 3420
+INFO:osmnx:Trying: McGill University(45.5048, -73.5772), Category: universities
+INFO:osmnx:Graph loaded: 312 nodes, 640 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 2308
+INFO:osmnx:Related features found: 2318
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Guggenheim Museum (New York)(40.783, -73.959)
+INFO:osmnx:README updated with McGill University(45.5048, -73.5772)
