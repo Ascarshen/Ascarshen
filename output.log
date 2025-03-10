@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: University of British Columbia(49.2606, -123.246), Category: universities
-INFO:osmnx:Graph loaded: 220 nodes, 492 edges
+INFO:osmnx:Trying: University of Helsinki(60.1726, 24.951), Category: universities
+INFO:osmnx:Graph loaded: 326 nodes, 714 edges
 INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 724
-INFO:osmnx:Related features found: 727
+INFO:osmnx:Buildings found: 1184
+INFO:osmnx:Related features found: 1199
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with University of British Columbia(49.2606, -123.246)
+INFO:osmnx:README updated with University of Helsinki(60.1726, 24.951)
