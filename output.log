@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Zhejiang University(30.2626, 120.1224), Category: universities
-INFO:osmnx:Graph loaded: 161 nodes, 350 edges
-INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 542
-INFO:osmnx:Related features found: 543
+INFO:osmnx:Trying: Museum of the Revolution (Havana)(23.1416, -82.356), Category: museums
+INFO:osmnx:Graph loaded: 453 nodes, 875 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 2958
+INFO:osmnx:Related features found: 3003
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Zhejiang University(30.2626, 120.1224)
+INFO:osmnx:README updated with Museum of the Revolution (Havana)(23.1416, -82.356)

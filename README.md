@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Museum of the Revolution (Havana)(23.1416, -82.356)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741573801)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-10 02:29:52(UTC) [^1] 
