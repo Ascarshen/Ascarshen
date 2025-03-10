@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Columbia University(40.8075, -73.9626)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741584823)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-10 05:33:31(UTC) [^1] 

@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Museum of Turkish and Islamic Arts(41.0062, 28.9652), Category: museums
-INFO:osmnx:Graph loaded: 621 nodes, 1422 edges
-INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
-INFO:osmnx:Buildings found: 5958
-INFO:osmnx:Related features found: 5977
+INFO:osmnx:Trying: Columbia University(40.8075, -73.9626), Category: universities
+INFO:osmnx:Graph loaded: 307 nodes, 714 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 2507
+INFO:osmnx:Related features found: 2519
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Museum of Turkish and Islamic Arts(41.0062, 28.9652)
+INFO:osmnx:README updated with Columbia University(40.8075, -73.9626)
