@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### Fondation Beyeler(47.5878, 7.6512)
+### National Museum of China(39.9037, 116.3951)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741595475)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-10 08:31:01(UTC) [^1] 
+Update time: 2025-03-10 08:39:32(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
