@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: National Gallery of Ireland(53.3409, -6.2525), Category: art_galleries
-INFO:osmnx:Graph loaded: 533 nodes, 1105 edges
-INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 5789
-INFO:osmnx:Related features found: 5794
+INFO:osmnx:Trying: Israel Museum(31.7725, 35.2046), Category: museums
+INFO:osmnx:Graph loaded: 519 nodes, 941 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 1644
+INFO:osmnx:Related features found: 1648
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with National Gallery of Ireland(53.3409, -6.2525)
+INFO:osmnx:README updated with Israel Museum(31.7725, 35.2046)

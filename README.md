@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Israel Museum(31.7725, 35.2046)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741628965)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-10 17:48:37(UTC) [^1] 
