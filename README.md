@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### National University of Singapore(1.2966, 103.7764)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741611622)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-10 13:00:12(UTC) [^1] 
