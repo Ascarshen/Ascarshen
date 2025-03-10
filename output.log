@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Australian National University(-35.2778, 149.1185), Category: universities
-INFO:osmnx:Graph loaded: 343 nodes, 678 edges
+INFO:osmnx:Trying: Zhejiang University(30.2626, 120.1224), Category: universities
+INFO:osmnx:Graph loaded: 161 nodes, 350 edges
 INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 663
-INFO:osmnx:Related features found: 668
+INFO:osmnx:Buildings found: 542
+INFO:osmnx:Related features found: 543
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Australian National University(-35.2778, 149.1185)
+INFO:osmnx:README updated with Zhejiang University(30.2626, 120.1224)
