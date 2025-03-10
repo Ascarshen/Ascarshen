@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### National Museum of Scotland(55.947, -3.19)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741615958)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-10 14:12:06(UTC) [^1] 
