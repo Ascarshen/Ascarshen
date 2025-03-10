@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: University of Bologna(44.4972, 11.3538), Category: universities
-INFO:osmnx:Graph loaded: 430 nodes, 762 edges
-INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 8077
-INFO:osmnx:Related features found: 8191
+INFO:osmnx:Trying: Museo de Arte Colonial (Caracas)(10.5061, -66.9156), Category: museums
+INFO:osmnx:Graph loaded: 481 nodes, 907 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 720
+INFO:osmnx:Related features found: 722
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with University of Bologna(44.4972, 11.3538)
+INFO:osmnx:README updated with Museo de Arte Colonial (Caracas)(10.5061, -66.9156)
