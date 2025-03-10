@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### University of Southern California (USC)(34.0224, -118.2851)
+### National Museum of Western Art (Tokyo)(35.7156, 139.7758)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741590725)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-10 07:11:45(UTC) [^1] 
+Update time: 2025-03-10 07:25:09(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
