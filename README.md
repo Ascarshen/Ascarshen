@@ -21,7 +21,7 @@
 <!-- START_SECTION:map -->
 ### Art Institute of Chicago(41.8796, -87.6237)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif)
+![temp](images/demo.gif?1741594427)
 <!--END:SETCTION:temp-->
 ![location](map.png)
 Update time: 2025-03-10 08:13:35(UTC) [^1] 
