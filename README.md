@@ -19,12 +19,12 @@
 
 ## 🏛️ Sanctuary of Intellect
 <!-- START_SECTION:map -->
-### National Museum of Cambodia(11.5678, 104.9312)
+### University of Malaya(3.1209, 101.6538)
 <!--START_SETCTION:temp-->
-![temp](images/demo.gif?1741582102)
+![temp](images/demo.gif)
 <!--END:SETCTION:temp-->
 ![location](map.png)
-Update time: 2025-03-10 04:48:14(UTC) [^1] 
+Update time: 2025-03-10 05:10:16(UTC) [^1] 
 <!-- END_SECTION:map -->
 [^1]: Map updates every 15 mins. Powered by *[Earth.Nullschool](https://earth.nullschool.net/about.html)*, *[OSMnx](https://geoffboeing.com/publications/osmnx-paper/)*.
 
