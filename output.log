@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: Museo de Bellas Artes (Valencia)(39.4789, -0.375), Category: art_galleries
-INFO:osmnx:Graph loaded: 696 nodes, 1167 edges
+INFO:osmnx:Trying: Museo de Arte Español Enrique Larreta(-34.5618, -58.4512), Category: art_galleries
+INFO:osmnx:Graph loaded: 421 nodes, 792 edges
 INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
-INFO:osmnx:Buildings found: 4284
-INFO:osmnx:Related features found: 4284
+INFO:osmnx:Buildings found: 459
+INFO:osmnx:Related features found: 461
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with Museo de Bellas Artes (Valencia)(39.4789, -0.375)
+INFO:osmnx:README updated with Museo de Arte Español Enrique Larreta(-34.5618, -58.4512)
