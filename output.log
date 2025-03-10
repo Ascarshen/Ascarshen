@@ -1,8 +1,8 @@
-INFO:osmnx:Trying: ETH Zurich(47.3769, 8.5481), Category: universities
-INFO:osmnx:Graph loaded: 587 nodes, 1245 edges
-INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
-INFO:osmnx:Buildings found: 4536
-INFO:osmnx:Related features found: 4562
+INFO:osmnx:Trying: Museo del Prado(40.4138, -3.6921), Category: museums
+INFO:osmnx:Graph loaded: 565 nodes, 925 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 3589
+INFO:osmnx:Related features found: 3603
 INFO:osmnx:Map generated successfully!
 INFO:osmnx:README content was successfully updated
-INFO:osmnx:README updated with ETH Zurich(47.3769, 8.5481)
+INFO:osmnx:README updated with Museo del Prado(40.4138, -3.6921)
