@@ -15,9 +15,9 @@
 ---
 ## 📜 Echoe of Thought 
 <!-- START_SECTION:daily_motto -->
-"我们总说我们是最能吃苦耐劳的民族，吃苦耐劳不光是挨饿吧？…...自封的优点会害死我们。"
+"凡有所相皆是虛妄，若見諸相非相，即見如來"
 
-<div align="right"> <我的团长我的团></div>
+<div align="right"> 《金剛經》</div>
 <!-- END_SECTION:daily_motto -->
 
 ---
