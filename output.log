@@ -1,0 +1,8 @@
+INFO:osmnx:Trying: National Museum of Finland(60.1749, 24.9355), Category: museums
+INFO:osmnx:Graph loaded: 427 nodes, 925 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 1336
+INFO:osmnx:Related features found: 1343
+INFO:osmnx:Map generated successfully!
+INFO:osmnx:README content was successfully updated
+INFO:osmnx:README updated with National Museum of Finland(60.1749, 24.9355)
