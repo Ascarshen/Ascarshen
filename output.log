@@ -1,0 +1,8 @@
+INFO:osmnx:Trying: Museum of Contemporary Art (Tokyo)(35.6902, 139.705), Category: museums
+INFO:osmnx:Graph loaded: 915 nodes, 2118 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 7955
+INFO:osmnx:Related features found: 7960
+INFO:osmnx:Map generated successfully!
+INFO:osmnx:README content was successfully updated
+INFO:osmnx:README updated with Museum of Contemporary Art (Tokyo)(35.6902, 139.705)
