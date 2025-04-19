@@ -1,0 +1,8 @@
+INFO:osmnx:Trying: National Museum of Korea(37.5239, 126.9751), Category: museums
+INFO:osmnx:Graph loaded: 231 nodes, 502 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 759
+INFO:osmnx:Related features found: 761
+INFO:osmnx:Map generated successfully!
+INFO:osmnx:README content was successfully updated
+INFO:osmnx:README updated with National Museum of Korea(37.5239, 126.9751)
