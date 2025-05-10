@@ -1,0 +1,8 @@
+INFO:osmnx:Trying: Art Gallery of Ontario(43.6536, -79.3925), Category: art_galleries
+INFO:osmnx:Graph loaded: 381 nodes, 907 edges
+INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
+INFO:osmnx:Buildings found: 2668
+INFO:osmnx:Related features found: 2670
+INFO:osmnx:Map generated successfully!
+INFO:osmnx:README content was successfully updated
+INFO:osmnx:README updated with Art Gallery of Ontario(43.6536, -79.3925)
