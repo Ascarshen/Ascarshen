@@ -1,0 +1,10 @@
+INFO:osmnx:Trying: Museo de Arte Precolombino (Cusco)(-13.5167, -71.978), Category: museums
+ERROR:osmnx:Failed to load graph: HTTPSConnectionPool(host='overpass-api.de', port=443): Max retries exceeded with url: /api/interpreter (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb08f14ee90>: Failed to establish a new connection: [Errno 111] Connection refused'))
+INFO:osmnx:Trying: Field Museum (Chicago)(41.8663, -87.617), Category: museums
+INFO:osmnx:Graph loaded: 161 nodes, 380 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 1134
+INFO:osmnx:Related features found: 1135
+INFO:osmnx:Map generated successfully!
+INFO:osmnx:README content was successfully updated
+INFO:osmnx:README updated with Field Museum (Chicago)(41.8663, -87.617)
