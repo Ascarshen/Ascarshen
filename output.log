@@ -1,0 +1,8 @@
+INFO:osmnx:Trying: Museo del Prado(40.4138, -3.6921), Category: museums
+INFO:osmnx:Graph loaded: 568 nodes, 927 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 3587
+INFO:osmnx:Related features found: 3601
+INFO:osmnx:Map generated successfully!
+INFO:osmnx:README content was successfully updated
+INFO:osmnx:README updated with Museo del Prado(40.4138, -3.6921)
