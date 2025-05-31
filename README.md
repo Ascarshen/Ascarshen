@@ -15,9 +15,9 @@
 ---
 ## 📜 Echoe of Thought 
 <!-- START_SECTION:daily_motto -->
-"If you’re thinking without writing, you only think you’re thinking."
+"By today's definition, y=mx+b is an artificial intelligence bot that can tell you where a line is going"
 
-<div align="right"> Leslie Lamport</div>
+<div align="right"> Amy Hoy</div>
 <!-- END_SECTION:daily_motto -->
 
 ---
