@@ -15,9 +15,9 @@
 ---
 ## 📜 Echoe of Thought 
 <!-- START_SECTION:daily_motto -->
-"To live is to risk it all. Otherwise, you're just an inert chunk of randomly assembled molecules drifting wherever the universe blows you."
+"凡有所相皆是虛妄，若見諸相非相，即見如來"
 
-<div align="right"> Rick Sanchez <Rick & Morty></div>
+<div align="right"> 《金剛經》</div>
 <!-- END_SECTION:daily_motto -->
 
 ---
