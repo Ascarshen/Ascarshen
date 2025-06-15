@@ -15,7 +15,7 @@
 ---
 ## 📜 Echoe of Thought 
 <!-- START_SECTION:daily_motto -->
-"Be kind, resourceful, beautiful, friendly, have initiative, have a sense of humour, tell right from wrong, make mistakes, fall in love, enjoy strawberries and cream, make someone fall in love with it, learn from experience, use words properly, be the subject of its own thought, have as much diversity of behaviour as a man, do something really new."
+"If a machine can think, it might think more intelligently than we do, and then where should we be？"
 
 <div align="right"> Alan Turing</div>
 <!-- END_SECTION:daily_motto -->
