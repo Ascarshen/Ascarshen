@@ -1,0 +1,8 @@
+INFO:osmnx:Trying: Shanghai Museum(31.2304, 121.47), Category: museums
+INFO:osmnx:Graph loaded: 482 nodes, 1026 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 1808
+INFO:osmnx:Related features found: 1813
+INFO:osmnx:Map generated successfully!
+INFO:osmnx:README content was successfully updated
+INFO:osmnx:README updated with Shanghai Museum(31.2304, 121.47)
