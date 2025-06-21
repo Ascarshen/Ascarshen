@@ -15,9 +15,9 @@
 ---
 ## 📜 Echoe of Thought 
 <!-- START_SECTION:daily_motto -->
-"Thinking is not the ability to manipulate language; it’s the ability to manipulate concepts."
+"Each 10x jump pushes knowledge/resources to logical limits, but a 100x jump disrupts all dimensions of your problem domain. Every two zeroes, your best-kept secrets-to-success become your stinkiest instincts. To move forward, forsake your favorite skills/tools/methods/talents. Exceed yourself; become a novice again, again and again."
 
-<div align="right"> Leslie Lamport</div>
+<div align="right"> Alex Komoroske</div>
 <!-- END_SECTION:daily_motto -->
 
 ---
