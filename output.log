@@ -1,0 +1,8 @@
+INFO:osmnx:Trying: The Metropolitan Museum of Art(40.7794, -73.9632), Category: museums
+INFO:osmnx:Graph loaded: 252 nodes, 490 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 3460
+INFO:osmnx:Related features found: 3466
+INFO:osmnx:Map generated successfully!
+INFO:osmnx:README content was successfully updated
+INFO:osmnx:README updated with The Metropolitan Museum of Art(40.7794, -73.9632)
