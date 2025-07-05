@@ -1,0 +1,8 @@
+INFO:osmnx:Trying: Museo de la Nación (Lima)(-12.087, -77.0018), Category: museums
+INFO:osmnx:Graph loaded: 678 nodes, 1448 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 1348
+INFO:osmnx:Related features found: 1349
+INFO:osmnx:Map generated successfully!
+INFO:osmnx:README content was successfully updated
+INFO:osmnx:README updated with Museo de la Nación (Lima)(-12.087, -77.0018)
