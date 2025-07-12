@@ -15,9 +15,9 @@
 ---
 ## 📜 Echoe of Thought 
 <!-- START_SECTION:daily_motto -->
-"我们总说我们是最能吃苦耐劳的民族，吃苦耐劳不光是挨饿吧？…...自封的优点会害死我们。"
+"By today's definition, y=mx+b is an artificial intelligence bot that can tell you where a line is going"
 
-<div align="right"> <我的团长我的团></div>
+<div align="right"> Amy Hoy</div>
 <!-- END_SECTION:daily_motto -->
 
 ---
