@@ -1,0 +1,8 @@
+INFO:osmnx:Trying: Cornell University(42.4534, -76.4735), Category: universities
+INFO:osmnx:Graph loaded: 118 nodes, 295 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 533
+INFO:osmnx:Related features found: 538
+INFO:osmnx:Map generated successfully!
+INFO:osmnx:README content was successfully updated
+INFO:osmnx:README updated with Cornell University(42.4534, -76.4735)
