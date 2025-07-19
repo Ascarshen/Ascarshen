@@ -15,9 +15,9 @@
 ---
 ## 📜 Echoe of Thought 
 <!-- START_SECTION:daily_motto -->
-"If a machine can think, it might think more intelligently than we do, and then where should we be？"
+"If you’re thinking without writing, you only think you’re thinking."
 
-<div align="right"> Alan Turing</div>
+<div align="right"> Leslie Lamport</div>
 <!-- END_SECTION:daily_motto -->
 
 ---
