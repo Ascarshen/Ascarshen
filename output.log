@@ -1,0 +1,8 @@
+INFO:osmnx:Trying: Art Gallery of New South Wales(-33.8688, 151.2173), Category: art_galleries
+INFO:osmnx:Graph loaded: 481 nodes, 983 edges
+INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
+INFO:osmnx:Buildings found: 2224
+INFO:osmnx:Related features found: 2237
+INFO:osmnx:Map generated successfully!
+INFO:osmnx:README content was successfully updated
+INFO:osmnx:README updated with Art Gallery of New South Wales(-33.8688, 151.2173)
