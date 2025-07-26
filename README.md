@@ -15,10 +15,10 @@
 ---
 ## 📜 Echoe of Thought 
 <!-- START_SECTION:daily_motto -->
+"Formal mathematics is nature's way of letting you know how sloppyyour mathematics is.
 "
-’不拉屎会憋死我们，不吃饭活七八天，不喝水活五六天，不睡觉活四五天，琐事养我们，也要我们的命。家国沦丧，我们倒已经活了六七年——我想让事情是它本来该有的那个样子。’"
 
-<div align="right"> <我的团长我的团></div>
+<div align="right"> Leslie Lamport</div>
 <!-- END_SECTION:daily_motto -->
 
 ---
