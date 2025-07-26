@@ -1,0 +1,8 @@
+INFO:osmnx:Trying: University of Heidelberg(49.4109, 8.7065), Category: universities
+INFO:osmnx:Graph loaded: 183 nodes, 349 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 2647
+INFO:osmnx:Related features found: 2651
+INFO:osmnx:Map generated successfully!
+INFO:osmnx:README content was successfully updated
+INFO:osmnx:README updated with University of Heidelberg(49.4109, 8.7065)
