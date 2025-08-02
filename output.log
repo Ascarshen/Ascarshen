@@ -1,0 +1,8 @@
+INFO:osmnx:Trying: Reina Sofia Museum(40.408, -3.6947), Category: art_galleries
+INFO:osmnx:Graph loaded: 608 nodes, 1035 edges
+INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
+INFO:osmnx:Buildings found: 3843
+INFO:osmnx:Related features found: 3848
+INFO:osmnx:Map generated successfully!
+INFO:osmnx:README content was successfully updated
+INFO:osmnx:README updated with Reina Sofia Museum(40.408, -3.6947)
