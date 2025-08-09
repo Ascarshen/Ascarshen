@@ -15,9 +15,9 @@
 ---
 ## 📜 Echoe of Thought 
 <!-- START_SECTION:daily_motto -->
-"Those who fall in love with practice without science are like a helmsman sailing without rudder nor compass, who is never sure about where he is going."
+"Each 10x jump pushes knowledge/resources to logical limits, but a 100x jump disrupts all dimensions of your problem domain. Every two zeroes, your best-kept secrets-to-success become your stinkiest instincts. To move forward, forsake your favorite skills/tools/methods/talents. Exceed yourself; become a novice again, again and again."
 
-<div align="right"> Leonardo da Vinci</div>
+<div align="right"> Alex Komoroske</div>
 <!-- END_SECTION:daily_motto -->
 
 ---
