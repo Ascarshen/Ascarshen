@@ -1,0 +1,8 @@
+INFO:osmnx:Trying: National Museum of Anthropology (Philippines)(14.5846, 120.9759), Category: museums
+INFO:osmnx:Graph loaded: 289 nodes, 592 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 1707
+INFO:osmnx:Related features found: 1712
+INFO:osmnx:Map generated successfully!
+INFO:osmnx:README content was successfully updated
+INFO:osmnx:README updated with National Museum of Anthropology (Philippines)(14.5846, 120.9759)
