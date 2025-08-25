@@ -1,0 +1,8 @@
+INFO:osmnx:Trying: National Museum of Afghanistan(34.4678, 69.12), Category: museums
+INFO:osmnx:Graph loaded: 293 nodes, 636 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 3516
+INFO:osmnx:Related features found: 3517
+INFO:osmnx:Map generated successfully!
+INFO:osmnx:README content was successfully updated
+INFO:osmnx:README updated with National Museum of Afghanistan(34.4678, 69.12)
