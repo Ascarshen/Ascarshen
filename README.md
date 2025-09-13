@@ -15,9 +15,9 @@
 ---
 ## 📜 Echoe of Thought 
 <!-- START_SECTION:daily_motto -->
-""Everyone thinks their dream job will be smooth sailing. But let's face it: EVERY job has shitstorms. Thing is, in the jobs you love the shitstorm is part of the 'fun and excitement' of that dream job.”"
+"Thinking is not the ability to manipulate language; it’s the ability to manipulate concepts."
 
-<div align="right"> Po Bronson</div>
+<div align="right"> Leslie Lamport</div>
 <!-- END_SECTION:daily_motto -->
 
 ---
