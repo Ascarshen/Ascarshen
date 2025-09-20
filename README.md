@@ -15,9 +15,9 @@
 ---
 ## 📜 Echoe of Thought 
 <!-- START_SECTION:daily_motto -->
-"By today's definition, y=mx+b is an artificial intelligence bot that can tell you where a line is going"
+"Those who fall in love with practice without science are like a helmsman sailing without rudder nor compass, who is never sure about where he is going."
 
-<div align="right"> Amy Hoy</div>
+<div align="right"> Leonardo da Vinci</div>
 <!-- END_SECTION:daily_motto -->
 
 ---
