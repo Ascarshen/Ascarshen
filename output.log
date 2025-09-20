@@ -1,0 +1,8 @@
+INFO:osmnx:Trying: University of Geneva(46.199, 6.1443), Category: universities
+INFO:osmnx:Graph loaded: 788 nodes, 1613 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 4422
+INFO:osmnx:Related features found: 4456
+INFO:osmnx:Map generated successfully!
+INFO:osmnx:README content was successfully updated
+INFO:osmnx:README updated with University of Geneva(46.199, 6.1443)
