@@ -15,9 +15,9 @@
 ---
 ## 📜 Echoe of Thought 
 <!-- START_SECTION:daily_motto -->
-"Be kind, resourceful, beautiful, friendly, have initiative, have a sense of humour, tell right from wrong, make mistakes, fall in love, enjoy strawberries and cream, make someone fall in love with it, learn from experience, use words properly, be the subject of its own thought, have as much diversity of behaviour as a man, do something really new."
+"我们总说我们是最能吃苦耐劳的民族，吃苦耐劳不光是挨饿吧？…...自封的优点会害死我们。"
 
-<div align="right"> Alan Turing</div>
+<div align="right"> <我的团长我的团></div>
 <!-- END_SECTION:daily_motto -->
 
 ---
