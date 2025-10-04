@@ -1,0 +1,8 @@
+INFO:osmnx:Trying: Smithsonian American Art Museum(38.8977, -77.023), Category: museums
+INFO:osmnx:Graph loaded: 419 nodes, 1052 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 1438
+INFO:osmnx:Related features found: 1450
+INFO:osmnx:Map generated successfully!
+INFO:osmnx:README content was successfully updated
+INFO:osmnx:README updated with Smithsonian American Art Museum(38.8977, -77.023)
