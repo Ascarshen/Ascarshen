@@ -15,9 +15,9 @@
 ---
 ## 📜 Echoe of Thought 
 <!-- START_SECTION:daily_motto -->
-"Night gathers, and now my watch begins. It shall not end until my death. I shall take no wife, hold no lands, father no children. I shall wear no crowns and win no glory. I shall live and die at my post. I am the sword in the darkness. I am the watcher on the walls. I am the fire that burns against cold, the light that brings the dawn, the horn that wakes the sleepers, the shield that guards the realms of men. I pledge my life and honor to the Night's Watch, for this night and all the nights to come."
+"I’m a scientist; because I invent, transform, create, and destroy for a living, and when I don’t like something about the world, I change it."
 
-<div align="right"> 《Game of Thrones:》- The Night's Watch Oath</div>
+<div align="right"> Rick Sanchez <Rick & Morty></div>
 <!-- END_SECTION:daily_motto -->
 
 ---
