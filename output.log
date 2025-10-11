@@ -1,0 +1,8 @@
+INFO:osmnx:Trying: Museu Nacional d'Art de Catalunya(41.3684, 2.1536), Category: art_galleries
+INFO:osmnx:Graph loaded: 436 nodes, 791 edges
+INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
+INFO:osmnx:Buildings found: 2909
+INFO:osmnx:Related features found: 2909
+INFO:osmnx:Map generated successfully!
+INFO:osmnx:README content was successfully updated
+INFO:osmnx:README updated with Museu Nacional d'Art de Catalunya(41.3684, 2.1536)
