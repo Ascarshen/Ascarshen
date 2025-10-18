@@ -1,0 +1,8 @@
+INFO:osmnx:Trying: Israel Museum(31.7725, 35.2046), Category: museums
+INFO:osmnx:Graph loaded: 524 nodes, 940 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 1651
+INFO:osmnx:Related features found: 1655
+INFO:osmnx:Map generated successfully!
+INFO:osmnx:README content was successfully updated
+INFO:osmnx:README updated with Israel Museum(31.7725, 35.2046)
