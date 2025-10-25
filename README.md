@@ -15,9 +15,9 @@
 ---
 ## 📜 Echoe of Thought 
 <!-- START_SECTION:daily_motto -->
-"I'm a scientist because I invent, transform, create, and destroy for a living. And when I don't like something about the world, I change it."
+"譬如磨镜，垢去明存。"
 
-<div align="right"> Rick Sanchez <Rick & Morty></div>
+<div align="right"> 《四十二章经· 十三·问道宿命》</div>
 <!-- END_SECTION:daily_motto -->
 
 ---
