@@ -1,0 +1,8 @@
+INFO:osmnx:Trying: University of Malaya(3.1209, 101.6538), Category: universities
+INFO:osmnx:Graph loaded: 203 nodes, 403 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 1420
+INFO:osmnx:Related features found: 1446
+INFO:osmnx:Map generated successfully!
+INFO:osmnx:README content was successfully updated
+INFO:osmnx:README updated with University of Malaya(3.1209, 101.6538)
