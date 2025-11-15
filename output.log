@@ -1,0 +1,8 @@
+INFO:osmnx:Trying: National Archaeological Museum (Athens)(37.989, 23.7328), Category: museums
+INFO:osmnx:Graph loaded: 1035 nodes, 1881 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 7356
+INFO:osmnx:Related features found: 7363
+INFO:osmnx:Map generated successfully!
+INFO:osmnx:README content was successfully updated
+INFO:osmnx:README updated with National Archaeological Museum (Athens)(37.989, 23.7328)
