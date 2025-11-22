@@ -1,0 +1,8 @@
+INFO:osmnx:Trying: University of Leeds(53.8067, -1.555), Category: universities
+INFO:osmnx:Graph loaded: 844 nodes, 1854 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 3664
+INFO:osmnx:Related features found: 3675
+INFO:osmnx:Map generated successfully!
+INFO:osmnx:README content was successfully updated
+INFO:osmnx:README updated with University of Leeds(53.8067, -1.555)
