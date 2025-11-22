@@ -15,9 +15,9 @@
 ---
 ## 📜 Echoe of Thought 
 <!-- START_SECTION:daily_motto -->
-""Everyone thinks their dream job will be smooth sailing. But let's face it: EVERY job has shitstorms. Thing is, in the jobs you love the shitstorm is part of the 'fun and excitement' of that dream job.”"
+"Those who fall in love with practice without science are like a helmsman sailing without rudder nor compass, who is never sure about where he is going."
 
-<div align="right"> Po Bronson</div>
+<div align="right"> Leonardo da Vinci</div>
 <!-- END_SECTION:daily_motto -->
 
 ---
