@@ -1,0 +1,8 @@
+INFO:osmnx:Trying: University of Munich (LMU)(48.1508, 11.5802), Category: universities
+INFO:osmnx:Graph loaded: 309 nodes, 720 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 3067
+INFO:osmnx:Related features found: 3112
+INFO:osmnx:Map generated successfully!
+INFO:osmnx:README content was successfully updated
+INFO:osmnx:README updated with University of Munich (LMU)(48.1508, 11.5802)
