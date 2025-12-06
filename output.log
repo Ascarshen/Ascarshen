@@ -1,0 +1,8 @@
+INFO:osmnx:Trying: University of Cambridge(52.2043, 0.1149), Category: universities
+INFO:osmnx:Graph loaded: 276 nodes, 596 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 2744
+INFO:osmnx:Related features found: 2819
+INFO:osmnx:Map generated successfully!
+INFO:osmnx:README content was successfully updated
+INFO:osmnx:README updated with University of Cambridge(52.2043, 0.1149)
