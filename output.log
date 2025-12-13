@@ -1,0 +1,8 @@
+INFO:osmnx:Trying: ETH Zurich(47.3769, 8.5481), Category: universities
+INFO:osmnx:Graph loaded: 586 nodes, 1244 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 4559
+INFO:osmnx:Related features found: 4583
+INFO:osmnx:Map generated successfully!
+INFO:osmnx:README content was successfully updated
+INFO:osmnx:README updated with ETH Zurich(47.3769, 8.5481)
