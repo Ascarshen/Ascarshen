@@ -15,9 +15,9 @@
 ---
 ## 📜 Echoe of Thought 
 <!-- START_SECTION:daily_motto -->
-"To live is to risk it all. Otherwise, you're just an inert chunk of randomly assembled molecules drifting wherever the universe blows you."
+"譬如磨镜，垢去明存。"
 
-<div align="right"> Rick Sanchez <Rick & Morty></div>
+<div align="right"> 《四十二章经· 十三·问道宿命》</div>
 <!-- END_SECTION:daily_motto -->
 
 ---
