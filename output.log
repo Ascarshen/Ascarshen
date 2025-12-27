@@ -1,0 +1,8 @@
+INFO:osmnx:Trying: University of Sydney(-33.8886, 151.1873), Category: universities
+INFO:osmnx:Graph loaded: 547 nodes, 1297 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 2219
+INFO:osmnx:Related features found: 2227
+INFO:osmnx:Map generated successfully!
+INFO:osmnx:README content was successfully updated
+INFO:osmnx:README updated with University of Sydney(-33.8886, 151.1873)
