@@ -1,0 +1,8 @@
+INFO:osmnx:Trying: Museo de Arte Español Enrique Larreta(-34.5618, -58.4512), Category: art_galleries
+INFO:osmnx:Graph loaded: 421 nodes, 792 edges
+INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
+INFO:osmnx:Buildings found: 457
+INFO:osmnx:Related features found: 459
+INFO:osmnx:Map generated successfully!
+INFO:osmnx:README content was successfully updated
+INFO:osmnx:README updated with Museo de Arte Español Enrique Larreta(-34.5618, -58.4512)
