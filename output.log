@@ -1,0 +1,8 @@
+INFO:osmnx:Trying: Museo de Arte de Lima(-12.0602, -77.0375), Category: art_galleries
+INFO:osmnx:Graph loaded: 596 nodes, 1031 edges
+INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
+INFO:osmnx:Buildings found: 3154
+INFO:osmnx:Related features found: 3157
+INFO:osmnx:Map generated successfully!
+INFO:osmnx:README content was successfully updated
+INFO:osmnx:README updated with Museo de Arte de Lima(-12.0602, -77.0375)
