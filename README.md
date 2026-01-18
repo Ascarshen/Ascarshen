@@ -15,9 +15,9 @@
 ---
 ## 📜 Echoe of Thought 
 <!-- START_SECTION:daily_motto -->
-"Each 10x jump pushes knowledge/resources to logical limits, but a 100x jump disrupts all dimensions of your problem domain. Every two zeroes, your best-kept secrets-to-success become your stinkiest instincts. To move forward, forsake your favorite skills/tools/methods/talents. Exceed yourself; become a novice again, again and again."
+"一尘不染的事情是没有的，我们都在吸进灰尘，可不妨碍我们做得好一点啊。"
 
-<div align="right"> Alex Komoroske</div>
+<div align="right"> <我的团长我的团></div>
 <!-- END_SECTION:daily_motto -->
 
 ---
