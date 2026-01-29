@@ -15,9 +15,9 @@
 ---
 ## 📜 Echoe of Thought 
 <!-- START_SECTION:daily_motto -->
-"I’m a scientist; because I invent, transform, create, and destroy for a living, and when I don’t like something about the world, I change it."
+"Coding is to programming what typing is to writing, if you learn to program by learning to code, you essentially only know how to type"
 
-<div align="right"> Rick Sanchez <Rick & Morty></div>
+<div align="right"> Leslie Lamport</div>
 <!-- END_SECTION:daily_motto -->
 
 ---
