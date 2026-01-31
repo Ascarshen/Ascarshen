@@ -1,0 +1,10 @@
+INFO:osmnx:Trying: Peggy Guggenheim Collection(45.4308, 12.3311), Category: art_galleries
+ERROR:osmnx:Failed to load graph: Found no graph nodes within the requested polygon.
+INFO:osmnx:Trying: University of Geneva(46.199, 6.1443), Category: universities
+INFO:osmnx:Graph loaded: 774 nodes, 1581 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 4428
+INFO:osmnx:Related features found: 4462
+INFO:osmnx:Map generated successfully!
+INFO:osmnx:README content was successfully updated
+INFO:osmnx:README updated with University of Geneva(46.199, 6.1443)
