@@ -15,9 +15,10 @@
 ---
 ## 📜 Echoe of Thought 
 <!-- START_SECTION:daily_motto -->
-"Each 10x jump pushes knowledge/resources to logical limits, but a 100x jump disrupts all dimensions of your problem domain. Every two zeroes, your best-kept secrets-to-success become your stinkiest instincts. To move forward, forsake your favorite skills/tools/methods/talents. Exceed yourself; become a novice again, again and again."
+"Formal mathematics is nature's way of letting you know how sloppyyour mathematics is.
+"
 
-<div align="right"> Alex Komoroske</div>
+<div align="right"> Leslie Lamport</div>
 <!-- END_SECTION:daily_motto -->
 
 ---
