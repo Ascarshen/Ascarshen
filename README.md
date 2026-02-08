@@ -15,9 +15,9 @@
 ---
 ## 📜 Echoe of Thought 
 <!-- START_SECTION:daily_motto -->
-"凡有所相皆是虛妄，若見諸相非相，即見如來"
+"譬如磨镜，垢去明存。"
 
-<div align="right"> 《金剛經》</div>
+<div align="right"> 《四十二章经· 十三·问道宿命》</div>
 <!-- END_SECTION:daily_motto -->
 
 ---
