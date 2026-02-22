@@ -15,9 +15,9 @@
 ---
 ## 📜 Echoe of Thought 
 <!-- START_SECTION:daily_motto -->
-"願我來世。得菩提時。身如琉璃。內外明徹。淨無瑕穢。光明廣大。功德巍巍。身善安住。焰網莊嚴。過於日月。幽冥眾生。悉蒙開曉。隨意所趣。作諸事業。"
+"If you’re thinking without writing, you only think you’re thinking."
 
-<div align="right"> 第二大願 ·《藥師琉璃光如來本願功德經》</div>
+<div align="right"> Leslie Lamport</div>
 <!-- END_SECTION:daily_motto -->
 
 ---
