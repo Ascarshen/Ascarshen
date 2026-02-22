@@ -1,0 +1,8 @@
+INFO:osmnx:Trying: Smithsonian National Air and Space Museum(38.8882, -77.0199), Category: museums
+INFO:osmnx:Graph loaded: 385 nodes, 868 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 947
+INFO:osmnx:Related features found: 954
+INFO:osmnx:Map generated successfully!
+INFO:osmnx:README content was successfully updated
+INFO:osmnx:README updated with Smithsonian National Air and Space Museum(38.8882, -77.0199)
