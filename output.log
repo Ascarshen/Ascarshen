@@ -1,0 +1,8 @@
+INFO:osmnx:Trying: Museum of Fine Arts (Boston)(42.3394, -71.094), Category: art_galleries
+INFO:osmnx:Graph loaded: 469 nodes, 1016 edges
+INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
+INFO:osmnx:Buildings found: 2138
+INFO:osmnx:Related features found: 2141
+INFO:osmnx:Map generated successfully!
+INFO:osmnx:README content was successfully updated
+INFO:osmnx:README updated with Museum of Fine Arts (Boston)(42.3394, -71.094)
