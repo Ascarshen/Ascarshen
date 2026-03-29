@@ -1,0 +1,8 @@
+INFO:osmnx:Trying: University of Manchester(53.4668, -2.2339), Category: universities
+INFO:osmnx:Graph loaded: 786 nodes, 1763 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 3768
+INFO:osmnx:Related features found: 3775
+INFO:osmnx:Map generated successfully!
+INFO:osmnx:README content was successfully updated
+INFO:osmnx:README updated with University of Manchester(53.4668, -2.2339)
