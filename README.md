@@ -15,9 +15,9 @@
 ---
 ## 📜 Echoe of Thought 
 <!-- START_SECTION:daily_motto -->
-"凡有所相皆是虛妄，若見諸相非相，即見如來"
+""Everyone thinks their dream job will be smooth sailing. But let's face it: EVERY job has shitstorms. Thing is, in the jobs you love the shitstorm is part of the 'fun and excitement' of that dream job.”"
 
-<div align="right"> 《金剛經》</div>
+<div align="right"> Po Bronson</div>
 <!-- END_SECTION:daily_motto -->
 
 ---
