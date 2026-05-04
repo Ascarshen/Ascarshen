@@ -1,0 +1,8 @@
+INFO:osmnx:Trying: National Museum of Western Art (Tokyo)(35.7156, 139.7758), Category: museums
+INFO:osmnx:Graph loaded: 921 nodes, 2033 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 11760
+INFO:osmnx:Related features found: 11774
+INFO:osmnx:Map generated successfully!
+INFO:osmnx:README content was successfully updated
+INFO:osmnx:README updated with National Museum of Western Art (Tokyo)(35.7156, 139.7758)
