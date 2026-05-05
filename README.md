@@ -15,7 +15,8 @@
 ---
 ## 📜 Echoe of Thought 
 <!-- START_SECTION:daily_motto -->
-"Coding is to programming what typing is to writing, if you learn to program by learning to code, you essentially only know how to type"
+"Formal mathematics is nature's way of letting you know how sloppyyour mathematics is.
+"
 
 <div align="right"> Leslie Lamport</div>
 <!-- END_SECTION:daily_motto -->
