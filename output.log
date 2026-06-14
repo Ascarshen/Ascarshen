@@ -1,0 +1,8 @@
+INFO:osmnx:Trying: Museo de Bellas Artes de Bilbao(43.265, -2.9366), Category: art_galleries
+INFO:osmnx:Graph loaded: 558 nodes, 1004 edges
+INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
+INFO:osmnx:Buildings found: 1332
+INFO:osmnx:Related features found: 1334
+INFO:osmnx:Map generated successfully!
+INFO:osmnx:README content was successfully updated
+INFO:osmnx:README updated with Museo de Bellas Artes de Bilbao(43.265, -2.9366)
