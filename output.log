@@ -1,0 +1,8 @@
+INFO:osmnx:Trying: Museum of South Australia(-34.9205, 138.6033), Category: museums
+INFO:osmnx:Graph loaded: 388 nodes, 821 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 1523
+INFO:osmnx:Related features found: 1528
+INFO:osmnx:Map generated successfully!
+INFO:osmnx:README content was successfully updated
+INFO:osmnx:README updated with Museum of South Australia(-34.9205, 138.6033)
