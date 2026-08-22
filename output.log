@@ -1,0 +1,8 @@
+INFO:osmnx:Trying: University of Glasgow(55.8721, -4.2892), Category: universities
+INFO:osmnx:Graph loaded: 582 nodes, 1249 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 3475
+INFO:osmnx:Related features found: 3478
+INFO:osmnx:Map generated successfully!
+INFO:osmnx:README content was successfully updated
+INFO:osmnx:README updated with University of Glasgow(55.8721, -4.2892)
