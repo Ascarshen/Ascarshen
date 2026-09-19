@@ -1,0 +1,19 @@
+INFO:osmnx:Trying: National Museum of Western Art (Tokyo)(35.7156, 139.7758), Category: museums
+INFO:osmnx:Graph loaded: 939 nodes, 2067 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 11760
+ERROR:osmnx:Failed to load related features: HTTPSConnectionPool(host='overpass-api.de', port=443): Max retries exceeded with url: /api/interpreter (Caused by ConnectTimeoutError(<HTTPSConnection(host='overpass-api.de', port=443) at 0x7fa18636ee10>, 'Connection to overpass-api.de timed out. (connect timeout=180)'))
+INFO:osmnx:Trying: Hermitage Museum (Amsterdam Branch)(52.3651, 4.9028), Category: museums
+INFO:osmnx:Graph loaded: 659 nodes, 1328 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+ERROR:osmnx:Failed to load buildings: HTTPSConnectionPool(host='overpass-api.de', port=443): Max retries exceeded with url: /api/interpreter (Caused by ConnectTimeoutError(<HTTPSConnection(host='overpass-api.de', port=443) at 0x7fa18431ab90>, 'Connection to overpass-api.de timed out. (connect timeout=180)'))
+INFO:osmnx:Trying: University of Sydney(-33.8886, 151.1873), Category: universities
+ERROR:osmnx:Failed to load graph: HTTPSConnectionPool(host='overpass-api.de', port=443): Max retries exceeded with url: /api/interpreter (Caused by ConnectTimeoutError(<HTTPSConnection(host='overpass-api.de', port=443) at 0x7fa1842fc810>, 'Connection to overpass-api.de timed out. (connect timeout=180)'))
+INFO:osmnx:Trying: National Gallery of Victoria(-37.8226, 144.9689), Category: art_galleries
+INFO:osmnx:Graph loaded: 594 nodes, 1115 edges
+INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
+INFO:osmnx:Buildings found: 1320
+INFO:osmnx:Related features found: 1328
+INFO:osmnx:Map generated successfully!
+INFO:osmnx:README content was successfully updated
+INFO:osmnx:README updated with National Gallery of Victoria(-37.8226, 144.9689)
