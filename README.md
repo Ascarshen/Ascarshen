@@ -15,9 +15,9 @@
 ---
 ## 📜 Echoe of Thought 
 <!-- START_SECTION:daily_motto -->
-"Those who fall in love with practice without science are like a helmsman sailing without rudder nor compass, who is never sure about where he is going."
+"譬如磨镜，垢去明存。"
 
-<div align="right"> Leonardo da Vinci</div>
+<div align="right"> 《四十二章经· 十三·问道宿命》</div>
 <!-- END_SECTION:daily_motto -->
 
 ---
