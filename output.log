@@ -1,0 +1,8 @@
+INFO:osmnx:Trying: University of Toronto(43.6629, -79.3957), Category: universities
+INFO:osmnx:Graph loaded: 318 nodes, 786 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 3228
+INFO:osmnx:Related features found: 3259
+INFO:osmnx:Map generated successfully!
+INFO:osmnx:README content was successfully updated
+INFO:osmnx:README updated with University of Toronto(43.6629, -79.3957)
