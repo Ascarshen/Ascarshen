@@ -1,0 +1,45 @@
+name: Update Motto
+
+on:
+  workflow_run:
+    workflows: ["Update Map README"]
+    types:
+      - completed
+  workflow_dispatch:
+
+jobs:
+  update-motto-job:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.11'
+
+    - name: Install dependencies
+      run: |
+        pip install --upgrade pip
+        pip install requests beautifulsoup4
+
+    - name: Update README
+      env:
+        NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
+      run: python updatemotto.py
+
+    - name: Commit changes
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git add README.md
+        git commit -m "chore: update daily motto" || echo "No changes to commit"
+        git pull --rebase
+
+    - name: Push changes
+      uses: ad-m/github-push-action@v0.6.0
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: master

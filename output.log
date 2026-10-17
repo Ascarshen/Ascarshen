@@ -1,0 +1,29 @@
+INFO:osmnx:Trying: Harvard University(42.377, -71.1167), Category: universities
+INFO:osmnx:Graph loaded: 604 nodes, 1264 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 3943
+ERROR:osmnx:Failed to load related features: 'overpass-api.de' responded: 502 Bad Gateway # 502 Gateway Timeout
+
+This Overpass API server is currently at capacity. All query workers are busy
+and the request queue is full.
+
+## What to do
+
+Retry your request using exponential backoff: wait a short interval, then retry.
+If the request fails again, double the wait time and retry again.
+
+## For heavy or automated use
+
+This public endpoint is intended for browser-based and human-operated tools.
+For automated or high-volume use, run a local Overpass API instance:
+
+https://github.com/b1tw153/Overpass-API/blob/main/README.md
+
+INFO:osmnx:Trying: Belvedere Museum(48.1915, 16.3808), Category: art_galleries
+INFO:osmnx:Graph loaded: 468 nodes, 906 edges
+INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
+INFO:osmnx:Buildings found: 2399
+INFO:osmnx:Related features found: 2403
+INFO:osmnx:Map generated successfully!
+INFO:osmnx:README content was successfully updated
+INFO:osmnx:README updated with Belvedere Museum(48.1915, 16.3808)
