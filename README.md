@@ -15,9 +15,9 @@
 ---
 ## 📜 Echoe of Thought 
 <!-- START_SECTION:daily_motto -->
-"凡有所相皆是虛妄，若見諸相非相，即見如來"
+"一尘不染的事情是没有的，我们都在吸进灰尘，可不妨碍我们做得好一点啊。"
 
-<div align="right"> 《金剛經》</div>
+<div align="right"> <我的团长我的团></div>
 <!-- END_SECTION:daily_motto -->
 
 ---
