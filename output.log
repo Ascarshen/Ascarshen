@@ -1,0 +1,28 @@
+INFO:osmnx:Trying: National Museum of Modern and Contemporary Art (Seoul)(37.579, 126.975), Category: art_galleries
+INFO:osmnx:Graph loaded: 255 nodes, 540 edges
+INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
+ERROR:osmnx:Failed to load buildings: 'overpass-api.de' responded: 502 Bad Gateway # 502 Gateway Timeout
+
+This Overpass API server is currently at capacity. All query workers are busy
+and the request queue is full.
+
+## What to do
+
+Retry your request using exponential backoff: wait a short interval, then retry.
+If the request fails again, double the wait time and retry again.
+
+## For heavy or automated use
+
+This public endpoint is intended for browser-based and human-operated tools.
+For automated or high-volume use, run a local Overpass API instance:
+
+https://github.com/b1tw153/Overpass-API/blob/main/README.md
+
+INFO:osmnx:Trying: Museum of the Revolution (Havana)(23.1416, -82.356), Category: museums
+INFO:osmnx:Graph loaded: 449 nodes, 871 edges
+INFO:osmnx:Related tags: {'tourism': 'museum', 'building': True}
+INFO:osmnx:Buildings found: 2911
+INFO:osmnx:Related features found: 2955
+INFO:osmnx:Map generated successfully!
+INFO:osmnx:README content was successfully updated
+INFO:osmnx:README updated with Museum of the Revolution (Havana)(23.1416, -82.356)
