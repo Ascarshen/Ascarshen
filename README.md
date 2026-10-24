@@ -15,9 +15,9 @@
 ---
 ## 📜 Echoe of Thought 
 <!-- START_SECTION:daily_motto -->
-"Coding is to programming what typing is to writing, if you learn to program by learning to code, you essentially only know how to type"
+"凡有所相皆是虛妄，若見諸相非相，即見如來"
 
-<div align="right"> Leslie Lamport</div>
+<div align="right"> 《金剛經》</div>
 <!-- END_SECTION:daily_motto -->
 
 ---
