@@ -1,0 +1,70 @@
+name: Update Map README
+
+on:
+  schedule:
+    - cron: '*/20 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-map:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1  
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      
+      - name: Install Chromium + Chromedriver
+        run: |
+          sudo apt-get update
+          sudo rm -f /usr/bin/google-chrome
+          sudo ln -s /usr/bin/chromium-browser /usr/bin/google-chrome
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install networkx osmnx matplotlib geopandas
+          pip install selenium pillow imageio
+
+      - name: Run update script and capture location
+        id: run-script
+        run: |
+          python updatemap.py > output.log 2>&1 || (cat output.log && exit 1)
+          LOCATION=$(grep "README updated with" output.log | tail -1 | awk '{print $NF}')
+          echo "LOCATION=$LOCATION" >> $GITHUB_ENV
+        continue-on-error: false
+
+      - name: Commit and push changes (overwrite previous commit)
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          
+          git add README.md map.png
+          
+         
+          git diff --cached --quiet || (git commit --amend --no-edit && git push --force)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Run updatetemp.py
+        run: |
+          python updatetemp.py
+
+      - name: Commit all changes after updatetemp (overwrite previous commit)
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          
+          git add .
+          git diff --cached --quiet || (git commit --amend --no-edit && git push --force)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
