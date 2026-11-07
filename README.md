@@ -15,9 +15,9 @@
 ---
 ## 📜 Echoe of Thought 
 <!-- START_SECTION:daily_motto -->
-"If a machine can think, it might think more intelligently than we do, and then where should we be？"
+"一尘不染的事情是没有的，我们都在吸进灰尘，可不妨碍我们做得好一点啊。"
 
-<div align="right"> Alan Turing</div>
+<div align="right"> <我的团长我的团></div>
 <!-- END_SECTION:daily_motto -->
 
 ---
