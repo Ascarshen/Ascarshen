@@ -1,0 +1,49 @@
+INFO:osmnx:Trying: National Gallery of Victoria(-37.8226, 144.9689), Category: art_galleries
+INFO:osmnx:Graph loaded: 594 nodes, 1115 edges
+INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
+INFO:osmnx:Buildings found: 1321
+ERROR:osmnx:Failed to load related features: 'overpass-api.de' responded: 502 Bad Gateway # 502 Gateway Timeout
+
+This Overpass API server is currently at capacity. All query workers are busy
+and the request queue is full.
+
+## What to do
+
+Retry your request using exponential backoff: wait a short interval, then retry.
+If the request fails again, double the wait time and retry again.
+
+## For heavy or automated use
+
+This public endpoint is intended for browser-based and human-operated tools.
+For automated or high-volume use, run a local Overpass API instance:
+
+https://github.com/b1tw153/Overpass-API/blob/main/README.md
+
+INFO:osmnx:Trying: Museo de Bellas Artes de Bilbao(43.265, -2.9366), Category: art_galleries
+INFO:osmnx:Graph loaded: 563 nodes, 1012 edges
+INFO:osmnx:Related tags: {'tourism': 'gallery', 'building': True}
+ERROR:osmnx:Failed to load buildings: 'overpass-api.de' responded: 502 Bad Gateway # 502 Gateway Timeout
+
+This Overpass API server is currently at capacity. All query workers are busy
+and the request queue is full.
+
+## What to do
+
+Retry your request using exponential backoff: wait a short interval, then retry.
+If the request fails again, double the wait time and retry again.
+
+## For heavy or automated use
+
+This public endpoint is intended for browser-based and human-operated tools.
+For automated or high-volume use, run a local Overpass API instance:
+
+https://github.com/b1tw153/Overpass-API/blob/main/README.md
+
+INFO:osmnx:Trying: Imperial College London(51.4988, -0.1749), Category: universities
+INFO:osmnx:Graph loaded: 624 nodes, 1444 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 4564
+INFO:osmnx:Related features found: 4572
+INFO:osmnx:Map generated successfully!
+INFO:osmnx:README content was successfully updated
+INFO:osmnx:README updated with Imperial College London(51.4988, -0.1749)
