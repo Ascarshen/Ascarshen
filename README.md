@@ -15,9 +15,9 @@
 ---
 ## 📜 Echoe of Thought 
 <!-- START_SECTION:daily_motto -->
-"If you’re thinking without writing, you only think you’re thinking."
+"凡有所相皆是虛妄，若見諸相非相，即見如來"
 
-<div align="right"> Leslie Lamport</div>
+<div align="right"> 《金剛經》</div>
 <!-- END_SECTION:daily_motto -->
 
 ---
