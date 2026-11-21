@@ -1,0 +1,120 @@
+INFO:osmnx:Trying: Pergamon Museum(52.521, 13.3965), Category: museums
+ERROR:osmnx:Failed to load graph: 'overpass-api.de' responded: 502 Bad Gateway # 502 Gateway Timeout
+
+This Overpass API server is currently at capacity. All query workers are busy
+and the request queue is full.
+
+## What to do
+
+Retry your request using exponential backoff: wait a short interval, then retry.
+If the request fails again, double the wait time and retry again.
+
+## For heavy or automated use
+
+This public endpoint is intended for browser-based and human-operated tools.
+For automated or high-volume use, run a local Overpass API instance:
+
+https://github.com/b1tw153/Overpass-API/blob/main/README.md
+
+INFO:osmnx:Trying: ETH Zurich(47.3769, 8.5481), Category: universities
+ERROR:osmnx:Failed to load graph: 'overpass-api.de' responded: 502 Bad Gateway # 502 Gateway Timeout
+
+This Overpass API server is currently at capacity. All query workers are busy
+and the request queue is full.
+
+## What to do
+
+Retry your request using exponential backoff: wait a short interval, then retry.
+If the request fails again, double the wait time and retry again.
+
+## For heavy or automated use
+
+This public endpoint is intended for browser-based and human-operated tools.
+For automated or high-volume use, run a local Overpass API instance:
+
+https://github.com/b1tw153/Overpass-API/blob/main/README.md
+
+INFO:osmnx:Trying: McGill University(45.5048, -73.5772), Category: universities
+INFO:osmnx:Graph loaded: 314 nodes, 639 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+ERROR:osmnx:Failed to load buildings: 'overpass-api.de' responded: 502 Bad Gateway # 502 Gateway Timeout
+
+This Overpass API server is currently at capacity. All query workers are busy
+and the request queue is full.
+
+## What to do
+
+Retry your request using exponential backoff: wait a short interval, then retry.
+If the request fails again, double the wait time and retry again.
+
+## For heavy or automated use
+
+This public endpoint is intended for browser-based and human-operated tools.
+For automated or high-volume use, run a local Overpass API instance:
+
+https://github.com/b1tw153/Overpass-API/blob/main/README.md
+
+INFO:osmnx:Trying: University of Cambridge(52.2043, 0.1149), Category: universities
+ERROR:osmnx:Failed to load graph: 'overpass-api.de' responded: 502 Bad Gateway # 502 Gateway Timeout
+
+This Overpass API server is currently at capacity. All query workers are busy
+and the request queue is full.
+
+## What to do
+
+Retry your request using exponential backoff: wait a short interval, then retry.
+If the request fails again, double the wait time and retry again.
+
+## For heavy or automated use
+
+This public endpoint is intended for browser-based and human-operated tools.
+For automated or high-volume use, run a local Overpass API instance:
+
+https://github.com/b1tw153/Overpass-API/blob/main/README.md
+
+INFO:osmnx:Trying: ETH Zurich(47.3769, 8.5481), Category: universities
+INFO:osmnx:Graph loaded: 589 nodes, 1246 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+ERROR:osmnx:Failed to load buildings: 'overpass-api.de' responded: 502 Bad Gateway # 502 Gateway Timeout
+
+This Overpass API server is currently at capacity. All query workers are busy
+and the request queue is full.
+
+## What to do
+
+Retry your request using exponential backoff: wait a short interval, then retry.
+If the request fails again, double the wait time and retry again.
+
+## For heavy or automated use
+
+This public endpoint is intended for browser-based and human-operated tools.
+For automated or high-volume use, run a local Overpass API instance:
+
+https://github.com/b1tw153/Overpass-API/blob/main/README.md
+
+INFO:osmnx:Trying: Tretyakov Gallery(55.7415, 37.6208), Category: art_galleries
+ERROR:osmnx:Failed to load graph: 'overpass-api.de' responded: 502 Bad Gateway # 502 Gateway Timeout
+
+This Overpass API server is currently at capacity. All query workers are busy
+and the request queue is full.
+
+## What to do
+
+Retry your request using exponential backoff: wait a short interval, then retry.
+If the request fails again, double the wait time and retry again.
+
+## For heavy or automated use
+
+This public endpoint is intended for browser-based and human-operated tools.
+For automated or high-volume use, run a local Overpass API instance:
+
+https://github.com/b1tw153/Overpass-API/blob/main/README.md
+
+INFO:osmnx:Trying: University of Edinburgh(55.9474, -3.1872), Category: universities
+INFO:osmnx:Graph loaded: 447 nodes, 968 edges
+INFO:osmnx:Related tags: {'amenity': ['library', 'university'], 'building': True}
+INFO:osmnx:Buildings found: 3553
+INFO:osmnx:Related features found: 3575
+INFO:osmnx:Map generated successfully!
+INFO:osmnx:README content was successfully updated
+INFO:osmnx:README updated with University of Edinburgh(55.9474, -3.1872)
