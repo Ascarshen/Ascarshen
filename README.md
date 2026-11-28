@@ -15,9 +15,9 @@
 ---
 ## 📜 Echoe of Thought 
 <!-- START_SECTION:daily_motto -->
-"Thinking is not the ability to manipulate language; it’s the ability to manipulate concepts."
+"我们总说我们是最能吃苦耐劳的民族，吃苦耐劳不光是挨饿吧？…...自封的优点会害死我们。"
 
-<div align="right"> Leslie Lamport</div>
+<div align="right"> <我的团长我的团></div>
 <!-- END_SECTION:daily_motto -->
 
 ---
